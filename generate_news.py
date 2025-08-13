@@ -1,5 +1,5 @@
 import feedparser
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 import time
 from bs4 import BeautifulSoup
 import re
@@ -248,7 +248,10 @@ def fetch_articles():
     source_article_count = defaultdict(int)
     
     # Fetch more articles per source to increase variety
-    articles_per_source = 20
+    articles_per_source = 30
+    
+    # Only include articles from the last 48 hours
+    cutoff_date = datetime.now(timezone.utc) - timedelta(hours=48)
     
     for feed_url, clean_source_name in RSS_FEEDS.items():
         try:
@@ -264,6 +267,14 @@ def fetch_articles():
                 if entries_processed >= articles_per_source:
                     break
                     
+                # Parse publication date
+                pub_date = parse_date(entry.get('published', ''))
+                
+                # Skip articles older than 48 hours
+                if pub_date < cutoff_date:
+                    print(f"Skipping old article: {entry.title}")
+                    continue
+                
                 # Check if article should be filtered out
                 if should_filter_article(entry.title, entry.get('summary', '')):
                     print(f"Filtered out article: {entry.title}")
@@ -282,9 +293,6 @@ def fetch_articles():
                 else:
                     summary = ''
 
-                # Parse publication date
-                pub_date = parse_date(entry.get('published', ''))
-                
                 articles.append({
                     'title': entry.title,
                     'link': entry.link,
