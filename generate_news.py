@@ -326,17 +326,20 @@ def generate_news_json():
     # Fetch articles
     articles = fetch_articles()
     
-    # Remove the pub_date field as it's only for sorting
-    for article in articles:
-        if 'pub_date' in article:
-            del article['pub_date']
-    
-    # Create the data structure
+    # Create the data structure with articles sorted by publication date
     news_data = {
-        'articles': articles,
+        'articles': [],
         'lastUpdated': datetime.now().isoformat(),
         'totalArticles': len(articles)
     }
+    
+    # Add articles to the data structure (they're already sorted)
+    for article in articles:
+        # Create a copy without the pub_date field
+        article_copy = article.copy()
+        if 'pub_date' in article_copy:
+            del article_copy['pub_date']
+        news_data['articles'].append(article_copy)
     
     # Save to JSON file
     with open('news.json', 'w', encoding='utf-8') as f:
