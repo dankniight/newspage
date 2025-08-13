@@ -21,6 +21,23 @@ RSS_FEEDS = {
 # Sources that typically don't include images in their feeds and need article page fetching
 SOURCES_REQUIRING_PAGE_FETCH = {'TechCrunch', 'The Register'}
 
+# Phrases to filter out from article titles and summaries
+FILTERED_PHRASES = [
+    'advertisement',
+    'sponsored',
+    'promo',
+    'deal',
+    'offer',
+    'discount',
+    'sale',
+    'buy now',
+    'shop now',
+    'limited time',
+    'free trial',
+    'sign up',
+    'subscribe'
+]
+
 def init_db():
     print("Initializing database...")
     conn = sqlite3.connect('news.db')
@@ -258,6 +275,14 @@ def extract_images_from_entry(entry, feed_url, source):
         
     return image_url
 
+def should_filter_article(title, summary):
+    """Check if an article should be filtered out based on its title or summary"""
+    text = (title + " " + summary).lower()
+    for phrase in FILTERED_PHRASES:
+        if phrase in text:
+            return True
+    return False
+
 def fetch_articles():
     articles = []
     for feed_url, clean_source_name in RSS_FEEDS.items():
@@ -269,6 +294,11 @@ def fetch_articles():
             source = clean_source_name
 
             for entry in feed.entries[:10]:  # Limit to 10 articles per feed
+                # Check if article should be filtered out
+                if should_filter_article(entry.title, entry.get('summary', '')):
+                    print(f"Filtered out article: {entry.title}")
+                    continue
+                
                 # Extract and validate image URL with improved methods
                 image_url = extract_images_from_entry(entry, feed_url, source)
                 
