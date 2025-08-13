@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dark Mode Test</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+        }
+    </script>
+</head>
+<body class="bg-gray-100 dark:bg-gray-900 min-h-screen">
+    <div class="container mx-auto p-8">
+        <h1 class="text-3xl font-bold text-gray-900 dark:text-white mb-6">Dark Mode Test</h1>
+        
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <!-- Test 1: Basic background and text -->
+            <div class="p-6 rounded-lg bg-white dark:bg-gray-800 shadow">
+                <h2 class="text-xl font-semibold text-gray-800 dark:text-gray-200 mb-3">Test 1: Basic Colors</h2>
+                <p class="text-gray-600 dark:text-gray-400">This should have:</p>
+                <ul class="mt-2 text-gray-700 dark:text-gray-300">
+                    <li class="mb-1">• Light background in light mode</li>
+                    <li class="mb-1">• Dark background in dark mode</li>
+                    <li class="mb-1">• Dark text in light mode</li>
+                    <li>• Light text in dark mode</li>
+                </ul>
+            </div>
+            
+            <!-- Test 2: Article card similar to main app -->
+            <div class="p-6 rounded-lg bg-white dark:bg-gray-800 shadow border border-gray-100 dark:border-gray-700">
+                <h2 class="text-xl font-semibold text-gray-800 dark:text-gray-200 mb-3">Test 2: Article Card</h2>
+                <p class="text-gray-600 dark:text-gray-400 mb-4">This mimics the article cards in the main app.</p>
+                <a href="#" class="text-gray-800 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-400 font-medium">
+                    Sample Article Title
+                </a>
+            </div>
+        </div>
+        
+        <!-- Toggle button -->
+        <div class="mt-8">
+            <button id="toggle-theme" class="px-4 py-2 bg-primary-600 text-white rounded-lg">
+                Toggle Theme
+            </button>
+        </div>
+    </div>
+
+    <script>
+        const toggleButton = document.getElementById('toggle-theme');
+        const htmlElement = document.documentElement;
+        
+        toggleButton.addEventListener('click', () => {
+            if (htmlElement.classList.contains('dark')) {
+                htmlElement.classList.remove('dark');
+                console.log('Switched to light mode');
+            } else {
+                htmlElement.classList.add('dark');
+                console.log('Switched to dark mode');
+            }
+        });
+    </script>
+</body>
+</html>

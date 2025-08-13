@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# IDE
+.idea/
+
+# Database files (you might want to comment this out if you want to track schema changes)
+*.db
+
+# OS generated files
+Thumbs.db
+.DS_Store
