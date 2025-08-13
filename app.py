@@ -51,7 +51,6 @@ def init_db():
     conn.close()
     print("Database initialized.")
 
-
 def remove_duplicates():
     """Remove any duplicate articles that may have slipped through"""
     print("Checking for duplicates...")
