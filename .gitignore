@@ -15,3 +15,6 @@ venv/
 # OS generated files
 Thumbs.db
 .DS_Store
+
+# Build directory
+build/
