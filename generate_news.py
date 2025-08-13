@@ -1,5 +1,4 @@
 import feedparser
-import sqlite3
 from datetime import datetime
 import time
 from bs4 import BeautifulSoup
@@ -37,68 +36,6 @@ FILTERED_PHRASES = [
     'sign up',
     'subscribe'
 ]
-
-def init_db():
-    print("Initializing database...")
-    conn = sqlite3.connect('news.db')
-    c = conn.cursor()
-    c.execute('''CREATE TABLE IF NOT EXISTS articles
-                 (id INTEGER PRIMARY KEY AUTOINCREMENT,
-                  title TEXT,
-                  link TEXT UNIQUE,
-                  published TEXT,
-                  summary TEXT,
-                  source TEXT,
-                  image_url TEXT,
-                  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP)''')
-    
-    # Create an index on the link column for faster duplicate checking
-    c.execute("CREATE INDEX IF NOT EXISTS idx_link ON articles(link)")
-    
-    conn.commit()
-    conn.close()
-    print("Database initialized.")
-
-def remove_duplicates():
-    """Remove any duplicate articles that may have slipped through"""
-    print("Checking for duplicates...")
-    conn = sqlite3.connect('news.db')
-    c = conn.cursor()
-    
-    # Count total articles before deduplication
-    c.execute("SELECT COUNT(*) FROM articles")
-    total_before = c.fetchone()[0]
-    
-    # Create a temporary table with unique articles (keeping the newest ones)
-    c.execute('''CREATE TEMPORARY TABLE articles_dedup AS
-                 SELECT * FROM articles
-                 WHERE ROWID IN (
-                     SELECT MAX(ROWID)
-                     FROM articles
-                     GROUP BY link
-                 )''')
-    
-    # Replace the original table with deduplicated data
-    c.execute("DELETE FROM articles")
-    c.execute('''INSERT INTO articles 
-                 (title, link, published, summary, source, image_url, created_at)
-                 SELECT title, link, published, summary, source, image_url, created_at
-                 FROM articles_dedup''')
-    
-    # Count total articles after deduplication
-    c.execute("SELECT COUNT(*) FROM articles")
-    total_after = c.fetchone()[0]
-    
-    conn.commit()
-    conn.close()
-    
-    duplicates_removed = total_before - total_after
-    if duplicates_removed > 0:
-        print(f"Removed {duplicates_removed} duplicate articles")
-    else:
-        print("No duplicates found")
-        
-    return duplicates_removed
 
 def extract_image_from_article_page(article_url, source):
     """Extract the main image from an article page for specific sources"""
@@ -326,47 +263,10 @@ def fetch_articles():
 
     return articles
 
-def save_articles(articles):
-    conn = sqlite3.connect('news.db')
-    c = conn.cursor()
-
-    saved_count = 0
-    duplicates_count = 0
-    
-    for article in articles:
-        try:
-            c.execute("""INSERT OR IGNORE INTO articles 
-                        (title, link, published, summary, source, image_url) 
-                        VALUES (?, ?, ?, ?, ?, ?)""",
-                      (article['title'], article['link'], article['published'],
-                       article['summary'], article['source'], article['image_url']))
-            if c.rowcount > 0:
-                saved_count += 1
-            else:
-                duplicates_count += 1
-        except Exception as e:
-            print(f"Error saving article '{article['title']}': {e}")
-
-    conn.commit()
-    conn.close()
-    
-    if duplicates_count > 0:
-        print(f"Skipped {duplicates_count} duplicate articles")
-        
-    return saved_count
-
-def update_articles():
-    print("Fetching new articles...")
-    init_db()
-    articles = fetch_articles()
-    saved = save_articles(articles)
-    print(f"Saved {saved} new articles")
-    return articles
-
 def generate_news_json():
     """Generate a JSON file with the latest news articles"""
     # Fetch articles
-    articles = update_articles()
+    articles = fetch_articles()
     
     # Create the data structure
     news_data = {
