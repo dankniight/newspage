@@ -19,5 +19,5 @@ Thumbs.db
 # Build directory
 build/
 
-# Exclude news.json from gitignore since we want to commit it
+# News JSON file (we want to commit this)
 !news.json

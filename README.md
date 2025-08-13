@@ -1,6 +1,6 @@
-# Simplified News Aggregator
+# Tech News Aggregator
 
-A minimal news aggregator that fetches tech news from multiple sources and displays them in a clean web interface, now deployed to GitHub Pages.
+A static tech news aggregator that fetches articles from multiple sources and displays them in a clean web interface, deployed to GitHub Pages.
 
 ## Features
 
@@ -8,15 +8,14 @@ A minimal news aggregator that fetches tech news from multiple sources and displ
 - Extracts article images when available
 - Clean, responsive web interface with dark mode support
 - Automatic updates every 30 minutes
-- Manual refresh option
 
 ## How It Works
 
-This is now a static site hosted on GitHub Pages:
+This is a static site hosted on GitHub Pages:
 
 1. A Python script (`generate_news.py`) fetches RSS feeds from tech news sites every 30 minutes via GitHub Actions
 2. The script generates a `news.json` file with the latest articles
-3. The static HTML file (`index.html`) fetches data from `news.json` and displays it with the same beautiful UI
+3. The static HTML file (`index.html`) fetches data from `news.json` and displays it with a beautiful UI
 
 ## Deployment to GitHub Pages
 

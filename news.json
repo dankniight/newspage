@@ -81,6 +81,14 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/257860_foldable_buying_guide_cvirginia2.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "title": "MS confidence in Windows 11: Pay us to host VMs for when your desktop inevitably dies",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2025/08/13/ms_confidence_in_windows_11/",
+      "published": "2025-08-13T12:15:10.00Z",
+      "summary": "Windows 365 Reserve offers 10-day cloud PCs when your machine goes kaput – but you'll still need another device to access them Microsoft is so confident in the reliability and security of its Windows 11 OS that it's now offering businesses the ability to quickly dump users onto temporary VMs in its ...",
+      "source": "The Register",
+      "image_url": "https://regmedia.co.uk/2024/11/29/shutterstock_confused_manager.jpg"
+    },
+    {
       "title": "UK expands police facial recognition rollout with 10 new vans heading to a town near you",
       "link": "https://go.theregister.com/feed/www.theregister.com/2025/08/13/uk_expands_police_facial_recognition/",
       "published": "2025-08-13T11:30:09.00Z",
@@ -151,14 +159,6 @@
       "summary": "First came the fireball, then a hole in the roof and a dent in the floor In late June media speculated that a meteor entering Earth’s atmosphere caused widespread sightings of a celestial fireball during daylight hours across the southeast USA. Scientists have now confirmed space rocks caused the ph...",
       "source": "The Register",
       "image_url": "https://regmedia.co.uk/2025/08/13/supplied_mcdonough_meteorite.jpg"
-    },
-    {
-      "title": "Epic Games has another win over Apple and Google, this time in Australia",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2025/08/13/australia_epic_google_apple_decision/",
-      "published": "2025-08-13T04:31:13.00Z",
-      "summary": "Federal Court finds Big Tech players abused their market power Australia’s Federal Court has given Epic Games another win in its global fight against the way Apple and Google run their app stores.…",
-      "source": "The Register",
-      "image_url": "https://regmedia.co.uk/2021/02/03/fighting_kangaroos_australia.jpg"
     },
     {
       "title": "Why I finally left Spotify",
@@ -401,6 +401,6 @@
       "image_url": "https://media.wired.com/photos/68911edf5cf36cc42819acb5/master/pass/pol_dhs_getty.jpg"
     }
   ],
-  "lastUpdated": "2025-08-13T13:10:57.761670",
+  "lastUpdated": "2025-08-13T13:25:54.088217",
   "totalArticles": 50
 }
