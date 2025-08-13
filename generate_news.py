@@ -308,6 +308,8 @@ def fetch_articles():
                 time.sleep(0.05)  # Be respectful to servers
         except Exception as e:
             print(f"Error fetching {feed_url}: {e}")
+            # Continue with other feeds even if one fails
+            continue
 
     # Sort articles by publication date (newest first)
     articles.sort(key=lambda x: x['pub_date'], reverse=True)
@@ -323,30 +325,34 @@ def fetch_articles():
 
 def generate_news_json():
     """Generate a JSON file with the latest news articles"""
-    # Fetch articles
-    articles = fetch_articles()
-    
-    # Create the data structure with articles sorted by publication date
-    news_data = {
-        'articles': [],
-        'lastUpdated': datetime.now().isoformat(),
-        'totalArticles': len(articles)
-    }
-    
-    # Add articles to the data structure (they're already sorted)
-    for article in articles:
-        # Create a copy without the pub_date field
-        article_copy = article.copy()
-        if 'pub_date' in article_copy:
-            del article_copy['pub_date']
-        news_data['articles'].append(article_copy)
-    
-    # Save to JSON file
-    with open('news.json', 'w', encoding='utf-8') as f:
-        json.dump(news_data, f, ensure_ascii=False, indent=2)
-    
-    print(f"Generated news.json with {len(articles)} articles")
-    return news_data
+    try:
+        # Fetch articles
+        articles = fetch_articles()
+        
+        # Create the data structure with articles sorted by publication date
+        news_data = {
+            'articles': [],
+            'lastUpdated': datetime.now().isoformat(),
+            'totalArticles': len(articles)
+        }
+        
+        # Add articles to the data structure (they're already sorted)
+        for article in articles:
+            # Create a copy without the pub_date field
+            article_copy = article.copy()
+            if 'pub_date' in article_copy:
+                del article_copy['pub_date']
+            news_data['articles'].append(article_copy)
+        
+        # Save to JSON file
+        with open('news.json', 'w', encoding='utf-8') as f:
+            json.dump(news_data, f, ensure_ascii=False, indent=2)
+        
+        print(f"Generated news.json with {len(articles)} articles")
+        return news_data
+    except Exception as e:
+        print(f"Error generating news.json: {e}")
+        raise
 
 if __name__ == '__main__':
     generate_news_json()
