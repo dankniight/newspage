@@ -1,5 +1,5 @@
 import feedparser
-from datetime import datetime
+from datetime import datetime, timezone
 import time
 from bs4 import BeautifulSoup
 import re
@@ -7,6 +7,7 @@ from urllib.parse import urljoin
 import requests
 import json
 import os
+from collections import defaultdict
 
 # Tech news RSS feeds with clean source names
 RSS_FEEDS = {
@@ -220,8 +221,35 @@ def should_filter_article(title, summary):
             return True
     return False
 
+def parse_date(date_str):
+    """Parse date string and return datetime object"""
+    if not date_str:
+        return datetime.now(timezone.utc)
+    
+    try:
+        # Try to parse with timezone info
+        dt = datetime.strptime(date_str, '%a, %d %b %Y %H:%M:%S %z')
+        return dt
+    except ValueError:
+        try:
+            dt = datetime.strptime(date_str, '%Y-%m-%dT%H:%M:%S%z')
+            return dt
+        except ValueError:
+            try:
+                dt = datetime.strptime(date_str, '%Y-%m-%d %H:%M:%S')
+                # Assume UTC if no timezone info
+                return dt.replace(tzinfo=timezone.utc)
+            except ValueError:
+                # If all else fails, use current time
+                return datetime.now(timezone.utc)
+
 def fetch_articles():
     articles = []
+    source_article_count = defaultdict(int)
+    
+    # Fetch more articles per source to increase variety
+    articles_per_source = 20
+    
     for feed_url, clean_source_name in RSS_FEEDS.items():
         try:
             print(f"Fetching from {clean_source_name}...")
@@ -230,7 +258,12 @@ def fetch_articles():
             # Use clean source name instead of feed title
             source = clean_source_name
 
-            for entry in feed.entries[:10]:  # Limit to 10 articles per feed
+            # Process all entries but limit per source
+            entries_processed = 0
+            for entry in feed.entries:
+                if entries_processed >= articles_per_source:
+                    break
+                    
                 # Check if article should be filtered out
                 if should_filter_article(entry.title, entry.get('summary', '')):
                     print(f"Filtered out article: {entry.title}")
@@ -249,24 +282,46 @@ def fetch_articles():
                 else:
                     summary = ''
 
+                # Parse publication date
+                pub_date = parse_date(entry.get('published', ''))
+                
                 articles.append({
                     'title': entry.title,
                     'link': entry.link,
-                    'published': entry.get('published', datetime.now().strftime('%Y-%m-%d %H:%M:%S')),
+                    'published': entry.get('published', datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S')),
+                    'pub_date': pub_date,  # For sorting
                     'summary': summary,
                     'source': source,  # Use clean source name
                     'image_url': image_url
                 })
-                time.sleep(0.1)  # Be respectful to servers
+                
+                entries_processed += 1
+                source_article_count[source] += 1
+                time.sleep(0.05)  # Be respectful to servers
         except Exception as e:
             print(f"Error fetching {feed_url}: {e}")
 
+    # Sort articles by publication date (newest first)
+    articles.sort(key=lambda x: x['pub_date'], reverse=True)
+    
+    # Limit to 50 articles total
+    articles = articles[:50]
+    
+    print(f"Total articles fetched: {len(articles)}")
+    for source, count in source_article_count.items():
+        print(f"  {source}: {count} articles")
+    
     return articles
 
 def generate_news_json():
     """Generate a JSON file with the latest news articles"""
     # Fetch articles
     articles = fetch_articles()
+    
+    # Remove the pub_date field as it's only for sorting
+    for article in articles:
+        if 'pub_date' in article:
+            del article['pub_date']
     
     # Create the data structure
     news_data = {
