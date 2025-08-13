@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Daily Compile</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        // Custom color palette using deep purple
+                        primary: {
+                            50: '#f6f1fd',
+                            100: '#ebe1fa',
+                            200: '#d6c3f2',
+                            300: '#b996e8',
+                            400: '#9c69dd',
+                            500: '#8a4fd6', /* Main deep purple color */
+                            600: '#7a42c9',
+                            700: '#6637a9',
+                            800: '#532d8a',
+                            900: '#442670',
+                        }
+                    },
+                    animation: {
+                        'fade-in': 'fadeIn 0.3s ease-in-out',
+                        'slide-up': 'slideUp 0.4s ease-out',
+                        'pulse-slow': 'pulse 3s cubic-bezier(0.4, 0, 0.6, 1) infinite'
+                    },
+                    keyframes: {
+                        fadeIn: {
+                            '0%': { opacity: '0', transform: 'translateY(10px)' },
+                            '100%': { opacity: '1', transform: 'translateY(0)' }
+                        },
+                        slideUp: {
+                            '0%': { transform: 'translateY(20px)', opacity: '0' },
+                            '100%': { transform: 'translateY(0)', opacity: '1' }
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+    <style type="text/tailwindcss">
+        @layer utilities {
+            .article-card {
+                @apply transition-all duration-300 ease-in-out hover:-translate-y-1 hover:shadow-xl;
+            }
+            .article-card a {
+                @apply text-inherit no-underline;
+            }
+            .btn-primary {
+                @apply bg-gradient-to-r from-primary-600 to-primary-800 hover:from-primary-700 hover:to-primary-900 text-white font-medium py-2 px-4 rounded-lg transition-all duration-200 ease-in-out transform hover:-translate-y-0.5 focus:ring-2 focus:ring-primary-500 focus:ring-opacity-50 shadow-md hover:shadow-lg;
+            }
+            .btn-secondary {
+                @apply bg-gradient-to-r from-primary-500 to-primary-700 hover:from-primary-600 hover:to-primary-800 text-white font-medium py-2 px-4 rounded-lg transition-all duration-200 ease-in-out transform hover:-translate-y-0.5 focus:ring-2 focus:ring-primary-500 focus:ring-opacity-50 shadow-md hover:shadow-lg;
+            }
+            .btn-outline {
+                @apply border border-gray-300 dark:border-gray-600 hover:border-gray-400 dark:hover:border-gray-500 text-gray-700 dark:text-gray-300 font-medium py-2 px-4 rounded-lg transition-all duration-200 ease-in-out hover:bg-gray-50 dark:hover:bg-gray-800 shadow-sm hover:shadow-md;
+            }
+            /* Dark mode specific styles */
+            .dark .btn-outline {
+                @apply border-gray-600 hover:border-gray-500 text-gray-300;
+            }
+            /* Toggle button styles */
+            .theme-toggle-container {
+                @apply fixed top-4 right-4 z-50;
+            }
+            .theme-toggle {
+                @apply flex items-center justify-center w-12 h-12 rounded-full bg-white dark:bg-gray-800 shadow-lg transition-all duration-300 ease-in-out;
+            }
+            .theme-toggle:hover {
+                @apply bg-gray-100 dark:bg-gray-700;
+            }
+            .theme-toggle .icon {
+                @apply text-primary-600 dark:text-primary-400 text-xl;
+            }
+            /* Animated gradient bar */
+            .animated-gradient {
+                background: linear-gradient(-45deg, #8a4fd6, #7a42c9, #6637a9, #532d8a, #442670);
+                background-size: 400% 400%;
+                animation: gradient 15s ease infinite;
+            }
+            @keyframes gradient {
+                0% {
+                    background-position: 0% 50%;
+                }
+                50% {
+                    background-position: 100% 50%;
+                }
+                100% {
+                    background-position: 0% 50%;
+                }
+            }
+            
+            /* Loading spinner */
+            .spinner {
+                border-top-color: #8a4fd6;
+                animation: spin 1s linear infinite;
+            }
+            @keyframes spin {
+                0% { transform: rotate(0deg); }
+                100% { transform: rotate(360deg); }
+            }
+        }
+    </style>
+</head>
+<body class="bg-gray-100 dark:bg-gray-900 min-h-screen text-gray-900 dark:text-gray-100">
+    <!-- Top Controls: Dark Mode Toggle -->
+    <div class="fixed top-4 right-4 z-50 flex items-center gap-2">
+        <!-- Dark Mode Toggle -->
+        <button id="theme-toggle" class="flex items-center justify-center w-12 h-12 rounded-full bg-white dark:bg-gray-800 shadow-lg transition-all duration-300 ease-in-out hover:bg-gray-100 dark:hover:bg-gray-700" aria-label="Toggle dark mode">
+            <i class="icon fas fa-sun text-primary-600 dark:text-primary-400 text-xl"></i>
+        </button>
+    </div>
+    
+    <div class="container mx-auto px-4 py-8 max-w-7xl">
+        <header class="mb-10 text-center">
+            <!-- Full-width animated gradient bar -->
+            <div class="w-full h-2 animated-gradient mb-8"></div>
+            
+            <div class="mb-8">
+                <!-- Logo Placeholder -->
+                <div class="flex justify-center mb-4">
+                    <!-- You can replace this with an actual logo image -->
+                    <div class="bg-gradient-to-br from-primary-600 to-primary-800 w-16 h-16 rounded-full flex items-center justify-center text-white text-2xl font-bold shadow-lg">
+                        <i class="fas fa-newspaper"></i>
+                    </div>
+                </div>
+                <h1 class="text-4xl md:text-6xl font-bold text-gray-900 dark:text-white mb-4 animate-fade-in">
+                    The Daily Compile
+                </h1>
+                <p class="text-gray-600 dark:text-gray-400 max-w-2xl mx-auto mb-6">Aggregated articles from various sources</p>
+                
+                <!-- Refresh Button -->
+                <div class="mb-6">
+                    <button id="refresh-btn" class="btn-primary inline-flex items-center">
+                        <i class="fas fa-sync-alt mr-2"></i> Refresh Articles
+                    </button>
+                </div>
+                
+                <!-- Source Links -->
+                <div class="flex flex-wrap justify-center gap-3 mt-6">
+                    <a href="https://www.theverge.com" target="_blank" rel="noopener" class="flex items-center justify-center w-12 h-12 rounded-full bg-white dark:bg-gray-800 shadow-lg transition-all duration-300 ease-in-out hover:bg-gray-100 dark:hover:bg-gray-700" aria-label="The Verge">
+                        <span class="text-primary-600 dark:text-primary-400 font-bold text-lg">V</span>
+                    </a>
+                    <a href="https://www.theregister.com" target="_blank" rel="noopener" class="flex items-center justify-center w-12 h-12 rounded-full bg-white dark:bg-gray-800 shadow-lg transition-all duration-300 ease-in-out hover:bg-gray-100 dark:hover:bg-gray-700" aria-label="The Register">
+                        <span class="text-primary-600 dark:text-primary-400 font-bold text-lg">R</span>
+                    </a>
+                    <a href="https://techcrunch.com" target="_blank" rel="noopener" class="flex items-center justify-center w-12 h-12 rounded-full bg-white dark:bg-gray-800 shadow-lg transition-all duration-300 ease-in-out hover:bg-gray-100 dark:hover:bg-gray-700" aria-label="TechCrunch">
+                        <span class="text-primary-600 dark:text-primary-400 font-bold text-lg">T</span>
+                    </a>
+                    <a href="https://arstechnica.com" target="_blank" rel="noopener" class="flex items-center justify-center w-12 h-12 rounded-full bg-white dark:bg-gray-800 shadow-lg transition-all duration-300 ease-in-out hover:bg-gray-100 dark:hover:bg-gray-700" aria-label="Ars Technica">
+                        <span class="text-primary-600 dark:text-primary-400 font-bold text-lg">A</span>
+                    </a>
+                    <a href="https://www.wired.com" target="_blank" rel="noopener" class="flex items-center justify-center w-12 h-12 rounded-full bg-white dark:bg-gray-800 shadow-lg transition-all duration-300 ease-in-out hover:bg-gray-100 dark:hover:bg-gray-700" aria-label="Wired">
+                        <span class="text-primary-600 dark:text-primary-400 font-bold text-lg">W</span>
+                    </a>
+                </div>
+            </div>
+        </header>
+
+        <!-- Loading indicator -->
+        <div id="loading" class="flex justify-center my-12 hidden">
+            <div class="spinner rounded-full h-12 w-12 border-4 border-gray-300 dark:border-gray-600 border-t-4"></div>
+        </div>
+
+        <!-- Error message -->
+        <div id="error-message" class="bg-red-100 dark:bg-red-900/30 border border-red-400 dark:border-red-700 text-red-700 dark:text-red-300 px-4 py-3 rounded-lg mb-6 hidden">
+            <p>Error loading news articles. Please try again later.</p>
+        </div>
+
+        <main>
+            <div id="articles-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 mb-12">
+                <!-- Articles will be loaded here -->
+            </div>
+        </main>
+
+        <nav id="pagination" class="flex flex-col sm:flex-row justify-between items-center gap-4 pagination bg-white dark:bg-gray-800 rounded-2xl shadow-md p-6 border border-gray-100 dark:border-gray-700 hidden">
+            <div class="text-gray-700 dark:text-gray-300 font-medium">
+                Page <span id="current-page" class="font-bold">1</span> of <span id="total-pages" class="font-bold">1</span>
+            </div>
+            
+            <div class="flex gap-2" id="pagination-buttons">
+                <!-- Pagination buttons will be added here -->
+            </div>
+        </nav>
+    </div>
+    
+    <footer class="py-8 text-center text-gray-500 dark:text-gray-400 text-sm border-t border-gray-200 dark:border-gray-800 mt-8">
+        <div class="container mx-auto px-4 max-w-7xl">
+            <p>Last updated: <span id="last-updated">Loading...</span></p>
+        </div>
+    </footer>
+
+    <script>
+        // Theme toggle functionality
+        const themeToggle = document.getElementById('theme-toggle');
+        const themeIcon = themeToggle.querySelector('.icon');
+        const htmlElement = document.documentElement;
+        
+        // Check for saved theme preference or respect OS setting
+        const savedTheme = localStorage.getItem('theme');
+        const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        const initialTheme = savedTheme || (prefersDark ? 'dark' : 'light');
+        
+        // Apply initial theme
+        htmlElement.classList.remove('light', 'dark');
+        htmlElement.classList.add(initialTheme);
+        updateThemeIcon(initialTheme);
+        
+        // Update theme icon based on current theme
+        function updateThemeIcon(theme) {
+            if (theme === 'dark') {
+                themeIcon.classList.remove('fa-sun');
+                themeIcon.classList.add('fa-moon');
+            } else {
+                themeIcon.classList.remove('fa-moon');
+                themeIcon.classList.add('fa-sun');
+            }
+        }
+        
+        // Toggle theme function
+        function toggleTheme() {
+            const currentTheme = htmlElement.classList.contains('dark') ? 'dark' : 'light';
+            const newTheme = currentTheme === 'light' ? 'dark' : 'light';
+
+            // Apply new theme
+            htmlElement.classList.remove('light', 'dark');
+            htmlElement.classList.add(newTheme);
+            
+            // Update icon
+            updateThemeIcon(newTheme);
+
+            // Save preference
+            localStorage.setItem('theme', newTheme);
+        }
+        
+        // Add event listener to toggle button
+        themeToggle.addEventListener('click', toggleTheme);
+
+        // News loading functionality
+        let allArticles = [];
+        let currentPage = 1;
+        const articlesPerPage = 20;
+
+        // Format date for display
+        function formatDate(dateString) {
+            const date = new Date(dateString);
+            return date.toLocaleDateString('en-US', {
+                year: 'numeric',
+                month: 'short',
+                day: 'numeric',
+                hour: '2-digit',
+                minute: '2-digit'
+            });
+        }
+
+        // Load news from JSON file
+        async function loadNews() {
+            const loadingElement = document.getElementById('loading');
+            const errorMessage = document.getElementById('error-message');
+            const articlesContainer = document.getElementById('articles-container');
+            
+            // Show loading indicator
+            loadingElement.classList.remove('hidden');
+            errorMessage.classList.add('hidden');
+            articlesContainer.innerHTML = '';
+            
+            try {
+                const response = await fetch('news.json');
+                if (!response.ok) {
+                    throw new Error(`Failed to load news: ${response.status}`);
+                }
+                
+                const data = await response.json();
+                allArticles = data.articles;
+                
+                // Update last updated time
+                document.getElementById('last-updated').textContent = formatDate(data.lastUpdated);
+                
+                // Render articles
+                renderArticles();
+                
+                // Hide loading indicator
+                loadingElement.classList.add('hidden');
+            } catch (error) {
+                console.error('Error loading news:', error);
+                loadingElement.classList.add('hidden');
+                errorMessage.classList.remove('hidden');
+            }
+        }
+
+        // Render articles for current page
+        function renderArticles() {
+            const articlesContainer = document.getElementById('articles-container');
+            const totalPages = Math.ceil(allArticles.length / articlesPerPage);
+            const startIndex = (currentPage - 1) * articlesPerPage;
+            const endIndex = Math.min(startIndex + articlesPerPage, allArticles.length);
+            const pageArticles = allArticles.slice(startIndex, endIndex);
+            
+            // Clear container
+            articlesContainer.innerHTML = '';
+            
+            if (pageArticles.length === 0) {
+                articlesContainer.innerHTML = `
+                <div class="col-span-full text-center py-16 no-articles bg-white dark:bg-gray-800 rounded-2xl shadow-md border border-gray-100 dark:border-gray-700">
+                    <i class="fas fa-newspaper text-5xl text-gray-300 dark:text-gray-400 mb-4"></i>
+                    <h3 class="text-2xl font-semibold text-gray-700 dark:text-gray-300 mb-2">No Articles Found</h3>
+                    <p class="text-gray-500 dark:text-gray-400 mb-6">Try refreshing</p>
+                </div>
+                `;
+                return;
+            }
+            
+            // Render articles
+            pageArticles.forEach(article => {
+                const articleElement = document.createElement('article');
+                articleElement.className = 'article-card bg-white dark:bg-gray-800 rounded-2xl shadow-md overflow-hidden flex flex-col h-full border border-gray-100 dark:border-gray-700';
+                articleElement.innerHTML = `
+                    <a href="${article.link}" target="_blank" rel="noopener" class="flex flex-col h-full">
+                        ${article.image_url ? 
+                            `<div class="relative overflow-hidden h-48">
+                                <img 
+                                    src="${article.image_url}" 
+                                    alt="${article.title}" 
+                                    class="w-full h-full object-cover transition-transform duration-700 ease-in-out hover:scale-110"
+                                    loading="lazy"
+                                    onerror="this.onerror=null; this.parentNode.innerHTML='<div class=\\'bg-gray-200 dark:bg-gray-700 border-2 border-dashed rounded-t-2xl w-full h-full flex items-center justify-center\\'><i class=\\'fas fa-image text-gray-400 dark:text-gray-400 text-3xl\\'></i></div>';"
+                                >
+                            </div>` : 
+                            `<div class="bg-gradient-to-br from-gray-200 to-gray-300 dark:from-gray-700 dark:to-gray-800 border-2 border-dashed border-gray-300 dark:border-gray-600 rounded-t-2xl w-full h-48 flex items-center justify-center">
+                                <i class="fas fa-image text-gray-400 dark:text-gray-400 text-3xl"></i>
+                            </div>`
+                        }
+                        
+                        <div class="p-5 flex-1 flex flex-col">
+                            <div class="flex items-center mb-3">
+                                <span class="inline-flex items-center px-3 py-1 rounded-full text-xs font-medium bg-gradient-to-r from-primary-100 dark:from-primary-900/50 to-primary-200 dark:to-primary-800/50 text-primary-800 dark:text-primary-200">
+                                    <i class="fas fa-rss mr-1"></i>${article.source}
+                                </span>
+                            </div>
+                            
+                            <h2 class="text-lg font-bold text-gray-800 dark:text-gray-200 mb-3 line-clamp-3 flex-1">
+                                ${article.title}
+                            </h2>
+                            
+                            <p class="text-gray-600 dark:text-gray-400 text-sm mb-4 line-clamp-3">
+                                ${article.summary}
+                            </p>
+                            
+                            <div class="mt-auto pt-2">
+                                <div class="text-xs text-gray-500 dark:text-gray-400">
+                                    <i class="far fa-clock mr-1"></i>${formatDate(article.published)}
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                `;
+                articlesContainer.appendChild(articleElement);
+            });
+            
+            // Update pagination
+            updatePagination(totalPages);
+        }
+
+        // Update pagination controls
+        function updatePagination(totalPages) {
+            const paginationElement = document.getElementById('pagination');
+            const currentPageElement = document.getElementById('current-page');
+            const totalPagesElement = document.getElementById('total-pages');
+            const paginationButtons = document.getElementById('pagination-buttons');
+            
+            if (totalPages <= 1) {
+                paginationElement.classList.add('hidden');
+                return;
+            }
+            
+            paginationElement.classList.remove('hidden');
+            currentPageElement.textContent = currentPage;
+            totalPagesElement.textContent = totalPages;
+            
+            // Clear existing buttons
+            paginationButtons.innerHTML = '';
+            
+            // Previous button
+            if (currentPage > 1) {
+                const prevButton = document.createElement('button');
+                prevButton.className = 'px-4 py-2 rounded-lg border border-gray-300 dark:border-gray-600 hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors duration-200 flex items-center shadow-sm hover:shadow-md text-gray-700 dark:text-gray-300';
+                prevButton.innerHTML = '<i class="fas fa-chevron-left mr-2"></i> Previous';
+                prevButton.addEventListener('click', () => {
+                    currentPage--;
+                    renderArticles();
+                });
+                paginationButtons.appendChild(prevButton);
+            }
+            
+            // Next button
+            if (currentPage < totalPages) {
+                const nextButton = document.createElement('button');
+                nextButton.className = 'px-4 py-2 rounded-lg bg-gradient-to-r from-primary-600 to-primary-800 text-white hover:from-primary-700 hover:to-primary-900 transition-all duration-200 flex items-center shadow-md hover:shadow-lg';
+                nextButton.innerHTML = 'Next <i class="fas fa-chevron-right ml-2"></i>';
+                nextButton.addEventListener('click', () => {
+                    currentPage++;
+                    renderArticles();
+                });
+                paginationButtons.appendChild(nextButton);
+            }
+        }
+
+        // Refresh button functionality
+        document.getElementById('refresh-btn').addEventListener('click', async function() {
+            this.innerHTML = '<i class="fas fa-spinner fa-spin mr-2"></i> Refreshing...';
+            this.disabled = true;
+            
+            try {
+                // In a real implementation, this would trigger a GitHub Actions workflow
+                // For now, we'll just reload the existing data
+                await loadNews();
+            } finally {
+                this.innerHTML = '<i class="fas fa-sync-alt mr-2"></i> Refresh Articles';
+                this.disabled = false;
+            }
+        });
+
+        // Load news when page loads
+        document.addEventListener('DOMContentLoaded', loadNews);
+    </script>
+</body>
+</html>

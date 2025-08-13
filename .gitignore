@@ -9,7 +9,7 @@ venv/
 # IDE
 .idea/
 
-# Database files (you might want to comment this out if you want to track schema changes)
+# Database files
 *.db
 
 # OS generated files
@@ -18,3 +18,6 @@ Thumbs.db
 
 # Build directory
 build/
+
+# Exclude news.json from gitignore since we want to commit it
+!news.json

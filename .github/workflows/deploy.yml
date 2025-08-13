@@ -23,15 +23,15 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install feedparser beautifulsoup4 requests flask flask-frozen
+          pip install feedparser beautifulsoup4 requests
 
-      - name: Generate static files
+      - name: Generate news data
         run: |
-          python freeze.py
+          python generate_news.py
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build
+          publish_dir: .
           publish_branch: gh-pages
