@@ -28,7 +28,17 @@ jobs:
       - name: Generate news data
         run: |
           python generate_news.py
-
+          
+      - name: Push news.json
+        run: |
+         git config --global user.name 'github-actions[bot]'
+         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+         git checkout gh-pages
+         git pull origin gh-pages
+         cp ../master/news.json news.json
+         git add news.json
+         git commit -m "Updated news data"
+         git push origin gh-pages
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
