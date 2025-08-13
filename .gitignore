@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# IDE
+.idea/
+
+# Database files
+*.db
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Build directory
+build/
+
+# News JSON file (we want to commit this)
+!news.json
