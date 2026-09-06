@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-09-06T15:13:57.548596",
+  "lastUpdated": "2026-09-06T20:13:17.206881",
   "articles": [
+    {
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+      "published": "Sun, 06 Sep 2026 16:45:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg?resize=1200,800"
+    },
+    {
+      "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+      "link": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "published": "Sun, 06 Sep 2026 16:08:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-street-getty.jpg?resize=1200,800"
+    },
+    {
+      "title": "Dyson’s New AI Toothbrush Conducts Video Surveillance on the Inside of Your Mouth",
+      "link": "https://futurism.com/artificial-intelligence/dyson-ai-toothbrush-video-surveillance-mouth",
+      "summary": "<p>It's like Flock, but for the gaps between your teeth.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/dyson-ai-toothbrush-video-surveillance-mouth\">Dyson&#8217;s New AI Toothbrush Conducts Video Surveillance on the Inside of Your Mouth</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Sun, 06 Sep 2026 13:01:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/dyson-ai-toothbrush-video-surveillance-mouth.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "Surveillance-Happy Police In Shambles After Trump Tariffs Makes Drones Absurdly Expensive",
+      "link": "https://futurism.com/robots-and-machines/surveillance-piolice-trump-tariffs-drones",
+      "summary": "<p>\"There is currently no economically viable domestic replacement\" for Chinese drones, an officer complained.</p>\n<p>The post <a href=\"https://futurism.com/robots-and-machines/surveillance-piolice-trump-tariffs-drones\">Surveillance-Happy Police In Shambles After Trump Tariffs Makes Drones Absurdly Expensive</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Sun, 06 Sep 2026 12:01:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/surveillance-police-trump-tariffs-drones.jpg?quality=85&w=2048"
+    },
     {
       "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
       "link": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
@@ -192,14 +224,6 @@
       "published": "Sat, 05 Sep 2026 07:01:00 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/strange-new-structures-deep-inside-earth-precursors.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "As If There Was Any Question About Data Centers Being Weak Job Creators, Meta Is Now Deploying Robots to Maintain Them",
-      "link": "https://futurism.com/artificial-intelligence/meta-deploying-robots-data-center-maintenance",
-      "summary": "<p>\"We thought those of us performing the physical tasks were safe for a while, but not anymore.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/meta-deploying-robots-data-center-maintenance\">As If There Was Any Question About Data Centers Being Weak Job Creators, Meta Is Now Deploying Robots to Maintain Them</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sat, 05 Sep 2026 06:01:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/meta-deploying-robots-data-center-maintenance.jpg?quality=85&w=2048"
     },
     {
       "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
@@ -402,14 +426,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1552425754-1152x648.jpg"
     },
     {
-      "title": "OpenAI Denies Coverup After Rogue Swarm of Agents Reportedly Targeted a Second Site From Hugging Face",
-      "link": "https://futurism.com/artificial-intelligence/openai-denies-coverup-rogue-swarm-agents",
-      "summary": "<p>\"Claims that our Legal team discouraged investigation of the incident are false.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/openai-denies-coverup-rogue-swarm-agents\">OpenAI Denies Coverup After Rogue Swarm of Agents Reportedly Targeted a Second Site From Hugging Face</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Fri, 04 Sep 2026 15:44:40 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/openai-denies-coverup-rogue-swarm-agents.jpg?quality=85&w=2048"
-    },
-    {
       "title": "Microsoft to bounce mail from outdated Exchange servers",
       "link": "https://www.theregister.com/on-prem/2026/09/04/microsoft-to-bounce-mail-from-outdated-exchange-servers/5294506",
       "summary": "2016 and 2019 installations must meet the October 2025 baseline to reach cloud-hosted inboxes",
@@ -432,22 +448,6 @@
       "published": "Fri, 04 Sep 2026 15:00:00 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/compact-discs-and-headphones.jpg?resize=1200,402"
-    },
-    {
-      "title": "Krafton doubles down on India with another $250M bet beyond gaming",
-      "link": "https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/",
-      "summary": "Krafton's planned investment in India is set to surpass $500 million with its latest commitment.",
-      "published": "Fri, 04 Sep 2026 14:47:20 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/krafton-india.jpg?resize=1200,800"
-    },
-    {
-      "title": "Google’s Gemini Spark can now manage your Google Photos library",
-      "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
-      "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
-      "published": "Fri, 04 Sep 2026 14:47:11 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024"
     },
     {
       "title": "JavaScript installer pnpm recast in Rust because ECMAScript can't keep up",
@@ -480,6 +480,22 @@
       "published": "Fri, 04 Sep 2026 12:00:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5294306&width=800"
+    },
+    {
+      "title": "Europe has its first commercial orbital rocket",
+      "link": "https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch",
+      "summary": "German company Isar Aerospace has successfully launched Europe's first entirely commercial orbital rocket. It attempted to achieve the feat last March, but that lasted all of 30 seconds before the vehicle crashed into the sea and exploded. This time the company managed to get the two-stage Spectrum into low Earth orbit from a Norwegian spaceport. [&#8230;]",
+      "published": "2026-09-06T15:04:22-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/c-Isar-Aerospace-Flight-2_2026-09-05-224332_ylbv.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Boox’s tiny Picco e-reader should land in November",
+      "link": "https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa",
+      "summary": "Boox teased the Picco, its take on the buzzy Xteink X4 e-reader, back in July, but provided almost no details. Now, thanks to some reporting out of IFA, we've got a bit more info, though sadly still no price. Unlike the Xteink devices, the Picco will not have magnets on the back for attaching to [&#8230;]",
+      "published": "2026-09-06T12:28:58-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Onyx-Boox-Picco-1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "The Fairphone 6 Plus is the midrange phone we desperately needed",
@@ -544,22 +560,6 @@
       "published": "2026-09-05T10:00:16-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2293089524.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The weird and wonderful headphones of CanJam 2026",
-      "link": "https://www.theverge.com/tech/990706/a-day-at-canjam-socal-2026",
-      "summary": "I've been reviewing headphones for a long time, and I've listened to everything from the barely serviceable to multi-thousand-dollar open-back headphones. But recently I've been uninspired by the state of mainstream options. Most are perfectly good - great, even - but they lack a distinct character. Something to remind me why I fell in love [&#8230;]",
-      "published": "2026-09-05T09:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/canjam-socal-2026-show-floor.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "OpenAI admits to German wiki ‘incident’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-      "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote [&#8230;]",
-      "published": "2026-09-05T07:15:55-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
