@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-05T20:08:25.979966",
+  "lastUpdated": "2026-09-06T03:52:59.076631",
   "articles": [
+    {
+      "title": "US troops can still be tracked by purchased location data, and Congress wants to know why",
+      "link": "https://www.theregister.com/public-sector/2026/09/06/us-troops-can-still-be-tracked-by-purchased-location-data-and-congress-wants-to-know-why/5294652",
+      "summary": "DoD controls on mobile ad identifiers haven't stopped military location data turning up for sale",
+      "published": "Sun, 06 Sep 2026 03:06:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5294656&width=800"
+    },
+    {
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "published": "Sat, 05 Sep 2026 22:49:55 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2023/03/artifact-newspaper-icon.jpg?resize=1200,645"
+    },
     {
       "title": "Hikers rescued after using Google Gemini for planning",
       "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
@@ -394,14 +410,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/obama-admin-official-stokes-agi-china-data-centers-military-strikes.jpg?quality=85&w=2048"
     },
     {
-      "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
-      "link": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
-      "summary": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
-      "published": "Fri, 04 Sep 2026 14:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/06/After-Hours-_-group.png?resize=1200,675"
-    },
-    {
       "title": "Cloud snail-mail service Docmail enters third day stuck in the outbox",
       "link": "https://www.theregister.com/off-prem/2026/09/04/cloud-snail-mail-service-docmail-enters-third-day-stuck-in-the-outbox/5294476",
       "summary": "No restoration time for platform used by more than 30,000 UK organizations, including NHS trusts and medical practices",
@@ -466,20 +474,28 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/american-medical-association-fires-back-ai-doctors.jpg?quality=85&w=2048"
     },
     {
-      "title": "UK military wants lasers to stop drone swarms without running out of ammo",
-      "link": "https://www.theregister.com/offbeat/2026/09/04/uk-military-wants-lasers-to-stop-drone-swarms-without-running-out-of-ammo/5294176",
-      "summary": "Project PANOPTES puts £5M on the table for an autonomous, vehicle-mounted defense",
-      "published": "Fri, 04 Sep 2026 10:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5294183&width=800"
-    },
-    {
       "title": "College Graduate Employment Is Cratering Where Data Centers Are Being Built",
       "link": "https://futurism.com/artificial-intelligence/college-graduate-employment-is-cratering-where-data-centers-are-being-built",
       "summary": "<p>A problem that hits close to the AI boom's home.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/college-graduate-employment-is-cratering-where-data-centers-are-being-built\">College Graduate Employment Is Cratering Where Data Centers Are Being Built</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Fri, 04 Sep 2026 09:38:39 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/college-graduate-employment-is-cratering-where-data-centers-are-being-built.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "Explore the globe in field recordings",
+      "link": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
+      "summary": "I love field recordings. I love making them. I love them when they're incorporated into my ambient music. They're great background noise for working or sleeping. But they're also great for active listening, focusing in on the fine nuances of burbling brooks or urban chaos. Earth Garden gives you a globe to explore with real [&#8230;]",
+      "published": "2026-09-05T17:31:34-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-05-at-5.23.38-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "iPhone Handoff will seamlessly share one number between two phones",
+      "link": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
+      "summary": "When iOS 27 lands later this month, it will have a feature called iPhone Handoff that lets you switch between two phones using the same number. It was briefly mentioned during the WWDC keynote back in June, but there were no details at the time. Now there's a demo clip showing how to set up [&#8230;]",
+      "published": "2026-09-05T16:53:58-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/vpavic_210916_4760_0240.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "CD sales are booming as physical media continues its resurgence",
@@ -544,22 +560,6 @@
       "published": "2026-09-04T15:42:54-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-04-at-3.23.13-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "GoPro says it&#8217;s still committed &#8216;to your collective stoke&#8217;",
-      "link": "https://www.theverge.com/gadgets/990425/gopro-nick-woodman-starman-letter",
-      "summary": "GoPro CEO Nick Woodman said in a letter to customers that making cameras is still his company's \"core DNA,\" after a proposed $285 million acquisition by Starman was announced earlier this week. He claims the merger puts GoPro in a better position to continue developing its content creation tech, after saying in the deal announcement [&#8230;]",
-      "published": "2026-09-04T14:00:45-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/09-4-mission1-pro-pdp-desktop.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Roland is getting into generative AI music with Melody Flip",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-      "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collections of musical ideas sorted by genre. You can start from [&#8230;]",
-      "published": "2026-09-04T13:51:35-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Melody_Flip_Palettes-Fav.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
