@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-06T03:52:59.076631",
+  "lastUpdated": "2026-09-06T10:37:31.757814",
   "articles": [
+    {
+      "title": "Time lords prepare to kick leap seconds into the next millennium",
+      "link": "https://www.theregister.com/offbeat/2026/09/06/time-lords-prepare-to-kick-leap-seconds-into-the-next-millennium/5294538",
+      "summary": "Risk of an unprecedented negative adjustment prompts plan to let UTC drift by as much as an hour",
+      "published": "Sun, 06 Sep 2026 10:09:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5262298&width=800"
+    },
+    {
+      "title": "Billionaires Pouring Money Into Ads About How AI Data Centers Are Actually Good",
+      "link": "https://futurism.com/future-society/billionaires-tech-executives-ai-data-centers-ad-blitz",
+      "summary": "<p>\"The stakes are too high to allow the loudest and most extreme voices to dictate America's future.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/billionaires-tech-executives-ai-data-centers-ad-blitz\">Billionaires Pouring Money Into Ads About How AI Data Centers Are Actually Good</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Sun, 06 Sep 2026 06:02:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/billionaires-tech-executives-ai-data-centers-ad-blitz.jpg?quality=85&w=2048"
+    },
     {
       "title": "US troops can still be tracked by purchased location data, and Congress wants to know why",
       "link": "https://www.theregister.com/public-sector/2026/09/06/us-troops-can-still-be-tracked-by-purchased-location-data-and-congress-wants-to-know-why/5294652",
@@ -458,28 +474,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/nobody-saying-why-major-chatbot-outage.jpg?quality=85&w=2048"
     },
     {
-      "title": "US law firm accuses UK AI software firm of unwanted contract renewal when it tried to leave",
-      "link": "https://www.theregister.com/legal/2026/09/04/us-law-firm-accuses-uk-ai-software-firm-of-unwanted-contract-renewal-when-it-tried-to-leave/5293995",
-      "summary": "Customer alleges AI telco system had frequent issues, did not work as promised, as vendor sues separately  for non payment",
-      "published": "Fri, 04 Sep 2026 11:15:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=1683941&width=800"
-    },
-    {
       "title": "American Medical Association Fires Back Against Paper Finding AI Is Now Outperforming Doctors",
       "link": "https://futurism.com/artificial-intelligence/american-medical-association-fires-back-ai-doctors",
       "summary": "<p>\"As AI improves, having humans in the loop will likely worsen patient care.:\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/american-medical-association-fires-back-ai-doctors\">American Medical Association Fires Back Against Paper Finding AI Is Now Outperforming Doctors</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Fri, 04 Sep 2026 10:45:26 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/08/american-medical-association-fires-back-ai-doctors.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "College Graduate Employment Is Cratering Where Data Centers Are Being Built",
-      "link": "https://futurism.com/artificial-intelligence/college-graduate-employment-is-cratering-where-data-centers-are-being-built",
-      "summary": "<p>A problem that hits close to the AI boom's home.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/college-graduate-employment-is-cratering-where-data-centers-are-being-built\">College Graduate Employment Is Cratering Where Data Centers Are Being Built</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Fri, 04 Sep 2026 09:38:39 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/college-graduate-employment-is-cratering-where-data-centers-are-being-built.jpg?quality=85&w=2048"
     },
     {
       "title": "Explore the globe in field recordings",
