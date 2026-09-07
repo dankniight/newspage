@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T12:03:04.598862",
+  "lastUpdated": "2026-09-07T21:21:03.895788",
   "articles": [
     {
       "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
@@ -66,14 +66,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/new-ai-designed-replace-ceos.jpg?quality=85&w=2048"
     },
     {
-      "title": "Time lords prepare to kick leap seconds into the next millennium",
-      "link": "https://www.theregister.com/offbeat/2026/09/06/time-lords-prepare-to-kick-leap-seconds-into-the-next-millennium/5294538",
-      "summary": "Risk of an unprecedented negative adjustment prompts plan to let UTC drift by as much as an hour",
-      "published": "Sun, 06 Sep 2026 10:09:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5262298&width=800"
-    },
-    {
       "title": "Humanoid Robot Fights Back After Getting Shoved",
       "link": "https://futurism.com/robots-and-machines/humanoid-robot-fights-back-shoved",
       "summary": "<p>They're not defenseless.</p>\n<p>The post <a href=\"https://futurism.com/robots-and-machines/humanoid-robot-fights-back-shoved\">Humanoid Robot Fights Back After Getting Shoved</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -120,14 +112,6 @@
       "published": "Sun, 06 Sep 2026 06:02:00 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/billionaires-tech-executives-ai-data-centers-ad-blitz.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "US troops can still be tracked by purchased location data, and Congress wants to know why",
-      "link": "https://www.theregister.com/public-sector/2026/09/06/us-troops-can-still-be-tracked-by-purchased-location-data-and-congress-wants-to-know-why/5294652",
-      "summary": "DoD controls on mobile ad identifiers haven't stopped military location data turning up for sale",
-      "published": "Sun, 06 Sep 2026 03:06:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5294656&width=800"
     },
     {
       "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
@@ -202,28 +186,92 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/melatonin-heart-failure-cardiovascular-health.jpg?quality=85&w=2048"
     },
     {
-      "title": "Something Strange Just Happened With the World’s Largest Dark Matter Detector",
-      "link": "https://futurism.com/space/something-strange-dark-matter-detector",
-      "summary": "<p>Could this be the first direct evidence of dark matter?</p>\n<p>The post <a href=\"https://futurism.com/space/something-strange-dark-matter-detector\">Something Strange Just Happened With the World&#8217;s Largest Dark Matter Detector</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sat, 05 Sep 2026 10:02:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/something-strange-dark-matter-detector.jpg?quality=85&w=2048"
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "published": "Mon, 07 Sep 2026 19:24:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Chain-of-thought-picture.png?resize=1200,800"
     },
     {
-      "title": "People Are Telling Their Darkest Thoughts to AI Without Realizing They Can Easily Become Public",
-      "link": "https://futurism.com/artificial-intelligence/ai-chatbot-users-darkest-thoughts-public-privacy",
-      "summary": "<p> \"You can't be sure that it'll be totally private.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/ai-chatbot-users-darkest-thoughts-public-privacy\">People Are Telling Their Darkest Thoughts to AI Without Realizing They Can Easily Become Public</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sat, 05 Sep 2026 09:01:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/ai-chatbot-users-darkest-thoughts-public-privacy.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "BepiColombo sheds its ride and starts the final glide to Mercury",
-      "link": "https://www.theregister.com/science/2026/09/05/bepicolombo-sheds-its-ride-and-starts-the-final-glide-to-mercury/5294601",
-      "summary": "Eight years after launch, Mercury probe and its Mercury Transfer Module consciously uncouple as orbit approaches",
-      "published": "Sat, 05 Sep 2026 08:41:00 +0200",
+      "title": "Matt Clifford to leave ARIA before Anthropic role becomes a 'distraction'",
+      "link": "https://www.theregister.com/public-sector/2026/09/07/matt-clifford-to-leave-aria-before-anthropic-role-becomes-a-distraction/5294861",
+      "summary": "MPs welcome move but still want answers over how the conflict of interest was allowed to arise",
+      "published": "Mon, 07 Sep 2026 18:02:47 +0200",
       "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=1685901&width=800"
+      "image_url": "https://image.theregister.com/?imageId=4093186&width=800"
+    },
+    {
+      "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
+      "link": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
+      "summary": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to the Theranos founder.",
+      "published": "Mon, 07 Sep 2026 18:02:29 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2018/11/GettyImages-491583120.jpg?resize=1200,838"
+    },
+    {
+      "title": "US watchdog opens probe into Tesla's Cybercab self-certification",
+      "link": "https://www.theregister.com/offbeat/2026/09/07/us-watchdog-opens-probe-into-teslas-cybercab-self-certification/5294833",
+      "summary": "Wheels turning on the road and in government",
+      "published": "Mon, 07 Sep 2026 17:53:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=160249&width=800"
+    },
+    {
+      "title": "DRAM contract prices forecast to grow only 13-18% in Q3",
+      "link": "https://www.theregister.com/storage/2026/09/07/dram-contract-prices-forecast-to-grow-only-13-18-in-q3/5294776",
+      "summary": "PC buyers already had enough of helping to fund the AI revolution, only essential refreshes happening now",
+      "published": "Mon, 07 Sep 2026 17:20:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=257307&width=800"
+    },
+    {
+      "title": "Nightwing CEO has a Labor Day message for staff – and apparently The Register",
+      "link": "https://www.theregister.com/security/2026/09/07/nightwing-ceo-has-a-labor-day-message-for-staff-and-apparently-the-register/5294819",
+      "summary": "Nothing says ‘For internal use only’ quite like emailing it to the press",
+      "published": "Mon, 07 Sep 2026 16:43:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5254719&width=800"
+    },
+    {
+      "title": "What we expect from the upcoming Apple launch",
+      "link": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
+      "summary": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
+      "published": "Mon, 07 Sep 2026 15:58:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1182217069.jpg?resize=1200,800"
+    },
+    {
+      "title": "Oracle may be next in EU software licensing hot seat following SAP deal",
+      "link": "https://www.theregister.com/software/2026/09/07/oracle-may-be-next-in-eu-software-licensing-hot-seat-following-sap-deal/5294805",
+      "summary": "Commission reportedly seeks third-party views, although no formal investigation is underway",
+      "published": "Mon, 07 Sep 2026 15:56:51 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=241510&width=800"
+    },
+    {
+      "title": "Hackers drain $320M in Bitcoin from Liquid Network, claim they're the good guys",
+      "link": "https://www.theregister.com/security/2026/09/07/hackers-drain-320m-in-bitcoin-from-liquid-network-claim-theyre-the-good-guys/5294770",
+      "summary": "Self-described white hats promise to return 'most' of the 4,000 BTC once the vulnerability is fixed",
+      "published": "Mon, 07 Sep 2026 15:26:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=262699&width=800"
+    },
+    {
+      "title": "Asahi Linux takes on Apple M3, minus a few creature comforts",
+      "link": "https://www.theregister.com/os-platforms/2026/09/07/asahi-linux-takes-on-apple-m3-minus-a-few-creature-comforts/5294788",
+      "summary": "Most hardware works, although graphics, sleep, and external displays need more attention",
+      "published": "Mon, 07 Sep 2026 15:01:09 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=261233&width=800"
+    },
+    {
+      "title": "Nitter lives to proxy another day after taking legal advice",
+      "link": "https://www.theregister.com/personal-tech/2026/09/07/nitter-lives-to-proxy-another-day-after-taking-legal-advice/5294754",
+      "summary": "Public instance XCancel uncancelled after X Corp's cease-and-desist campaign, with others promised shortly",
+      "published": "Mon, 07 Sep 2026 14:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=257063&width=800"
     },
     {
       "title": "Smartphone makers don't bother to comply with EU repairability requirements",
@@ -250,6 +298,14 @@
       "image_url": "https://image.theregister.com/?imageId=5294725&width=800"
     },
     {
+      "title": "Feel peak Windows was 7? You might like Kumander Linux",
+      "link": "https://www.theregister.com/os-platforms/2026/09/07/feel-peak-windows-was-7-you-might-like-kumander-linux/5294760",
+      "summary": "Debian and Xfce – solid, sensible choices – with a pretty skin",
+      "published": "Mon, 07 Sep 2026 12:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=222595&width=800"
+    },
+    {
       "title": "Peers ask why UK cyber bill leaves execs off the personal liability hook",
       "link": "https://www.theregister.com/security/2026/09/07/peers-ask-why-uk-cyber-bill-leaves-execs-off-the-personal-liability-hook/5294586",
       "summary": "Ministers say £17M corporate fines and forthcoming board-level governance rules provide sufficient accountability",
@@ -259,7 +315,7 @@
     },
     {
       "title": "The complex corporate web behind a $3.2 billion AI data center",
-      "link": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+      "link": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
       "summary": "When multiple companies are behind one project, who bears responsibility for problems?",
       "published": "Mon, 07 Sep 2026 11:00:03 +0000",
       "source": "Ars Technica",
@@ -274,6 +330,14 @@
       "image_url": "https://image.theregister.com/?imageId=5219893&width=800"
     },
     {
+      "title": "Elon Musk Is Insisting He Knows More About Chess Than Chess.com",
+      "link": "https://futurism.com/future-society/elon-musk-argues-chess",
+      "summary": "<p>Musk, with his towering intellect, \"felt diminishing returns from chess.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/elon-musk-argues-chess\">Elon Musk Is Insisting He Knows More About Chess Than Chess.com</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Mon, 07 Sep 2026 10:02:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/elon-musk-argues-chess_3188f3.jpg?quality=85&w=2048"
+    },
+    {
       "title": "Amazon-branded plane in fatal accident at Miami Airport",
       "link": "https://www.theregister.com/on-prem/2026/09/07/amazon-branded-plane-in-fatal-accident-at-miami-airport/5294707",
       "summary": "Couldn’t stop before the end of a runway",
@@ -282,12 +346,12 @@
       "image_url": "https://image.theregister.com/?imageId=240942&width=800"
     },
     {
-      "title": "Who, Me? Techie sent to fix Nobel Prize winner’s PC almost set it on fire",
-      "link": "https://www.theregister.com/personal-tech/2026/09/07/who-me-techie-sent-to-fix-nobel-prize-winners-pc-almost-set-it-on-fire/5294430",
-      "summary": "Even the greatest scientific minds are at risk of rogue 9-pin connectors",
-      "published": "Mon, 07 Sep 2026 08:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5294435&width=800"
+      "title": "Man Arrested After Allegedly Shooting Flaming Projectile at Flock Cameras, Melting Them Into Slag",
+      "link": "https://futurism.com/future-society/flock-alpr-arrest-flaming-projectile-melt-slag",
+      "summary": "<p>\"What it boils down to is this, either y'all can take them down or somebody will!\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/flock-alpr-arrest-flaming-projectile-melt-slag\">Man Arrested After Allegedly Shooting Flaming Projectile at Flock Cameras, Melting Them Into Slag</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Mon, 07 Sep 2026 09:01:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/flock-alpr-arrest-flaming-projectile-melt-slag_0875f5.jpg?quality=85&w=2048"
     },
     {
       "title": "Data Center Caught Watering Its Lavish Lawn While Human Neighbors Are on Year-Long Water Restriction",
@@ -298,14 +362,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/data-center-lawn-neighbors-drought-water-restrictions.jpg?quality=85&w=2048"
     },
     {
-      "title": "Jensen's purchase of a new toy could reshape the entire AI industry",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/07/jensens-purchase-of-a-new-toy-could-reshape-the-entire-ai-industry/5294610",
-      "summary": "This week on The Kettle we weigh in on Nvidia's Hugging Face acquisition and why it could spell a new, more fragmented and siloed era of AI development",
-      "published": "Mon, 07 Sep 2026 07:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=185340&width=800"
-    },
-    {
       "title": "Pervs Distraught as Meta Bricks Their Smart Glasses Remotely",
       "link": "https://futurism.com/artificial-intelligence/meta-bricks-perv-smart-glasses",
       "summary": "<p>\"There's always new ways to get around the safeguards that are in place.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/meta-bricks-perv-smart-glasses\">Pervs Distraught as Meta Bricks Their Smart Glasses Remotely</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -314,23 +370,7 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/meta-bricks-perv-smart-glasses.jpg?quality=85&w=2048"
     },
     {
-      "title": "Might as well blame AI for this giant Linux release candidate, says Linus Torvalds",
-      "link": "https://www.theregister.com/os-platforms/2026/09/07/might-as-well-blame-ai-for-this-giant-linux-release-candidate-says-linus-torvalds/5294697",
-      "summary": "Last week, he blamed himself for being ‘a grade A nincompoop’ who assumed a system upgrade couldn’t possibly go wrong",
-      "published": "Mon, 07 Sep 2026 04:32:33 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5238260&width=800"
-    },
-    {
-      "title": "Thailand pauses all datacenter builds and approvals",
-      "link": "https://www.theregister.com/off-prem/2026/09/07/thailand-pauses-all-datacenter-builds-and-approvals/5294688",
-      "summary": "PLUS: Fujitsu not yet budgeting Horizon compensation; DeepSeek's vast Huawei GPU buy; Korea plans sovereign security model; And more!",
-      "published": "Mon, 07 Sep 2026 03:05:51 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5294694&width=800"
-    },
-    {
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
       "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
       "summary": "The round is being raised just months after the robot data startup exited from stealth.",
       "published": "Fri, 04 Sep 2026 23:36:14 +0000",
@@ -354,28 +394,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Mercury_Transfer_Module_separation-1152x648.jpg"
     },
     {
-      "title": "Anthropic lays groundwork for bots that shop for you",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/04/anthropic-lays-groundwork-for-bots-that-shop-for-you/5294621",
-      "summary": "Now comes the harder sell: Convincing customers and merchants to trust AI with purchases",
-      "published": "Fri, 04 Sep 2026 22:36:07 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5294637&width=800"
-    },
-    {
       "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
       "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
       "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
       "published": "Fri, 04 Sep 2026 22:17:36 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg"
-    },
-    {
-      "title": "AMD's Threadripper Halo is a local-AI workstation for researchers with deep pockets",
-      "link": "https://www.theregister.com/on-prem/2026/09/04/amds-threadripper-halo-is-a-local-ai-workstation-for-researchers-with-deep-pockets/5294616",
-      "summary": "AI workstation promises to put up to 576 GB of HBM3e and 16 TB/s of memory bandwidth on your desk",
-      "published": "Fri, 04 Sep 2026 22:12:11 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5294624&width=800"
     },
     {
       "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
@@ -410,14 +434,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/sheeppox-1152x648-1788203007.jpg"
     },
     {
-      "title": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now",
-      "link": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
-      "summary": "A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Tweet.app.",
-      "published": "Fri, 04 Sep 2026 17:52:05 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/07/x-logo-impales-twitter-bird.jpg?resize=1200,675"
-    },
-    {
       "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
       "link": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
       "summary": "Broadcom admits it put “too big a focus on VCF.”",
@@ -434,28 +450,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/no-eyes-1152x648.jpg"
     },
     {
-      "title": "What will Apple’s John Ternus era look like?",
-      "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-      "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#160;he&#8217;s&#160;even settled in. Cook&#160;isn&#8217;t&#160;going far, though:&#160;he&#8217;s&#160;staying on as Executive&#160;Chairman, focused on the kind of policy [&#8230;]",
-      "published": "Fri, 04 Sep 2026 17:18:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2287301688.jpg?resize=1200,800"
-    },
-    {
       "title": "Pentagon rescinds new testosterone screening policy without explanation",
       "link": "https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/",
       "summary": "The Pentagon says the guidance is being updated after being online for one day.",
       "published": "Fri, 04 Sep 2026 16:57:24 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2293221834-1152x648.jpg"
-    },
-    {
-      "title": "No little kids allowed, and other new info about Tesla’s Cybercab",
-      "link": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
-      "summary": "The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis.",
-      "published": "Fri, 04 Sep 2026 16:51:23 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-open.jpg?resize=1200,856"
     },
     {
       "title": "A ratings board wouldn't let Valve release a trailer. It \"leaked\" it instead.",
@@ -480,6 +480,38 @@
       "published": "Fri, 04 Sep 2026 16:22:18 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285051730-1152x648.jpg"
+    },
+    {
+      "title": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
+      "link": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price",
+      "summary": "When shopping for an electric vehicle, affordability is becoming a more common trait. But affordable and energy efficient is truly a rare breed. Often you have to sacrifice one for the other. Want something affordable? Great, here's a range loser. Want something that goes the distance? Be ready to pay the price. Surprisingly, here comes [&#8230;]",
+      "published": "2026-09-07T16:03:41-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/A264389_large.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Six years later, Sony revisits its legendary XM4 headphones",
+      "link": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
+      "summary": "Six years ago Sony and Bose were in the middle of a noise-canceling battle, with each new model of headphones better than the last. In the fall of 2020, Sony released the WH-1000XM4 headphones to wide acclaim. They sat atop best headphones lists for years, thanks to their great sound, competitive ANC, and compact size, [&#8230;]",
+      "published": "2026-09-07T12:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/sony-wh-1000xm4c-headphones-comparison.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "EcoFlow makes the miniature power station even smaller",
+      "link": "https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller",
+      "summary": "If you're in the market for a tiny power station that punches well above its size and weight then have a look at EcoFlow's new fourth-generation River series. The River 260 Gen4 features a 256Wh capacity battery while the 520 Gen4 packs in 512Wh - storing about 2.5x and 5x the energy of the largest [&#8230;]",
+      "published": "2026-09-07T10:59:41-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IFA_R4_0.3kWh_Outdoor.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "The real reason your phone is getting more expensive",
+      "link": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
+      "summary": "When Apple debuts the next generation of iPhones this week, they're likely to come with an unwanted change: a higher price tag. A price hike from the supply-chain powerhouse would be the clearest sign yet that soaring memory costs have become unavoidable - with no end to the memory crunch in sight. Call it \"chipflation\" [&#8230;]",
+      "published": "2026-09-07T08:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257955_iPhone_17_ProMax_Air_VPavic_0007.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds",
@@ -528,38 +560,6 @@
       "published": "2026-09-06T12:28:58-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Onyx-Boox-Picco-1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The Fairphone 6 Plus is the midrange phone we desperately needed",
-      "link": "https://www.theverge.com/tech/990436/fairphone-6-plus-review",
-      "summary": "The Fairphone 6 Plus feels like an extremely average midrange Android phone and I couldn't be more thrilled. The mission has always been admirable. Fairphone seeks out ethically sourced materials and offers a high degree of repairability for its devices. But the phones themselves required a lot of sacrifices, like putting up with underpowered processors [&#8230;]",
-      "published": "2026-09-06T09:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268725_Fairphone_6_Plus_review_AJohnson_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Competitive Pokémon is on phones now, but you still need a Switch to become a champion",
-      "link": "https://www.theverge.com/games/990691/competitive-pokemon-champions-mobile-tournament-accessibility",
-      "summary": "To get started with competitive Pok&#233;mon battles, all you need is your phone. But to compete at the highest level, like at the Pok&#233;mon World Championships, you're going to need a Switch. And there doesn't seem to be a good reason why. Battle simulator Pok&#233;mon Champions originally launched on the Switch and Switch 2 in [&#8230;]",
-      "published": "2026-09-06T09:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4405_91ad42.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "DIY plug-in solar gains momentum in the US",
-      "link": "https://www.theverge.com/column/990183/diy-plug-in-solar-us",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started With a deep breath, I took [&#8230;]",
-      "published": "2026-09-06T08:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/banner.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Explore the globe in field recordings",
-      "link": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
-      "summary": "I love field recordings. I love making them. I love them when they're incorporated into my ambient music. They're great background noise for working or sleeping. But they're also great for active listening, focusing in on the fine nuances of burbling brooks or urban chaos. Earth Garden gives you a globe to explore with real [&#8230;]",
-      "published": "2026-09-05T17:31:34-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-05-at-5.23.38-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
