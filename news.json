@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-06T20:13:17.206881",
+  "lastUpdated": "2026-09-07T03:52:09.777172",
   "articles": [
+    {
+      "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+      "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
+      "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
+      "published": "Sun, 06 Sep 2026 21:41:06 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2022/07/app-store-ios-2022-a.jpg?resize=1200,675"
+    },
+    {
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "published": "Sun, 06 Sep 2026 20:47:37 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800"
+    },
     {
       "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
       "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
@@ -410,14 +426,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285051730-1152x648.jpg"
     },
     {
-      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-      "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-      "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
-      "published": "Fri, 04 Sep 2026 16:21:11 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-04-at-8.49.39-AM-e1788537064907.png?w=839"
-    },
-    {
       "title": "Musk wins court order to block use of “Twitter,” but not “tweet” and bird logo",
       "link": "https://arstechnica.com/tech-policy/2026/09/musk-wins-court-order-to-block-use-of-twitter-but-not-tweet-and-bird-logo/",
       "summary": "Saying X is “formerly Twitter” in App Store lets Musk block use of Twitter name.",
@@ -440,14 +448,6 @@
       "published": "Fri, 04 Sep 2026 15:07:35 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=1682919&width=800"
-    },
-    {
-      "title": "CD sales are making an unexpected comeback amid a retro tech boom",
-      "link": "https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/",
-      "summary": "U.S. CD revenue jumped 58.6% in the first half of 2026, reversing last year’s decline as interest in retro tech and physical media continues to grow.",
-      "published": "Fri, 04 Sep 2026 15:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/compact-discs-and-headphones.jpg?resize=1200,402"
     },
     {
       "title": "JavaScript installer pnpm recast in Rust because ECMAScript can't keep up",
@@ -480,6 +480,22 @@
       "published": "Fri, 04 Sep 2026 12:00:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5294306&width=800"
+    },
+    {
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by [&#8230;]",
+      "published": "2026-09-06T19:36:04-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292926705.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "An Amazon cargo plane crashed at Miami International Airport",
+      "link": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
+      "summary": "A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the injuries was not clear at the time of publication. In the aftermath of the incident, the FAA released a statement [&#8230;]",
+      "published": "2026-09-06T16:56:38-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2293852643.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Europe has its first commercial orbital rocket",
@@ -544,22 +560,6 @@
       "published": "2026-09-05T12:49:33-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSCF1155-EDIT.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy",
-      "link": "https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview",
-      "summary": "Andy Holloway cohosts the Fantasy Footballers podcast with his friends Jason Moore and Mike Wright. The show is one of the premier fantasy sports podcasts, netting over 2 million monthly listeners and numerous awards, including Best Sports Podcast from iHeartRadio and People's Choice at the Podcast Awards four years in a row. Holloway's goal has [&#8230;]",
-      "published": "2026-09-05T11:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/andy.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Content creators drop the ball",
-      "link": "https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad",
-      "summary": "During Naomi Osaka's match against Anastasia Zakharova at this year's US Open earlier this week, a gaggle of ring light-wielding influencers who were packed in a luxury suite became enough of a distraction that the umpire paused the match and repeatedly asked them to quiet down. Elsewhere in the USTA Billie Jean King National Tennis [&#8230;]",
-      "published": "2026-09-05T10:00:16-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2293089524.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
