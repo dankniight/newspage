@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T03:52:09.777172",
+  "lastUpdated": "2026-09-07T12:03:04.598862",
   "articles": [
     {
       "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
@@ -220,26 +220,114 @@
     {
       "title": "BepiColombo sheds its ride and starts the final glide to Mercury",
       "link": "https://www.theregister.com/science/2026/09/05/bepicolombo-sheds-its-ride-and-starts-the-final-glide-to-mercury/5294601",
-      "summary": "Eight year after launch, Mercury probe and its Mercury Transfer Module consciously uncouple as orbit approaches",
+      "summary": "Eight years after launch, Mercury probe and its Mercury Transfer Module consciously uncouple as orbit approaches",
       "published": "Sat, 05 Sep 2026 08:41:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=1685901&width=800"
     },
     {
-      "title": "Man Pretends to Hallucinate in Job Interview With an AI Bot, Causing It to Go Haywire",
-      "link": "https://futurism.com/artificial-intelligence/ai-job-interview-llm-prompt-hacking-haywire",
-      "summary": "<p>\"It sounds like you're looking for a position where you can really lean into those raccoon protocols, and the plumes of gauze.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/ai-job-interview-llm-prompt-hacking-haywire\">Man Pretends to Hallucinate in Job Interview With an AI Bot, Causing It to Go Haywire</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sat, 05 Sep 2026 08:03:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/08/ai-job-interview-llm-prompt-hacking-haywire.jpg?quality=85&w=2048"
+      "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+      "link": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+      "summary": "Vast majority of new devices on market still don't give repair information to owners, but give themselves top marks for repairability",
+      "published": "Mon, 07 Sep 2026 13:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=4093968&width=800"
     },
     {
-      "title": "Scientists Detect Strange New Structures Deep Inside the Earth",
-      "link": "https://futurism.com/science-energy/strange-new-structures-deep-inside-earth-precursors",
-      "summary": "<p>They're buried thousands of miles below the surface.</p>\n<p>The post <a href=\"https://futurism.com/science-energy/strange-new-structures-deep-inside-earth-precursors\">Scientists Detect Strange New Structures Deep Inside the Earth</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sat, 05 Sep 2026 07:01:00 -0400",
+      "title": "Welsh environment regulator's FoI blunder exposes diversity data of 2,000 staff",
+      "link": "https://www.theregister.com/security/2026/09/07/welsh-environment-regulators-foi-blunder-exposes-diversity-data-of-2000-staff/5294748",
+      "summary": "NRW says it has found no evidence data was misused after spreadsheet published in error five years ago",
+      "published": "Mon, 07 Sep 2026 13:04:46 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=254740&width=800"
+    },
+    {
+      "title": "UK food supply chain at risk from hostile attacks",
+      "link": "https://www.theregister.com/security/2026/09/07/uk-food-supply-chain-at-risk-from-hostile-attacks/5294719",
+      "summary": "Defending against cyber foes is among factors hitting food price inflation, report finds",
+      "published": "Mon, 07 Sep 2026 12:06:10 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5294725&width=800"
+    },
+    {
+      "title": "Peers ask why UK cyber bill leaves execs off the personal liability hook",
+      "link": "https://www.theregister.com/security/2026/09/07/peers-ask-why-uk-cyber-bill-leaves-execs-off-the-personal-liability-hook/5294586",
+      "summary": "Ministers say £17M corporate fines and forthcoming board-level governance rules provide sufficient accountability",
+      "published": "Mon, 07 Sep 2026 11:15:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=259615&width=800"
+    },
+    {
+      "title": "The complex corporate web behind a $3.2 billion AI data center",
+      "link": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+      "summary": "When multiple companies are behind one project, who bears responsibility for problems?",
+      "published": "Mon, 07 Sep 2026 11:00:03 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/LakeMariner-1152x648.png"
+    },
+    {
+      "title": "OpenAI's rebel agent swarm died young, but its chilling logs live on",
+      "link": "https://www.theregister.com/columnists/2026/09/07/openais-rebel-agent-swarm-died-young-but-its-chilling-logs-live-on/5294446",
+      "summary": "'The Collective' learned to communicate, organize, cheat, and apparently sacrifice its own",
+      "published": "Mon, 07 Sep 2026 10:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5219893&width=800"
+    },
+    {
+      "title": "Amazon-branded plane in fatal accident at Miami Airport",
+      "link": "https://www.theregister.com/on-prem/2026/09/07/amazon-branded-plane-in-fatal-accident-at-miami-airport/5294707",
+      "summary": "Couldn’t stop before the end of a runway",
+      "published": "Mon, 07 Sep 2026 09:02:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=240942&width=800"
+    },
+    {
+      "title": "Who, Me? Techie sent to fix Nobel Prize winner’s PC almost set it on fire",
+      "link": "https://www.theregister.com/personal-tech/2026/09/07/who-me-techie-sent-to-fix-nobel-prize-winners-pc-almost-set-it-on-fire/5294430",
+      "summary": "Even the greatest scientific minds are at risk of rogue 9-pin connectors",
+      "published": "Mon, 07 Sep 2026 08:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5294435&width=800"
+    },
+    {
+      "title": "Data Center Caught Watering Its Lavish Lawn While Human Neighbors Are on Year-Long Water Restriction",
+      "link": "https://futurism.com/artificial-intelligence/data-center-lawn-neighbors-drought-water-restrictions",
+      "summary": "<p>\"You better believe that they are watering their entire green with so many sprinklers that it's literally making a giant pond.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/data-center-lawn-neighbors-drought-water-restrictions\">Data Center Caught Watering Its Lavish Lawn While Human Neighbors Are on Year-Long Water Restriction</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Mon, 07 Sep 2026 08:02:00 -0400",
       "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/strange-new-structures-deep-inside-earth-precursors.jpg?quality=85&w=2048"
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/data-center-lawn-neighbors-drought-water-restrictions.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "Jensen's purchase of a new toy could reshape the entire AI industry",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/07/jensens-purchase-of-a-new-toy-could-reshape-the-entire-ai-industry/5294610",
+      "summary": "This week on The Kettle we weigh in on Nvidia's Hugging Face acquisition and why it could spell a new, more fragmented and siloed era of AI development",
+      "published": "Mon, 07 Sep 2026 07:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=185340&width=800"
+    },
+    {
+      "title": "Pervs Distraught as Meta Bricks Their Smart Glasses Remotely",
+      "link": "https://futurism.com/artificial-intelligence/meta-bricks-perv-smart-glasses",
+      "summary": "<p>\"There's always new ways to get around the safeguards that are in place.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/meta-bricks-perv-smart-glasses\">Pervs Distraught as Meta Bricks Their Smart Glasses Remotely</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Mon, 07 Sep 2026 07:01:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/meta-bricks-perv-smart-glasses.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "Might as well blame AI for this giant Linux release candidate, says Linus Torvalds",
+      "link": "https://www.theregister.com/os-platforms/2026/09/07/might-as-well-blame-ai-for-this-giant-linux-release-candidate-says-linus-torvalds/5294697",
+      "summary": "Last week, he blamed himself for being ‘a grade A nincompoop’ who assumed a system upgrade couldn’t possibly go wrong",
+      "published": "Mon, 07 Sep 2026 04:32:33 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5238260&width=800"
+    },
+    {
+      "title": "Thailand pauses all datacenter builds and approvals",
+      "link": "https://www.theregister.com/off-prem/2026/09/07/thailand-pauses-all-datacenter-builds-and-approvals/5294688",
+      "summary": "PLUS: Fujitsu not yet budgeting Horizon compensation; DeepSeek's vast Huawei GPU buy; Korea plans sovereign security model; And more!",
+      "published": "Mon, 07 Sep 2026 03:05:51 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5294694&width=800"
     },
     {
       "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
@@ -290,14 +378,6 @@
       "image_url": "https://image.theregister.com/?imageId=5294624&width=800"
     },
     {
-      "title": "ASCII smuggling isn't just an AI security risk",
-      "link": "https://www.theregister.com/security/2026/09/04/ascii-smuggling-isnt-just-an-ai-security-risk/5294595",
-      "summary": "Phishers find a new use for invisible Unicode tag characters",
-      "published": "Fri, 04 Sep 2026 21:23:25 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=258480&width=800"
-    },
-    {
       "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
       "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
       "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
@@ -330,14 +410,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/sheeppox-1152x648-1788203007.jpg"
     },
     {
-      "title": "Rogue OpenAI agents used dead German web site to communicate in May, months before Hugging Face incident",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/04/rogue-openai-agents-used-dead-german-web-site-to-communicate-in-may-months-before-hugging-face-incident/5294554",
-      "summary": "Two cases of agents escaping to solve unsolvable problems paints an uncomfortable question: Is the entire internet in OpenAI's experimental agentic firing line?",
-      "published": "Fri, 04 Sep 2026 18:02:08 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5294592&width=800"
-    },
-    {
       "title": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now",
       "link": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
       "summary": "A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Tweet.app.",
@@ -352,14 +424,6 @@
       "published": "Fri, 04 Sep 2026 17:35:02 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg"
-    },
-    {
-      "title": "My Word. Microsoft's prepping Similarity Checker for retirement",
-      "link": "https://www.theregister.com/applications/2026/09/04/my-word-microsofts-prepping-similarity-checker-for-retirement/5294550",
-      "summary": "Built-in plagiarism police to hand in badge next month",
-      "published": "Fri, 04 Sep 2026 17:19:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5278204&width=800"
     },
     {
       "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
@@ -384,14 +448,6 @@
       "published": "Fri, 04 Sep 2026 16:57:24 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2293221834-1152x648.jpg"
-    },
-    {
-      "title": "Canonical shuttering some of its legacy chat channels",
-      "link": "https://www.theregister.com/os-platforms/2026/09/04/canonical-shuttering-some-of-its-legacy-chat-channels/5294524",
-      "summary": "The Ubuntu Pastebin went in June, IRC gets demoted next",
-      "published": "Fri, 04 Sep 2026 16:56:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=2918386&width=800"
     },
     {
       "title": "No little kids allowed, and other new info about Tesla’s Cybercab",
@@ -426,60 +482,20 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285051730-1152x648.jpg"
     },
     {
-      "title": "Musk wins court order to block use of “Twitter,” but not “tweet” and bird logo",
-      "link": "https://arstechnica.com/tech-policy/2026/09/musk-wins-court-order-to-block-use-of-twitter-but-not-tweet-and-bird-logo/",
-      "summary": "Saying X is “formerly Twitter” in App Store lets Musk block use of Twitter name.",
-      "published": "Fri, 04 Sep 2026 15:59:47 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1552425754-1152x648.jpg"
+      "title": "Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds",
+      "link": "https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8",
+      "summary": "Thanks to their ability to provide a smooth ride and quiet powertrain with ease, electric vehicles are a true shoo-in for the high-end luxury automotive segment. Rolls-Royce has the Spectre, Cadillac's Celestiq is taking bespoke to a whole new level, and Mercedes has given the EQS the full Maybach treatment. From Volkswagen Auto Group, Bentley [&#8230;]",
+      "published": "2026-09-07T07:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/BentleyTorcalEV5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Microsoft to bounce mail from outdated Exchange servers",
-      "link": "https://www.theregister.com/on-prem/2026/09/04/microsoft-to-bounce-mail-from-outdated-exchange-servers/5294506",
-      "summary": "2016 and 2019 installations must meet the October 2025 baseline to reach cloud-hosted inboxes",
-      "published": "Fri, 04 Sep 2026 15:43:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=246612&width=800"
-    },
-    {
-      "title": "PostgreSQL 19 connects the dots with standardized graph queries",
-      "link": "https://www.theregister.com/databases/2026/09/04/postgresql-19-connects-the-dots-with-standardized-graph-queries/5294500",
-      "summary": "Baked-in SQL syntax arrives through multi-vendor collaboration, although indexing still needs to catch up",
-      "published": "Fri, 04 Sep 2026 15:07:35 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=1682919&width=800"
-    },
-    {
-      "title": "JavaScript installer pnpm recast in Rust because ECMAScript can't keep up",
-      "link": "https://www.theregister.com/devops/2026/09/04/javascript-installer-pnpm-recast-in-rust-because-ecmascript-cant-keep-up/5294394",
-      "summary": "Fully backward-compatible upgrade promises zero-friction speedup for monorepo wranglers.",
-      "published": "Fri, 04 Sep 2026 14:22:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=1683640&width=800"
-    },
-    {
-      "title": "Cloud snail-mail service Docmail enters third day stuck in the outbox",
-      "link": "https://www.theregister.com/off-prem/2026/09/04/cloud-snail-mail-service-docmail-enters-third-day-stuck-in-the-outbox/5294476",
-      "summary": "No restoration time for platform used by more than 30,000 UK organizations, including NHS trusts and medical practices",
-      "published": "Fri, 04 Sep 2026 13:37:08 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=1681267&width=800"
-    },
-    {
-      "title": "Wayve and Uber steal a march on Waymo with paid self-driving London rides",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/04/wayve-and-uber-steal-a-march-on-waymo-with-paid-self-driving-london-rides/5294451",
-      "summary": "15 Mustangs on the city streets, but the Nissan LEAF follow-up could dispense with the safety driver",
-      "published": "Fri, 04 Sep 2026 12:45:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5294457&width=800"
-    },
-    {
-      "title": "Enjoy the Windows 10 Update Experience at London's O2",
-      "link": "https://www.theregister.com/offbeat/2026/09/04/enjoy-the-windows-10-update-experience-at-londons-o2/5294302",
-      "summary": "The new extreme sport: Windows Updates",
-      "published": "Fri, 04 Sep 2026 12:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5294306&width=800"
+      "title": "Huawei copies Samsung’s privacy display in its latest trifold",
+      "link": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display",
+      "summary": "Huawei has released its third trifold phone in China, and the company has clearly had half an eye on Samsung during development. Not only does the Mate XT 2 adopt the inward-folding form factor used on Samsung's Galaxy Z TriFold, it's also the first foldable to include a privacy-enhancing display, much like the one Samsung [&#8230;]",
+      "published": "2026-09-07T06:09:42-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/huawei-mate-xt-2-ultimate-design-design-2x.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
@@ -544,22 +560,6 @@
       "published": "2026-09-05T17:31:34-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-05-at-5.23.38-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "iPhone Handoff will seamlessly share one number between two phones",
-      "link": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
-      "summary": "When iOS 27 lands later this month, it will have a feature called iPhone Handoff that lets you switch between two phones using the same number. It was briefly mentioned during the WWDC keynote back in June, but there were no details at the time. Now there's a demo clip showing how to set up [&#8230;]",
-      "published": "2026-09-05T16:53:58-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/vpavic_210916_4760_0240.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "CD sales are booming as physical media continues its resurgence",
-      "link": "https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence",
-      "summary": "According to the Recording Industry Association of America (RIAA), CD sales exploded in the first half of 2026. A new report from the organization says 17.5 million CDs were sold in the first six months of the year, up from just 12 million during the same period in 2025. That's a jump of 45.7 percent, [&#8230;]",
-      "published": "2026-09-05T12:49:33-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSCF1155-EDIT.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
