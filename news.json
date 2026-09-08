@@ -1,6 +1,142 @@
 {
-  "lastUpdated": "2026-09-08T10:56:41.730774",
+  "lastUpdated": "2026-09-08T16:21:22.095103",
   "articles": [
+    {
+      "title": "Boston Scientific left nursing its bottom line after cyberattack",
+      "link": "https://www.theregister.com/security/2026/09/08/boston-scientific-left-nursing-its-bottom-line-after-cyberattack/5295026",
+      "summary": "Medical device giant warns August intrusion will hit Q3 and full-year sales and earnings as recovery drags on",
+      "published": "Tue, 08 Sep 2026 17:45:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=227731&width=800"
+    },
+    {
+      "title": "ASML and TSMC want bigger masks for smaller chips",
+      "link": "https://www.theregister.com/systems/2026/09/08/asml-and-tsmc-want-bigger-masks-for-smaller-chips/5294982",
+      "summary": "Industry push aims to eliminate stitching constraints and ready high-NA EUV systems for production by 2033",
+      "published": "Tue, 08 Sep 2026 17:02:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5294994&width=800"
+    },
+    {
+      "title": "How to secure hybrid meeting rooms without sacrificing user experience",
+      "link": "https://www.theregister.com/security/2026/09/08/sponsored-how-to-secure-hybrid-meeting-rooms-without-sacrificing-user-experience/5294440",
+      "summary": "SPONSORED FEATURE: With regulators tightening rules and attack surfaces widening, meeting-room kit must bake in security without pushing users toward workarounds",
+      "published": "Tue, 08 Sep 2026 17:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5294442&width=800"
+    },
+    {
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+      "published": "Tue, 08 Sep 2026 16:20:31 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2266466589.jpg?w=1024"
+    },
+    {
+      "title": "LG accused of 'egregious invasion of privacy' over TV data collection",
+      "link": "https://www.theregister.com/security/2026/09/08/lg-accused-of-egregious-invasion-of-privacy-over-tv-data-collection/5294956",
+      "summary": "Claims follow scrutiny over monitors installing adware without user consent",
+      "published": "Tue, 08 Sep 2026 16:15:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=246573&width=800"
+    },
+    {
+      "title": "BigBear phishing crew nets thousands of Microsoft 365 credentials",
+      "link": "https://www.theregister.com/security/2026/09/08/bigbear-phishing-crew-nets-thousands-of-microsoft-365-credentials/5294944",
+      "summary": "Researchers got inside the crooks' admin panel and found 5,137 stolen records tied to 461 organizations",
+      "published": "Tue, 08 Sep 2026 15:26:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5294968&width=800"
+    },
+    {
+      "title": "Google’s revived nuclear power plant gets $1.9B loan from US government",
+      "link": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
+      "summary": "Google said it would bring an Iowa nuclear power plant back from the dead. Now, the plant's owner is getting a $1.9B loan from the U.S. Energy Department.",
+      "published": "Tue, 08 Sep 2026 15:25:35 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-129268875.jpg?resize=1200,900"
+    },
+    {
+      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+      "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+      "published": "Tue, 08 Sep 2026 15:04:09 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/google-chrome-GettyImages-2151457378.jpg?w=1024"
+    },
+    {
+      "title": "Mistral bags €3B to build Europe's sovereign AI champion",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/08/mistral-bags-3b-to-build-europes-sovereign-ai-champion/5294941",
+      "summary": "Samsung-led round values the French model maker at more than €21B",
+      "published": "Tue, 08 Sep 2026 14:45:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=256122&width=800"
+    },
+    {
+      "title": "Mistral raises €3B as sovereign AI becomes big business",
+      "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+      "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity.",
+      "published": "Tue, 08 Sep 2026 14:17:48 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264771189.jpg?resize=1200,800"
+    },
+    {
+      "title": "A hacker stole $340M in a crypto heist, then returned most of it",
+      "link": "https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/",
+      "summary": "The latest heist is one of the largest thefts of cryptocurrency to date.",
+      "published": "Tue, 08 Sep 2026 14:11:29 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2023/10/ransomware-red-Samuil_Levich-getty.jpeg?resize=1200,798"
+    },
+    {
+      "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
+      "link": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
+      "summary": "Bluecore Energy announced Tuesday an oversubscribed $50 million seed round — just months after raising a $10 million pre-seed and coming out of stealth.",
+      "published": "Tue, 08 Sep 2026 14:10:17 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Kofi-Asante.jpg?resize=1200,800"
+    },
+    {
+      "title": "Extortion crews have their eyes on high-value AI data, Google warns",
+      "link": "https://www.theregister.com/research/2026/09/08/extortion-crews-have-their-eyes-on-high-value-ai-data-google-warns/5294640",
+      "summary": "Companies 'don't want their IP exposed, so they're willing to pay'",
+      "published": "Tue, 08 Sep 2026 14:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=1681127&width=800"
+    },
+    {
+      "title": "EV batteries last longer than drivers feared",
+      "link": "https://arstechnica.com/cars/2026/09/ev-batteries-last-longer-than-drivers-feared/",
+      "summary": "Study suggests used vehicles can retain about 90% of original usable battery capacity after 150,000 km.",
+      "published": "Tue, 08 Sep 2026 13:56:38 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2293339723-1024x648.jpg"
+    },
+    {
+      "title": "UK energy operator sticks with Palantir in £21M direct award",
+      "link": "https://www.theregister.com/public-sector/2026/09/08/uk-energy-operator-sticks-with-palantir-in-21m-direct-award/5294947",
+      "summary": "Proprietary platform keeps incumbent in place while NESO prepares a future competition",
+      "published": "Tue, 08 Sep 2026 13:17:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=259070&width=800"
+    },
+    {
+      "title": "Poseidon Aerospace lands $60M ahead of first pilotless test flight",
+      "link": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
+      "summary": "The startup is trying to rethink the economics of cargo aircraft by removing pilots from the equation entirely.",
+      "published": "Tue, 08 Sep 2026 13:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/poseidon-aero-egret.jpg?resize=1200,800"
+    },
+    {
+      "title": "With another huge infusion of cash, Stoke Space goes even bigger",
+      "link": "https://arstechnica.com/space/2026/09/stoke-space-sets-debut-launch-target-reveals-plans-for-larger-rocket/",
+      "summary": "The space economy will grow exactly as fast as we can launch rockets.",
+      "published": "Tue, 08 Sep 2026 12:29:18 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Stage2-1152x648.jpg"
+    },
     {
       "title": "Grindr pays £26M to settle UK privacy class action",
       "link": "https://www.theregister.com/legal/2026/09/08/grindr-pays-26m-to-settle-uk-privacy-class-action/5294935",
@@ -8,6 +144,14 @@
       "published": "Tue, 08 Sep 2026 12:27:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=257046&width=800"
+    },
+    {
+      "title": "Someone AI-Generated a Completely Fake Eminem Song and It’s Going Viral on YouTube",
+      "link": "https://futurism.com/future-society/ai-fake-eminem-song-viral-youtube",
+      "summary": "<p>This is not the real Slim Shady.</p>\n<p>The post <a href=\"https://futurism.com/future-society/ai-fake-eminem-song-viral-youtube\">Someone AI-Generated a Completely Fake Eminem Song and It&#8217;s Going Viral on YouTube</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 08 Sep 2026 11:57:12 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/ai-fake-eminem-song-viral-youtube.jpg?quality=85&w=2048"
     },
     {
       "title": "Whitehall's latest plan to get things done: Less Whitehall",
@@ -48,6 +192,14 @@
       "published": "Tue, 08 Sep 2026 09:00:00 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Stage2.jpg?resize=1200,800"
+    },
+    {
+      "title": "Journalist Accuses Ohio’s Main Newspaper of Slapping Her Name on an AI “Express Desk” Article Without Her Knowledge, While She Was on Honeymoon",
+      "link": "https://futurism.com/artificial-intelligence/journalist-accuses-local-newspaper-ai-article",
+      "summary": "<p>\"Does Cleveland.com think they just own my name now?\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/journalist-accuses-local-newspaper-ai-article\">Journalist Accuses Ohio&#8217;s Main Newspaper of Slapping Her Name on an AI &#8220;Express Desk&#8221; Article Without Her Knowledge, While She Was on Honeymoon</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Tue, 08 Sep 2026 08:48:06 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/journalist-accuses-local-newspaper-ai-article.jpg?quality=85&w=2048"
     },
     {
       "title": "‘Global reckoning’ is coming for big tech, says Australian minister",
@@ -96,14 +248,6 @@
       "published": "Sun, 06 Sep 2026 16:45:00 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg?resize=1200,800"
-    },
-    {
-      "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
-      "link": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "published": "Sun, 06 Sep 2026 16:08:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-street-getty.jpg?resize=1200,800"
     },
     {
       "title": "Dyson’s New AI Toothbrush Conducts Video Surveillance on the Inside of Your Mouth",
@@ -186,52 +330,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/billionaires-tech-executives-ai-data-centers-ad-blitz.jpg?quality=85&w=2048"
     },
     {
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-      "published": "Sat, 05 Sep 2026 22:49:55 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/03/artifact-newspaper-icon.jpg?resize=1200,645"
-    },
-    {
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-      "published": "Sat, 05 Sep 2026 19:35:24 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2017/11/gettyimages-677147499.jpg?resize=1200,600"
-    },
-    {
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-      "published": "Sat, 05 Sep 2026 18:05:27 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024"
-    },
-    {
-      "title": "Clucky’s new alarm app wakes you up with a crowing rooster",
-      "link": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
-      "summary": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.",
-      "published": "Sat, 05 Sep 2026 17:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Clucky.png?w=1200"
-    },
-    {
       "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
       "link": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
       "summary": "The US government is investigating whether the Cybercab meets vehicle safety standards.",
       "published": "Sat, 05 Sep 2026 15:17:36 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2183782392-1152x648.jpg"
-    },
-    {
-      "title": "Oura is going public, but these smart ring companies are coming for its crown",
-      "link": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
-      "summary": "While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an edge over it.",
-      "published": "Sat, 05 Sep 2026 15:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800"
     },
     {
       "title": "The CDC Is Now Denying That Specific Children Died From Measles, in a Scandal Potentially Beyond Anything in Its History",
@@ -242,36 +346,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/newborn-died-measles-rfks-cdc-denies.jpg?quality=85&w=2048"
     },
     {
-      "title": "Hikers Rescued After Using Google AI to Plan Disastrous Trip",
-      "link": "https://futurism.com/artificial-intelligence/hikers-rescued-google-ai-plan",
-      "summary": "<p>This needs to stop now.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/hikers-rescued-google-ai-plan\">Hikers Rescued After Using Google AI to Plan Disastrous Trip</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sat, 05 Sep 2026 12:03:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/hikers-rescued-google-ai-plan.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Melatonin Use Linked to Massively Increased Risk of Heart Failure",
-      "link": "https://futurism.com/health-medicine/melatonin-heart-failure-cardiovascular-health",
-      "summary": "<p>\"Melatonin supplements may not be as harmless as commonly assumed.\"</p>\n<p>The post <a href=\"https://futurism.com/health-medicine/melatonin-heart-failure-cardiovascular-health\">Melatonin Use Linked to Massively Increased Risk of Heart Failure</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Sat, 05 Sep 2026 11:02:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/melatonin-heart-failure-cardiovascular-health.jpg?quality=85&w=2048"
-    },
-    {
       "title": "Opaque recurrence, and other AI terms that you should probably know",
       "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
       "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
       "published": "Mon, 07 Sep 2026 19:24:00 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Chain-of-thought-picture.png?resize=1200,800"
-    },
-    {
-      "title": "Matt Clifford to leave ARIA before Anthropic role becomes a 'distraction'",
-      "link": "https://www.theregister.com/public-sector/2026/09/07/matt-clifford-to-leave-aria-before-anthropic-role-becomes-a-distraction/5294861",
-      "summary": "MPs welcome move but still want answers over how the conflict of interest was allowed to arise",
-      "published": "Mon, 07 Sep 2026 18:02:47 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=4093186&width=800"
     },
     {
       "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
@@ -282,68 +362,12 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2018/11/GettyImages-491583120.jpg?resize=1200,838"
     },
     {
-      "title": "US watchdog opens probe into Tesla's Cybercab self-certification",
-      "link": "https://www.theregister.com/offbeat/2026/09/07/us-watchdog-opens-probe-into-teslas-cybercab-self-certification/5294833",
-      "summary": "Wheels turning on the road and in government",
-      "published": "Mon, 07 Sep 2026 17:53:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=160249&width=800"
-    },
-    {
-      "title": "DRAM contract prices forecast to grow only 13-18% in Q3",
-      "link": "https://www.theregister.com/storage/2026/09/07/dram-contract-prices-forecast-to-grow-only-13-18-in-q3/5294776",
-      "summary": "PC buyers already had enough of helping to fund the AI revolution, only essential refreshes happening now",
-      "published": "Mon, 07 Sep 2026 17:20:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=257307&width=800"
-    },
-    {
-      "title": "Nightwing CEO has a Labor Day message for staff – and apparently The Register",
-      "link": "https://www.theregister.com/security/2026/09/07/nightwing-ceo-has-a-labor-day-message-for-staff-and-apparently-the-register/5294819",
-      "summary": "Nothing says ‘For internal use only’ quite like emailing it to the press",
-      "published": "Mon, 07 Sep 2026 16:43:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5254719&width=800"
-    },
-    {
       "title": "What we expect from the upcoming Apple launch",
       "link": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
       "summary": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
       "published": "Mon, 07 Sep 2026 15:58:00 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1182217069.jpg?resize=1200,800"
-    },
-    {
-      "title": "Oracle may be next in EU software licensing hot seat following SAP deal",
-      "link": "https://www.theregister.com/software/2026/09/07/oracle-may-be-next-in-eu-software-licensing-hot-seat-following-sap-deal/5294805",
-      "summary": "Commission reportedly seeks third-party views, although no formal investigation is underway",
-      "published": "Mon, 07 Sep 2026 15:56:51 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=241510&width=800"
-    },
-    {
-      "title": "Hackers drain $320M in Bitcoin from Liquid Network, claim they're the good guys",
-      "link": "https://www.theregister.com/security/2026/09/07/hackers-drain-320m-in-bitcoin-from-liquid-network-claim-theyre-the-good-guys/5294770",
-      "summary": "Self-described white hats promise to return 'most' of the 4,000 BTC once the vulnerability is fixed",
-      "published": "Mon, 07 Sep 2026 15:26:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=262699&width=800"
-    },
-    {
-      "title": "Asahi Linux takes on Apple M3, minus a few creature comforts",
-      "link": "https://www.theregister.com/os-platforms/2026/09/07/asahi-linux-takes-on-apple-m3-minus-a-few-creature-comforts/5294788",
-      "summary": "Most hardware works, although graphics, sleep, and external displays need more attention",
-      "published": "Mon, 07 Sep 2026 15:01:09 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=261233&width=800"
-    },
-    {
-      "title": "Nitter lives to proxy another day after taking legal advice",
-      "link": "https://www.theregister.com/personal-tech/2026/09/07/nitter-lives-to-proxy-another-day-after-taking-legal-advice/5294754",
-      "summary": "Public instance XCancel uncancelled after X Corp's cease-and-desist campaign, with others promised shortly",
-      "published": "Mon, 07 Sep 2026 14:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=257063&width=800"
     },
     {
       "title": "The complex corporate web behind a $3.2 billion AI data center",
@@ -384,14 +408,6 @@
       "published": "Mon, 07 Sep 2026 07:01:00 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/meta-bricks-perv-smart-glasses.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
-      "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-      "summary": "The round is being raised just months after the robot data startup exited from stealth.",
-      "published": "Fri, 04 Sep 2026 23:36:14 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/DSC_2479.jpg?resize=1200,800"
     },
     {
       "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
@@ -466,100 +482,84 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/l4d2-1152x648-1788538783.png"
     },
     {
-      "title": "Second complete map of a fruit fly brain completed",
-      "link": "https://arstechnica.com/science/2026/09/brain-of-a-male-fly-completely-mapped-joins-earlier-map-of-a-female-brain/",
-      "summary": "Every neuron and connection in the brain of a fly has been mapped—twice.",
-      "published": "Fri, 04 Sep 2026 16:24:24 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/image-1152x648.jpeg"
-    },
-    {
-      "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
-      "link": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
-      "summary": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose.",
-      "published": "Fri, 04 Sep 2026 16:22:18 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285051730-1152x648.jpg"
-    },
-    {
-      "title": "Xiaomi’s wide foldable promises more power than Samsung’s",
-      "link": "https://www.theverge.com/tech/991008/xiaomi-18-fold-hands-on-impressions-specs-wide",
-      "summary": "Xiaomi is the latest manufacturer to release a short, wide foldable phone, in the week Apple is expected to do the same. I got to try the 18 Fold behind closed doors at IFA last week, and while it looks and feels similar enough to Samsung's Galaxy Z Fold 8, superior specs make it feel [&#8230;]",
-      "published": "2026-09-08T03:00:00-04:00",
+      "title": "Tesla Cybercab doesn’t have any manual controls — but it does have a virtual joystick",
+      "link": "https://www.theverge.com/transportation/991400/tesla-cybercab-virtual-joystick-manual-control",
+      "summary": "The Tesla Cybercab is notable for what it lacks, namely a steering wheel and pedal. By design, there is no way for this vehicle to be manually controlled - or so we thought. Less than a week after the Cybercab was officially launched in Austin, Texas, some riders have discovered the Cybercab's secret manual controls [&#8230;]",
+      "published": "2026-09-08T12:06:56-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xiaomi-18-fold-hands-on-impressions-10.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292810033.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
-      "link": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
-      "summary": "China is getting first crack at a British technology that might change how mobile games are made and played. Today, the Xiaomi 18 Fold launches in mainland China with an Arm Mali G2-Ultra NX graphics processor inside its custom Xring O3 chip. What's so special about that? After five years of development, Arm now has [&#8230;]",
-      "published": "2026-09-07T22:00:00-04:00",
+      "title": "The White House pulls its racist Tetris clone",
+      "link": "https://www.theverge.com/games/991451/white-house-pulls-racist-tetris-clone",
+      "summary": "The White House has taken down its racist Tetris ripoff days after launching a website dedicated to \"arcade games,\" as spotted earlier by Kotaku. The Tetris clone, called \"Build the Wall,\" involved stacking different-sized blocks to prevent a \"zombie border siege.\" It's not clear why the White House removed the title, though the Tetris Company [&#8230;]",
+      "published": "2026-09-08T12:00:51-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xiaomi-18-fold-3-1.webp?quality=90&#038;strip=all&#038;crop=0,15.600243753809,62.2,75.399615618994"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-08-at-11.57.22-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
-      "link": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price",
-      "summary": "When shopping for an electric vehicle, affordability is becoming a more common trait. But affordable and energy efficient is truly a rare breed. Often you have to sacrifice one for the other. Want something affordable? Great, here's a range loser. Want something that goes the distance? Be ready to pay the price. Surprisingly, here comes [&#8230;]",
-      "published": "2026-09-07T16:03:41-04:00",
+      "title": "Pusheen’s first game is coming to Apple Arcade",
+      "link": "https://www.theverge.com/games/991398/pusheen-apple-arcade-game",
+      "summary": "Pusheen is getting her first game, and it will appear exclusively on Apple Arcade. Launching October 1st, Pusheen's Place lets you collect and care for more than 100 Pusheens as you play minigames and decorate rooms for Pusheenicorn, Pancake Pusheen, and other variations of the cartoon cat. In the mix of minigames, you'll \"sort color [&#8230;]",
+      "published": "2026-09-08T11:07:13-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/A264389_large.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Apple-Arcade-Pusheens-Place-key-art.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Six years later, Sony revisits its legendary XM4 headphones",
-      "link": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
-      "summary": "Six years ago Sony and Bose were in the middle of a noise-canceling battle, with each new model of headphones better than the last. In the fall of 2020, Sony released the WH-1000XM4 headphones to wide acclaim. They sat atop best headphones lists for years, thanks to their great sound, competitive ANC, and compact size, [&#8230;]",
-      "published": "2026-09-07T12:00:00-04:00",
+      "title": "JBL’s soundbar with detachable rear speakers is over $300 off",
+      "link": "https://www.theverge.com/gadgets/991261/jbl-soundbar-detachable-speakers-final-fantasy-deal-sale",
+      "summary": "A lot of people are split between getting a nice all-in-one soundbar or spending more for an option that includes rear satellites for immersive surround sound. JBL’s Bar 700 Mark 2 system is one of the most unique options available, shipping with two modular speakers that charge when docked to the soundbar. When detached, the [&#8230;]",
+      "published": "2026-09-08T11:03:07-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/sony-wh-1000xm4c-headphones-comparison.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/jbllead.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "EcoFlow makes the miniature power station even smaller",
-      "link": "https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller",
-      "summary": "If you're in the market for a tiny power station that punches well above its size and weight then have a look at EcoFlow's new fourth-generation River series. The River 260 Gen4 features a 256Wh capacity battery while the 520 Gen4 packs in 512Wh - storing about 2.5x and 5x the energy of the largest [&#8230;]",
-      "published": "2026-09-07T10:59:41-04:00",
+      "title": "Nintendo’s Ocarina of Time remake launches in November",
+      "link": "https://www.theverge.com/games/991218/zelda-ocarina-of-time-remake-release-date-trailer",
+      "summary": "Link's next adventure now has a release date. During a Legend of Zelda stream for the franchise's 40th anniversary, Nintendo announced that the upcoming Ocarina of Time remake for the Switch 2 is launching on November 5th. The release date makes Ocarina of Time one of just a few big-budget titles launching in the same [&#8230;]",
+      "published": "2026-09-08T10:26:02-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IFA_R4_0.3kWh_Outdoor.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/NS2_TheLegendofZeldaOcarinaofTime_scrn_16.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "The real reason your phone is getting more expensive",
-      "link": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
-      "summary": "When Apple debuts the next generation of iPhones this week, they're likely to come with an unwanted change: a higher price tag. A price hike from the supply-chain powerhouse would be the clearest sign yet that soaring memory costs have become unavoidable - with no end to the memory crunch in sight. Call it \"chipflation\" [&#8230;]",
-      "published": "2026-09-07T08:00:00-04:00",
+      "title": "A word with a woman who’s trying to pull off a crossbody phone strap",
+      "link": "https://www.theverge.com/tech/990849/crossbody-phone-strap-style",
+      "summary": "Oh, this thing? It's just a crossbody strap. It's a fun and youthful way to carry your phone. It's all the rage with Europeans and young people. I love it, and I definitely don't feel weird and self-conscious using it. Plus, it's great to have a $700 investment dangling near your waist while you walk [&#8230;]",
+      "published": "2026-09-08T10:04:37-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257955_iPhone_17_ProMax_Air_VPavic_0007.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/mobile-crossbodymultistrap-ocean-159A1490.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds",
-      "link": "https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8",
-      "summary": "Thanks to their ability to provide a smooth ride and quiet powertrain with ease, electric vehicles are a true shoo-in for the high-end luxury automotive segment. Rolls-Royce has the Spectre, Cadillac's Celestiq is taking bespoke to a whole new level, and Mercedes has given the EQS the full Maybach treatment. From Volkswagen Auto Group, Bentley [&#8230;]",
-      "published": "2026-09-07T07:00:00-04:00",
+      "title": "SteelSeries’ pro-grade, wireless Xbox controller sure is expensive",
+      "link": "https://www.theverge.com/games/990263/steelseries-aeon-pro-xbox-pc-controller-price-features",
+      "summary": "SteelSeries is a household name for many gamers, but not when it comes to controllers. Instead of easing into the conversation with reasonably-priced console and PC controllers to build trust, it's kicking down the door with the $259.99 Aeon Pro wireless controller for Xbox and PC, which is now available. What does one of the [&#8230;]",
+      "published": "2026-09-08T10:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/BentleyTorcalEV5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/aeonpro3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Huawei copies Samsung’s privacy display in its latest trifold",
-      "link": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display",
-      "summary": "Huawei has released its third trifold phone in China, and the company has clearly had half an eye on Samsung during development. Not only does the Mate XT 2 adopt the inward-folding form factor used on Samsung's Galaxy Z TriFold, it's also the first foldable to include a privacy-enhancing display, much like the one Samsung [&#8230;]",
-      "published": "2026-09-07T06:09:42-04:00",
+      "title": "Microsoft breaks another patch Tuesday record",
+      "link": "https://www.theverge.com/tech/991178/microsoft-patch-tuesday-record-breaking-ai-notepad",
+      "summary": "Engineers at Microsoft typically enjoy a quieter summer to take vacations and spend time with family, as is common at many companies. But this year, the season has been unusually busy for Windows and security engineers, thanks to new AI models that are discovering software vulnerabilities at a rapid pace. Sources tell me that Microsoft [&#8230;]",
+      "published": "2026-09-08T10:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/huawei-mate-xt-2-ultimate-design-design-2x.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK095_MICROSOFT_2_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by [&#8230;]",
-      "published": "2026-09-06T19:36:04-04:00",
+      "title": "Google’s Atlas of the human genome could pave the way for new treatments",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
+      "summary": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases. The platform, called AlphaGenome Atlas, contains a \"predictive map of every possible DNA letter change in [&#8230;]",
+      "published": "2026-09-08T10:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292926705.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "An Amazon cargo plane crashed at Miami International Airport",
-      "link": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
-      "summary": "A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the injuries was not clear at the time of publication. In the aftermath of the incident, the FAA released a statement [&#8230;]",
-      "published": "2026-09-06T16:56:38-04:00",
+      "title": "The Legend of Zelda 40th Anniversary Direct: All the news and trailers",
+      "link": "https://www.theverge.com/games/991265/the-legend-of-zelda-40th-anniversary-direct",
+      "summary": "The Legend of Zelda franchise turns 40 this year, and Nintendo has some news in store. The company is airing a Zelda-themed Direct on September 8th at 10AM ET (it&#8217;s actually the first of two news-filled events), which is expected to last around 30 minutes and, according to Nintendo, will include a &#8220;variety of information [&#8230;]",
+      "published": "2026-09-08T09:50:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2293852643.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/TotK_3rd_45.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
