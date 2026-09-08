@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-07T21:21:03.895788",
+  "lastUpdated": "2026-09-08T03:54:59.973566",
   "articles": [
+    {
+      "title": "Huawei proudly shows off an entirely un-American chip",
+      "link": "https://www.theregister.com/systems/2026/09/08/huawei-proudly-shows-off-an-entirely-un-american-chip/5294900",
+      "summary": "Resistance is futile",
+      "published": "Tue, 08 Sep 2026 04:22:05 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5294906&width=800"
+    },
+    {
+      "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
+      "link": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
+      "summary": "Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction workers real-time, hands-free guidance through smartphones and Meta's AI glasses, backed by $25 million from Elad Gil, Khosla Ventures, and Lennar to tackle a labor shortage severe enough that data center projects alone now need 4,000 to 5,000 workers apiece.",
+      "published": "Tue, 08 Sep 2026 02:16:39 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Construction-worker-Ray-Bans.png?resize=1200,800"
+    },
     {
       "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
       "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
@@ -338,14 +354,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/elon-musk-argues-chess_3188f3.jpg?quality=85&w=2048"
     },
     {
-      "title": "Amazon-branded plane in fatal accident at Miami Airport",
-      "link": "https://www.theregister.com/on-prem/2026/09/07/amazon-branded-plane-in-fatal-accident-at-miami-airport/5294707",
-      "summary": "Couldn’t stop before the end of a runway",
-      "published": "Mon, 07 Sep 2026 09:02:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=240942&width=800"
-    },
-    {
       "title": "Man Arrested After Allegedly Shooting Flaming Projectile at Flock Cameras, Melting Them Into Slag",
       "link": "https://futurism.com/future-society/flock-alpr-arrest-flaming-projectile-melt-slag",
       "summary": "<p>\"What it boils down to is this, either y'all can take them down or somebody will!\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/flock-alpr-arrest-flaming-projectile-melt-slag\">Man Arrested After Allegedly Shooting Flaming Projectile at Flock Cameras, Melting Them Into Slag</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -400,14 +408,6 @@
       "published": "Fri, 04 Sep 2026 22:17:36 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg"
-    },
-    {
-      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-      "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-      "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
-      "published": "Fri, 04 Sep 2026 21:12:11 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2266843677.jpg?resize=1200,800"
     },
     {
       "title": "Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths",
@@ -482,6 +482,14 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285051730-1152x648.jpg"
     },
     {
+      "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
+      "link": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
+      "summary": "China is getting first crack at a British technology that might change how mobile games are made and played. Today, the Xiaomi 18 Fold launches in mainland China with an Arm Mali G2-Ultra NX graphics processor inside its custom Xring O3 chip. What's so special about that? After five years of development, Arm now has [&#8230;]",
+      "published": "2026-09-07T22:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xiaomi-18-fold-3-1.webp?quality=90&#038;strip=all&#038;crop=0,15.600243753809,62.2,75.399615618994"
+    },
+    {
       "title": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
       "link": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price",
       "summary": "When shopping for an electric vehicle, affordability is becoming a more common trait. But affordable and energy efficient is truly a rare breed. Often you have to sacrifice one for the other. Want something affordable? Great, here's a range loser. Want something that goes the distance? Be ready to pay the price. Surprisingly, here comes [&#8230;]",
@@ -552,14 +560,6 @@
       "published": "2026-09-06T15:04:22-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/c-Isar-Aerospace-Flight-2_2026-09-05-224332_ylbv.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Boox’s tiny Picco e-reader should land in November",
-      "link": "https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa",
-      "summary": "Boox teased the Picco, its take on the buzzy Xteink X4 e-reader, back in July, but provided almost no details. Now, thanks to some reporting out of IFA, we've got a bit more info, though sadly still no price. Unlike the Xteink devices, the Picco will not have magnets on the back for attaching to [&#8230;]",
-      "published": "2026-09-06T12:28:58-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Onyx-Boox-Picco-1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
