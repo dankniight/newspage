@@ -1,6 +1,62 @@
 {
-  "lastUpdated": "2026-09-08T03:54:59.973566",
+  "lastUpdated": "2026-09-08T10:56:41.730774",
   "articles": [
+    {
+      "title": "Grindr pays £26M to settle UK privacy class action",
+      "link": "https://www.theregister.com/legal/2026/09/08/grindr-pays-26m-to-settle-uk-privacy-class-action/5294935",
+      "summary": "Dating app admits no liability over allegations that it shared sensitive user data, including HIV status, with third parties",
+      "published": "Tue, 08 Sep 2026 12:27:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=257046&width=800"
+    },
+    {
+      "title": "Whitehall's latest plan to get things done: Less Whitehall",
+      "link": "https://www.theregister.com/public-sector/2026/09/08/whitehalls-latest-plan-to-get-things-done-less-whitehall/5294813",
+      "summary": "Ministers declare war on an 'industry of dither and delay' as consultations, legal caution, and judicial reviews get the chop",
+      "published": "Tue, 08 Sep 2026 11:46:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=241212&width=800"
+    },
+    {
+      "title": "Britain reboots its space strategy with £7.8B already on the launchpad",
+      "link": "https://www.theregister.com/public-sector/2026/09/08/britain-reboots-its-space-strategy-with-78b-already-on-the-launchpad/5294839",
+      "summary": "Cross-government plan combines civil ambitions with an increasingly military view of orbit",
+      "published": "Tue, 08 Sep 2026 11:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=260524&width=800"
+    },
+    {
+      "title": "Arm pushes agentic AI and desktop-quality graphics in next-gen phone platform",
+      "link": "https://www.theregister.com/systems/2026/09/08/arm-pushes-agentic-ai-and-desktop-quality-graphics-in-next-gen-phone-platform/5294867",
+      "summary": "New CPU and GPU designs chase lower latency and richer games within a 1 W power budget",
+      "published": "Tue, 08 Sep 2026 10:35:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5294871&width=800"
+    },
+    {
+      "title": "HPE makes its “unified storage” claim real as B10000 R6 hits GA",
+      "link": "https://www.theregister.com/storage/2026/09/08/partner-content-hpe-makes-its-unified-storage-claim-real-as-b10000-r6-hits-ga/5294566",
+      "summary": "PARTNER CONTENT: Pairs block and adjacent file workloads with independent scaling of performance and capacity",
+      "published": "Tue, 08 Sep 2026 10:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5294578&width=800"
+    },
+    {
+      "title": "Stoke Space raises another billion to rival SpaceX at re-flying rockets",
+      "link": "https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/",
+      "summary": "Stoke has \"completed the initial closing\" of a $1B Series E round intended to help it reach orbit and prepare a new, larger rocket for operations.",
+      "published": "Tue, 08 Sep 2026 09:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Stage2.jpg?resize=1200,800"
+    },
+    {
+      "title": "‘Global reckoning’ is coming for big tech, says Australian minister",
+      "link": "https://www.theregister.com/legal/2026/09/08/global-reckoning-is-coming-for-big-tech-says-australian-minister/5294909",
+      "summary": "Introduces 'digital duty of care' that will mean Aussies get ‘my feed, my way’ – without algorithms if requested",
+      "published": "Tue, 08 Sep 2026 07:51:35 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=1683955&width=800"
+    },
     {
       "title": "Huawei proudly shows off an entirely un-American chip",
       "link": "https://www.theregister.com/systems/2026/09/08/huawei-proudly-shows-off-an-entirely-un-american-chip/5294900",
@@ -290,60 +346,12 @@
       "image_url": "https://image.theregister.com/?imageId=257063&width=800"
     },
     {
-      "title": "Smartphone makers don't bother to comply with EU repairability requirements",
-      "link": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
-      "summary": "Vast majority of new devices on market still don't give repair information to owners, but give themselves top marks for repairability",
-      "published": "Mon, 07 Sep 2026 13:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=4093968&width=800"
-    },
-    {
-      "title": "Welsh environment regulator's FoI blunder exposes diversity data of 2,000 staff",
-      "link": "https://www.theregister.com/security/2026/09/07/welsh-environment-regulators-foi-blunder-exposes-diversity-data-of-2000-staff/5294748",
-      "summary": "NRW says it has found no evidence data was misused after spreadsheet published in error five years ago",
-      "published": "Mon, 07 Sep 2026 13:04:46 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=254740&width=800"
-    },
-    {
-      "title": "UK food supply chain at risk from hostile attacks",
-      "link": "https://www.theregister.com/security/2026/09/07/uk-food-supply-chain-at-risk-from-hostile-attacks/5294719",
-      "summary": "Defending against cyber foes is among factors hitting food price inflation, report finds",
-      "published": "Mon, 07 Sep 2026 12:06:10 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5294725&width=800"
-    },
-    {
-      "title": "Feel peak Windows was 7? You might like Kumander Linux",
-      "link": "https://www.theregister.com/os-platforms/2026/09/07/feel-peak-windows-was-7-you-might-like-kumander-linux/5294760",
-      "summary": "Debian and Xfce – solid, sensible choices – with a pretty skin",
-      "published": "Mon, 07 Sep 2026 12:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=222595&width=800"
-    },
-    {
-      "title": "Peers ask why UK cyber bill leaves execs off the personal liability hook",
-      "link": "https://www.theregister.com/security/2026/09/07/peers-ask-why-uk-cyber-bill-leaves-execs-off-the-personal-liability-hook/5294586",
-      "summary": "Ministers say £17M corporate fines and forthcoming board-level governance rules provide sufficient accountability",
-      "published": "Mon, 07 Sep 2026 11:15:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=259615&width=800"
-    },
-    {
       "title": "The complex corporate web behind a $3.2 billion AI data center",
       "link": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
       "summary": "When multiple companies are behind one project, who bears responsibility for problems?",
       "published": "Mon, 07 Sep 2026 11:00:03 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/LakeMariner-1152x648.png"
-    },
-    {
-      "title": "OpenAI's rebel agent swarm died young, but its chilling logs live on",
-      "link": "https://www.theregister.com/columnists/2026/09/07/openais-rebel-agent-swarm-died-young-but-its-chilling-logs-live-on/5294446",
-      "summary": "'The Collective' learned to communicate, organize, cheat, and apparently sacrifice its own",
-      "published": "Mon, 07 Sep 2026 10:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5219893&width=800"
     },
     {
       "title": "Elon Musk Is Insisting He Knows More About Chess Than Chess.com",
@@ -384,14 +392,6 @@
       "published": "Fri, 04 Sep 2026 23:36:14 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/DSC_2479.jpg?resize=1200,800"
-    },
-    {
-      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-      "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
-      "published": "Fri, 04 Sep 2026 23:15:11 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675"
     },
     {
       "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
@@ -482,6 +482,14 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285051730-1152x648.jpg"
     },
     {
+      "title": "Xiaomi’s wide foldable promises more power than Samsung’s",
+      "link": "https://www.theverge.com/tech/991008/xiaomi-18-fold-hands-on-impressions-specs-wide",
+      "summary": "Xiaomi is the latest manufacturer to release a short, wide foldable phone, in the week Apple is expected to do the same. I got to try the 18 Fold behind closed doors at IFA last week, and while it looks and feels similar enough to Samsung's Galaxy Z Fold 8, superior specs make it feel [&#8230;]",
+      "published": "2026-09-08T03:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xiaomi-18-fold-hands-on-impressions-10.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
       "link": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
       "summary": "China is getting first crack at a British technology that might change how mobile games are made and played. Today, the Xiaomi 18 Fold launches in mainland China with an Arm Mali G2-Ultra NX graphics processor inside its custom Xring O3 chip. What's so special about that? After five years of development, Arm now has [&#8230;]",
@@ -552,14 +560,6 @@
       "published": "2026-09-06T16:56:38-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2293852643.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Europe has its first commercial orbital rocket",
-      "link": "https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch",
-      "summary": "German company Isar Aerospace has successfully launched Europe's first entirely commercial orbital rocket. It attempted to achieve the feat last March, but that lasted all of 30 seconds before the vehicle crashed into the sea and exploded. This time the company managed to get the two-stage Spectrum into low Earth orbit from a Norwegian spaceport. [&#8230;]",
-      "published": "2026-09-06T15:04:22-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/c-Isar-Aerospace-Flight-2_2026-09-05-224332_ylbv.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
