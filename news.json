@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T10:57:49.509125",
+  "lastUpdated": "2026-09-10T16:07:43.144343",
   "articles": [
     {
       "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
@@ -26,15 +26,7 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2001268132.jpeg?resize=1200,800"
     },
     {
-      "title": "Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago",
-      "link": "https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/",
-      "summary": "John Ternus made the case in his first keynote as Apple CEO that the iPhone isn't going anywhere.",
-      "published": "Wed, 09 Sep 2026 20:58:09 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2264179980.jpg?resize=1200,800"
-    },
-    {
-      "title": "4 groups caught using the same Chrome and Windows exploit kit",
+      "title": "Four groups caught using the same Chrome and Windows exploit kit",
       "link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
       "summary": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
       "published": "Wed, 09 Sep 2026 20:55:02 +0000",
@@ -50,36 +42,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2237740895-1024x648.jpg"
     },
     {
-      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
-      "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
-      "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
-      "published": "Wed, 09 Sep 2026 20:24:48 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/live-rewind.jpg?resize=1200,679"
-    },
-    {
       "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
       "link": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
       "summary": "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models.",
       "published": "Wed, 09 Sep 2026 20:06:28 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2199506955-1024x648.jpg"
-    },
-    {
-      "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
-      "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
-      "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
-      "published": "Wed, 09 Sep 2026 20:03:43 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-2.56.54-PM.png?resize=1200,730"
-    },
-    {
-      "title": "There are new shiny iPhones, so Apple is making you pay more for older models",
-      "link": "https://techcrunch.com/2026/09/09/there-are-new-shiny-iphones-so-apple-is-making-you-pay-more-for-older-models/",
-      "summary": "Apple is raising the price of its existing iPhone models by $100, including iPhone 16, iPhone 17, and iPhone Air.",
-      "published": "Wed, 09 Sep 2026 19:56:18 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/apple-store-iphone-17.jpg?resize=1200,800"
     },
     {
       "title": "Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo",
@@ -98,28 +66,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/beatles-1152x648.jpg"
     },
     {
-      "title": "The hinge for Apple’s new foldable phone was built with AI",
-      "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
-      "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
-      "published": "Wed, 09 Sep 2026 19:21:48 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-2.14.55-PM.jpg?resize=1200,687"
-    },
-    {
       "title": "Lawsuit: Amazon refused to give pregnant workers bathroom breaks and chairs",
       "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/",
       "summary": "Four women sue Amazon, say company denied basic accommodations and fired them.",
       "published": "Wed, 09 Sep 2026 19:09:20 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/amazon-warehouse-1152x648-1788978717.jpg"
-    },
-    {
-      "title": "Apple Watch’s new feature listens to your chats and recaps them",
-      "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-feature-listens-to-your-chats-and-recaps-them/",
-      "summary": "The Siri Recap feature is similar to other note-taking apps like Granola.",
-      "published": "Wed, 09 Sep 2026 19:08:59 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Apple-watch-granola.jpg?resize=1200,675"
     },
     {
       "title": "Apple debuts $129 AirPods 5 with better noise cancellation and transparency mode",
@@ -144,46 +96,6 @@
       "published": "Wed, 09 Sep 2026 18:39:36 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/GettyImages-1231396408-1152x648.jpg"
-    },
-    {
-      "title": "Harvey hits $15.5B valuation, months after reaching $11B",
-      "link": "https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/",
-      "summary": "The legal AI startup and VC darling has nearly doubled its valuation in nine months.",
-      "published": "Wed, 09 Sep 2026 18:34:24 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/Screenshot-2025-11-14-at-11.50.31-AM.png?resize=1200,863"
-    },
-    {
-      "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
-      "link": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
-      "summary": "The update uses Apple Intelligence to make better sense of your health data.",
-      "published": "Wed, 09 Sep 2026 18:16:29 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-1.42.28-PM.jpg?resize=1200,727"
-    },
-    {
-      "title": "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day",
-      "link": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/",
-      "summary": "Most notably, Apple is taking aim at the growing wave of AI wearables with new \"Audio Intelligence\" features that let you rewind moments and remember details from daily conversations.",
-      "published": "Wed, 09 Sep 2026 18:08:46 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Apple-Watch-Series-12-2up-260909_big.jpg.medium_2x.jpg?resize=1200,675"
-    },
-    {
-      "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
-      "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
-      "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
-      "published": "Wed, 09 Sep 2026 18:08:35 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Apple-iPhone-18-Pro-Photos-app-Apple-Reference-Image-260909_big.jpg.large_2x.jpg?resize=1200,800"
-    },
-    {
-      "title": "Apple shows off AirPods 5 with improved active noise cancellation",
-      "link": "https://techcrunch.com/2026/09/09/apple-shows-off-airpods-5-with-improved-active-noise-cancellation/",
-      "summary": "The AirPods 5 support better noise cancellation, Siri AI, and offer volume controls on the stem.",
-      "published": "Wed, 09 Sep 2026 18:06:40 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/airpods5-e1788977289405.png?w=1198"
     },
     {
       "title": "Apple's iPhone 18 Pro adds variable camera aperture and a more powerful chip",
@@ -240,14 +152,6 @@
       "published": "Wed, 09 Sep 2026 15:14:15 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/teslas-glitchy-cybercab-accidentally-lets-passengers-access-controls-to-manually-drive.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "NOAA is putting commercial fishing ahead of conservation",
-      "link": "https://arstechnica.com/science/2026/09/noaa-is-putting-commercial-fishing-ahead-of-conservation/",
-      "summary": "Critics say the new agenda could weaken science-based rules and marine protections.",
-      "published": "Wed, 09 Sep 2026 13:58:44 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-588701496-1152x648.jpg"
     },
     {
       "title": "Numerous Deaths Reported at Burning Man",
@@ -322,36 +226,252 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/elon-musk-shaken-documentary.jpg?quality=85&w=2048"
     },
     {
-      "title": "Fashion Founder Emily Oberg Says She Tried Using AI for Photo Shoots, and It Was a Failure Because It Will “Never Possess Good Taste” Like Humans Do",
-      "link": "https://futurism.com/artificial-intelligence/fashion-founder-emily-oberg-ai-taste",
-      "summary": "<p>\"The smartest AI in the world can learn everything there is to know about taste and style, but the feeling will never be there.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/fashion-founder-emily-oberg-ai-taste\">Fashion Founder Emily Oberg Says She Tried Using AI for Photo Shoots, and It Was a Failure Because It Will &#8220;Never Possess Good Taste&#8221; Like Humans Do</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 08 Sep 2026 15:52:24 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/fashion-founder-emily-oberg-ai-taste.jpg?quality=85&w=2048"
+      "title": "Azure SQL Data Sync stops taking newcomers before 2027 execution",
+      "link": "https://www.theregister.com/databases/2026/09/10/azure-sql-data-sync-stops-taking-newcomers-before-2027-execution/5295579",
+      "summary": "Existing customers can carry on for now, but Microsoft offers no like-for-like successor",
+      "published": "Thu, 10 Sep 2026 16:47:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=223152&width=800"
     },
     {
-      "title": "Scientists Say LLMs Appear to Be Acting as a Cognitive Virus Among Humans",
-      "link": "https://futurism.com/future-society/llms-acting-as-cognitive-virus-among-humans",
-      "summary": "<p>They're infecting us — and actively making us dumber.</p>\n<p>The post <a href=\"https://futurism.com/future-society/llms-acting-as-cognitive-virus-among-humans\">Scientists Say LLMs Appear to Be Acting as a Cognitive Virus Among Humans</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 08 Sep 2026 15:02:18 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/llms-acting-as-cognitive-virus-among-humans.jpg?quality=85&w=2048"
+      "title": "Nscale swallows lion's share of UK datacenter investment",
+      "link": "https://www.theregister.com/on-prem/2026/09/10/nscale-swallows-lions-share-of-uk-datacenter-investment/5295541",
+      "summary": "Tracxn credits one AI infrastructure outfit with $3.7B of sector's $5.7B haul",
+      "published": "Thu, 10 Sep 2026 16:08:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=236882&width=800"
     },
     {
-      "title": "Amazon Cargo Jet Crashes Just Feet From Parking Lot Full of Tesla Cybercabs, Killing Five",
-      "link": "https://futurism.com/future-society/amazon-cargo-jet-crashes-parking-lot-tesla-cybercabs",
-      "summary": "<p>What were they doing there?</p>\n<p>The post <a href=\"https://futurism.com/future-society/amazon-cargo-jet-crashes-parking-lot-tesla-cybercabs\">Amazon Cargo Jet Crashes Just Feet From Parking Lot Full of Tesla Cybercabs, Killing Five</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 08 Sep 2026 13:45:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/amazon-cargo-jet-crashes-parking-lot-tesla-cybercabs.jpg?quality=85&w=2048"
+      "title": "Google is making it easier to switch between password managers on Android",
+      "link": "https://techcrunch.com/2026/09/10/google-is-making-it-easier-to-switch-between-password-managers-on-android/",
+      "summary": "Google's new feature will transfer your passkeys as well",
+      "published": "Thu, 10 Sep 2026 16:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Hero-Image.jpeg?resize=1200,675"
     },
     {
-      "title": "Dolly Parton’s Sister Begs Public to Stop Posting “Fake AI Garbage” in the Wake of the Beloved Singer’s Death",
-      "link": "https://futurism.com/artificial-intelligence/dolly-parton-sister-slop",
-      "summary": "<p>\"it's been challenging to absorb and or ignore.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/dolly-parton-sister-slop\">Dolly Parton&#8217;s Sister Begs Public to Stop Posting &#8220;Fake AI Garbage&#8221; in the Wake of the Beloved Singer&#8217;s Death</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 08 Sep 2026 12:59:56 -0400",
+      "title": "ShinyHunters expose 6.4M in attack on medical supplier McKesson",
+      "link": "https://www.theregister.com/security/2026/09/10/shinyhunters-expose-64m-in-attack-on-medical-supplier-mckesson/5295550",
+      "summary": "Have I Been Pwned logs leaked records spanning patients, staff, and providers",
+      "published": "Thu, 10 Sep 2026 15:13:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=230190&width=800"
+    },
+    {
+      "title": "The Boring Company raises $3B in round led by UAE",
+      "link": "https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/",
+      "summary": "The company said it plans to dig more than 150 kilometers of tunnels in the Middle Eastern country.",
+      "published": "Thu, 10 Sep 2026 15:07:27 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1311710604.jpg?resize=1200,770"
+    },
+    {
+      "title": "d-Matrix drinks the Nvidia Kool-Aid with NVLink Fusion and MGX rack designs",
+      "link": "https://www.theregister.com/systems/2026/09/10/d-matrix-drinks-the-nvidia-kool-aid-with-nvlink-fusion-and-mgx-rack-designs/5295403",
+      "summary": "AI infrastructure startup joins Qualcomm, Arm, Marvell, Amazon, Fujitsu, and MediaTek as NVLink true believers",
+      "published": "Thu, 10 Sep 2026 15:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5295411&width=800"
+    },
+    {
+      "title": "AI agents are flooding public services with new requests",
+      "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+      "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
+      "published": "Thu, 10 Sep 2026 14:53:50 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2264911748.jpg?resize=1200,705"
+    },
+    {
+      "title": "Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation",
+      "link": "https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/",
+      "summary": "Bending Spoons is buying Miro for $1.36B, a huge dip in valuation for the workplace collaboration startup, which was valued at $17.5B in late 2021.",
+      "published": "Thu, 10 Sep 2026 14:34:09 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Miro_Header-2400x1260-copy-1536x806-1.png?resize=1200,630"
+    },
+    {
+      "title": "Ministers rejected NATS reimbursement plan before 2,000 UK flights were cancelled",
+      "link": "https://www.theregister.com/public-sector/2026/09/10/ministers-rejected-nats-reimbursement-plan-before-2000-uk-flights-were-cancelled/5295529",
+      "summary": "Government orders independent review as carriers demand boss's resignation",
+      "published": "Thu, 10 Sep 2026 14:28:32 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5288528&width=800"
+    },
+    {
+      "title": "Maven Robotics wants to steal your robot deployment deal",
+      "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+      "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
+      "published": "Thu, 10 Sep 2026 14:17:37 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Hamza-Khalid-2-1.jpg?resize=800,1200"
+    },
+    {
+      "title": "Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs",
+      "link": "https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/",
+      "summary": "The four-year agreement will cover rice farms across three Indian states, reaching about 100,000 hectares at peak delivery.",
+      "published": "Thu, 10 Sep 2026 13:34:01 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800"
+    },
+    {
+      "title": "Trezor, BitBox users targeted in newsletter phishing spree",
+      "link": "https://www.theregister.com/cyber-crime/2026/09/10/trezor-bitbox-users-targeted-in-newsletter-phishing-spree/5295496",
+      "summary": "Attackers exploit legitimate mailing channels to demand crypto wallet backups",
+      "published": "Thu, 10 Sep 2026 13:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5240537&width=800"
+    },
+    {
+      "title": "ID verification giant IDScan confirms data breach with more than 150 million driver’s licenses stolen",
+      "link": "https://techcrunch.com/2026/09/10/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen/",
+      "summary": "The ID checking company said the data breach included people's full names and driver's licenses and other government-issued identity documents.",
+      "published": "Thu, 10 Sep 2026 13:21:09 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-681253878.jpg?resize=1200,788"
+    },
+    {
+      "title": "Snapchat takes aim at Partiful with new event-planning features",
+      "link": "https://techcrunch.com/2026/09/10/snapchat-takes-aim-at-partiful-with-new-event-planning-features/",
+      "summary": "Snapchat says the new features can be used to organize everything from birthday celebrations and sporting events to study sessions and weekend hangouts.",
+      "published": "Thu, 10 Sep 2026 13:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200"
+    },
+    {
+      "title": "Defense tech Mach Industries doubles valuation to $3.7B in 3 months",
+      "link": "https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/",
+      "summary": "The buzzy startup raised another $600 million in a Series C extension round, bringing the total of the round to $900 million.",
+      "published": "Thu, 10 Sep 2026 13:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/EthanThornton5.jpg?resize=1200,931"
+    },
+    {
+      "title": "AI uprising postponed after Copilot falls off the web",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/10/ai-uprising-postponed-after-copilot-falls-off-the-web/5295475",
+      "summary": "Error 1016 kept the chatbot quiet for 100 minutes while a separate resilience drill swallowed suggestion pills",
+      "published": "Thu, 10 Sep 2026 12:30:50 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=1619823&width=800"
+    },
+    {
+      "title": "European founders and VCs urge lawmakers ‘to get EU Inc right’",
+      "link": "https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/",
+      "summary": "Amid negotiations for a new EU-wide corporate status, an open letter signed by unicorn founders and investors warns that 'EU Inc.' shouldn’t be watered down.",
+      "published": "Thu, 10 Sep 2026 12:25:08 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2266663070.jpg?resize=1200,800"
+    },
+    {
+      "title": "US Army places $11M bet on Austin-based GPS alternative Tern",
+      "link": "https://techcrunch.com/2026/09/10/us-army-places-11m-bet-on-austin-based-gps-alternative-tern/",
+      "summary": "Tern has described its tech as \"Google Maps for the battlefield.\"",
+      "published": "Thu, 10 Sep 2026 12:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/TERN_IDPS_Offroad2-copy.jpg?resize=1200,809"
+    },
+    {
+      "title": "German optics giant ditches greenfield SAP migration",
+      "link": "https://www.theregister.com/software/2026/09/10/german-optics-giant-ditches-greenfield-sap-migration/5295251",
+      "summary": "'Realigned' project plan aims to move existing landscape to new platform to 'achieve faster progress'",
+      "published": "Thu, 10 Sep 2026 11:45:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=256250&width=800"
+    },
+    {
+      "title": "Artemis II commander and pilot become NASA's first astronaut emeriti",
+      "link": "https://arstechnica.com/space/2026/09/artemis-ii-commander-and-pilot-become-nasas-first-astronaut-emeriti/",
+      "summary": "\"Artemis II is done.\"",
+      "published": "Thu, 10 Sep 2026 11:30:42 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/news-090926a-lg-1152x648.jpg"
+    },
+    {
+      "title": "There’s a Huge Economic Problem With Tesla’s Cybercabs",
+      "link": "https://futurism.com/future-society/economic-problem-tesla-cybercabs",
+      "summary": "<p>Buyers beware.</p>\n<p>The post <a href=\"https://futurism.com/future-society/economic-problem-tesla-cybercabs\">There&#8217;s a Huge Economic Problem With Tesla&#8217;s Cybercabs</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Thu, 10 Sep 2026 11:08:43 -0400",
       "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/dolly-parton-sister-ai-slop.jpg?quality=85&w=2048"
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/economic-problem-tesla-cybercabs.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "Digital sovereignty sounds great until you try ditching your suppliers",
+      "link": "https://www.theregister.com/paas-and-iaas/2026/09/10/digital-sovereignty-sounds-great-until-you-try-ditching-your-suppliers/5294997",
+      "summary": "Most organizations say tech independence is unrealistic – and one in ten can't replace a critical provider at all",
+      "published": "Thu, 10 Sep 2026 11:05:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=233350&width=800"
+    },
+    {
+      "title": "Anthropic Is Building a Huge Surveillance System to Spy on Anti-AI Activists and Predict Their Activities",
+      "link": "https://futurism.com/artificial-intelligence/anthropic-surveillance-predictive-system-spy-ai-activists",
+      "summary": "<p>\"What could have been a high-stress situation was really mitigated through early detection.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/anthropic-surveillance-predictive-system-spy-ai-activists\">Anthropic Is Building a Huge Surveillance System to Spy on Anti-AI Activists and Predict Their Activities</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Thu, 10 Sep 2026 10:43:14 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/anthropic-surveillance-predictive-system-spy-ai-activists.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "Mother Horrified When Meta’s AI Scours Instagram and Facebook for Invasive Information About Her Young Daughters",
+      "link": "https://futurism.com/artificial-intelligence/mother-horrified-meta-ai-family",
+      "summary": "<p>\"It just kept going and going, and that pit in my stomach just kept getting bigger and deeper.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/mother-horrified-meta-ai-family\">Mother Horrified When Meta&#8217;s AI Scours Instagram and Facebook for Invasive Information About Her Young Daughters</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Thu, 10 Sep 2026 09:29:36 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/mother-horrified-meta-ai-family_1f3953.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "Dental contractor set up secret account with access to 4,000 patient records then left the company",
+      "link": "https://www.theregister.com/security/2026/09/10/dental-contractor-set-up-secret-account-with-access-to-4000-patient-records-then-left-the-company/5295361",
+      "summary": "Toothless security",
+      "published": "Thu, 10 Sep 2026 09:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=256731&width=800"
+    },
+    {
+      "title": "Fire Marshal Uncovers House of Horrors Lurking Inside Bitcoin-Mining Data Center",
+      "link": "https://futurism.com/future-society/fire-marshal-house-horrors-data-center-bitcoin",
+      "summary": "<p>A disaster waiting to happen.</p>\n<p>The post <a href=\"https://futurism.com/future-society/fire-marshal-house-horrors-data-center-bitcoin\">Fire Marshal Uncovers House of Horrors Lurking Inside Bitcoin-Mining Data Center</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Thu, 10 Sep 2026 08:28:36 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/fire-marshall-horror-bitcoin-mining-center.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "Laptop-slinger Framework refunding customers who paid top dollar for RAM",
+      "link": "https://www.theregister.com/personal-tech/2026/09/10/laptop-slinger-framework-refunding-customers-who-paid-top-dollar-for-ram/5295439",
+      "summary": "Puts a whole new spin on ‘Cheap as chips’",
+      "published": "Thu, 10 Sep 2026 08:23:12 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5262109&width=800"
+    },
+    {
+      "title": "Microsoft goes after Salesforce and ERP users with AI-powered converter",
+      "link": "https://www.theregister.com/software/2026/09/10/microsoft-goes-after-salesforce-and-erp-users-with-ai-powered-converter/5295428",
+      "summary": "Ironically, this idea lands as Salesforce is struggling to sell its own AI",
+      "published": "Thu, 10 Sep 2026 06:53:32 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5295433&width=800"
+    },
+    {
+      "title": "VMware defends ending downloads of SDK that helps VM backups – or migrations to rivals",
+      "link": "https://www.theregister.com/virtualization/2026/09/10/vmware-defends-ending-downloads-of-sdk-that-helps-vm-backups-or-migrations-to-rivals/5295421",
+      "summary": "Says license was never about moving VMs",
+      "published": "Thu, 10 Sep 2026 04:05:58 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5295489&width=800"
+    },
+    {
+      "title": "Anthropic reveals fourth likely crime committed by its AI",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/10/anthropic-reveals-fourth-likely-crime-committed-by-its-ai/5295412",
+      "summary": "Claude's Felony Bench rap sheet is now as long as OpenAI's",
+      "published": "Thu, 10 Sep 2026 01:20:59 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5295418&width=800"
+    },
+    {
+      "title": "Novel Blue Moon kit targeting Chrome and Windows reflects new reality of AI-driven exploits",
+      "link": "https://www.theregister.com/research/2026/09/09/novel-blue-moon-kit-targeting-chrome-and-windows-reflects-new-reality-of-ai-driven-exploits/5295399",
+      "summary": "Mind the patch gap, please and thank you",
+      "published": "Thu, 10 Sep 2026 00:28:53 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5295408&width=800"
     },
     {
       "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
@@ -362,84 +482,84 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2221463618.jpg?resize=1200,800"
     },
     {
-      "title": "The Trump phone just got a $250 price hike",
-      "link": "https://www.theverge.com/gadgets/993242/trump-phone-t1-price-hike",
-      "summary": "Bad news if you didn't lock in a Trump phone at launch: It now costs $749, a $250 increase on its price at launch. The T1 Phone itself hasn't changed. Trump Mobile didn't announce the price increase, instead quietly changing its website overnight. This wasn't a total surprise though, especially given the phone ships with [&#8230;]",
-      "published": "2026-09-10T05:13:04-04:00",
+      "title": "Universal Music is launching an AI music platform with ElevenLabs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+      "summary": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is developing the platform through a multi-year licensing agreement with ElevenLabs, a company that specializes [&#8230;]",
+      "published": "2026-09-10T11:38:19-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268626_Trump_phone_AKrales_0713.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Nintendo’s latest Switch 2 update adds VRR support in TV mode",
-      "link": "https://www.theverge.com/news/993231/nintendo-switch-2-vrr-support-firmware-update",
-      "summary": "Nintendo always promised that the Switch 2 would support variable refresh rate (VRR) when docked, but the console launched without this key feature. A new 23.0.0 firmware update now adds VRR support to the Switch 2 when it's docked and in TV mode. VRR adjusts a display's refresh rate to match a game's frame rate, [&#8230;]",
-      "published": "2026-09-10T05:07:00-04:00",
+      "title": "Where to preorder the new Apple Watch Series 12 and Ultra 4",
+      "link": "https://www.theverge.com/gadgets/988579/apple-watch-series-12-5g-ultra-4-preorder-buy",
+      "summary": "The iPhone Duo was the unequivocal star of Apple's \"Surprise and shine\" event, but not for people who were mostly paying attention for news on wearables. Thankfully, Apple had a lot to share about its new Apple Watch Series 12 and Ultra 4. There's no update to the SE model for 2026, which isn't necessarily [&#8230;]",
+      "published": "2026-09-10T11:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0395_588c1a.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0035.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Xbox picks up Kojima&#8217;s Physint after PlayStation dropped it",
-      "link": "https://www.theverge.com/games/993205/physint-hideo-kojima-sony-playstation-microsoft-xbox",
-      "summary": "Xbox will now publish Physint, an upcoming game from Metal Gear creator Hideo Kojima, after PlayStation decided to cancel it. The unexpected swap came in a flurry of announcements from PlayStation, Xbox, Kojima Productions, and Kojima himself. Sony, which published both of Kojima Productions' previous Death Stranding games, framed it as a \"difficult decision to [&#8230;]",
-      "published": "2026-09-10T04:22:40-04:00",
+      "title": "Wolverine on the PS5 goes back to a simpler (and bloodier) style of action game",
+      "link": "https://www.theverge.com/games/992937/wolverine-review-ps5",
+      "summary": "Marvel's Wolverine captures just how angry its lead character is. The latest PS5 exclusive from Spider-Man developer Insomniac, Wolverine is a straightforward action game that is at its best when you're (literally) slicing through enemies or thrust into a sequence pulled from a blockbuster movie, like climbing the fuselage of a plane as it careens [&#8230;]",
+      "published": "2026-09-10T11:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/physint-kojima-xbox-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/MW_ExtGameplay_WolverineHero_4k_2026.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI",
-      "link": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
-      "summary": "It's been about three years since Volvo discontinued its plug-in hybrid XC40. The mild hybrid version remains on sale in the US and elsewhere, alongside the electric EX40. Today, Volvo announced it was bringing back the PHEV version and giving it a major facelift. When it arrives at dealerships early next year, the new XC40 [&#8230;]",
-      "published": "2026-09-10T03:00:00-04:00",
+      "title": "Meta’s Muse AI works and creeps me out",
+      "link": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+      "summary": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, emails, trip-planning, and more. I decided to try out the new tool and see how well it performed - [&#8230;]",
+      "published": "2026-09-10T11:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/The_New_Volvo_XC40_Studio_Front_34.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/muse-ai-window.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "There aren’t AirPods with cameras yet and I hope it stays that way",
-      "link": "https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event",
-      "summary": "September Apple events are always a swirl of information and new, exciting products, and today's was no different. Apple announced its first foldable, the iPhone Duo, alongside the iPhone 18 Pro and Pro Max; active noise cancellation (ANC) is now on the cheapest AirPods model, the AirPods 5; and a Siri Recap feature comes to [&#8230;]",
-      "published": "2026-09-09T19:00:04-04:00",
+      "title": "Another big James Talarico interview is punted to YouTube due to FCC threats",
+      "link": "https://www.theverge.com/policy/993383/jimmy-kimmel-fcc-brendan-carr-james-talarico",
+      "summary": "Jimmy Kimmel will be interviewing Democratic Texas Senate candidate James Talarico \"under unusual circumstances,\" posting the interview directly to YouTube, rather than airing it on TV during Jimmy Kimmel Live. In Wednesday night's episode, Kimmel said this was out of concern for retaliation from the Trump administration's FCC: [Trump's] FCC has threatened me, threatened our [&#8230;]",
+      "published": "2026-09-10T10:34:36-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0108.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2277879774.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "The black iPhone Pro returns",
-      "link": "https://www.theverge.com/tech/993048/iphone-18-pro-black-color",
-      "summary": "Apple has seen reason: It has a black model in the iPhone Pro lineup again. Last year, Apple went bold with its colors for the iPhone 17 Pro, offering a flashy orange, a shiny silver, and a dark blue. Don't get me wrong, they looked nice. But there was no black (or dark gray) for [&#8230;]",
-      "published": "2026-09-09T18:37:51-04:00",
+      "title": "The iPhone Duo’s hardware doesn’t look special, but its software might be",
+      "link": "https://www.theverge.com/tech/993300/iphone-duo-hardware-software-android-samsung-oppo",
+      "summary": "With the iPhone Duo, Apple has pulled off a familiar trick. It arrives into a mature Android foldable market with a handful of hardware features we've mostly already seen elsewhere, but paired with a level of software polish that makes a lot of them feel new again. It's those software flourishes that have me excited [&#8230;]",
+      "published": "2026-09-10T10:21:38-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_NPatel_0006.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "The incomplete history of Duo devices",
-      "link": "https://www.theverge.com/tech/992755/apple-iphone-duo-history-of-devices",
-      "summary": "Apple announced the company's first device with a folding screen today, the iPhone Duo, but that's where the firsts end. The Duo is not only far from the first foldable on the market thanks to the efforts of Samsung and Google, but it's also not the first product to be called the Duo. Former Apple [&#8230;]",
-      "published": "2026-09-09T18:23:35-04:00",
+      "title": "How the iPhone Duo compares to other folding phones",
+      "link": "https://www.theverge.com/gadgets/988542/iphone-duo-foldable-samsung-google-spec-comparison",
+      "summary": "Apple's foldable phone is finally here - well, almost. The iPhone Duo, coming October 23rd, follows in the footsteps of past folding devices from Android phone makers like Samsung, OnePlus, and Google, with a $1,999 price tag that sits just above the Pixel 11 Pro Fold and Galaxy Z Fold 8. While its hardware bears [&#8230;]",
+      "published": "2026-09-10T10:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/duo6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Automattic CEO Matt Mullenweg placed on leave",
-      "link": "https://www.theverge.com/tech/993022/wordpress-automattic-ceo-matt-mullenweg-leave-of-absence",
-      "summary": "Matt Mullenweg, the CEO of WordPress.com owner Automattic, has been placed on a paid leave of absence, as reported earlier by 404 Media. In an internal message by the outlet, Mullenweg claims Automattic chief financial officer Mark Davies \"conspired\" with board members to place him on leave. \"They voted to put me on a paid [&#8230;]",
-      "published": "2026-09-09T18:15:52-04:00",
+      "title": "Why the current tech backlash feels different",
+      "link": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
+      "summary": "This interview has been lightly edited for length and clarity.&#160; Nick Statt: Hello and welcome to Decoder, Nilay&#8217;s show about big ideas and other problems. This is Nick Statt, senior producer. And I&#8217;m joined by our brand-new supervising producer, Greg Ott. Greg Ott: Good day, everyone. And Hi, Nilay. Nilay is here too. He is [&#8230;]",
+      "published": "2026-09-10T10:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2181259946.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_Mailbag.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "It’s the year of smartphone price hikes",
-      "link": "https://www.theverge.com/gadgets/993005/smartphone-price-hikes-apple-iphone-18-pro",
-      "summary": "Paying more for a new phone seems almost unavoidable after Apple's event today. The new iPhone 18 Pro and Pro Max start at $1,199 and $1,299, respectively - a $100 price hike over their predecessors. You can't dodge the price hike by opting for an older iPhone, either, because Apple raised prices on those by [&#8230;]",
-      "published": "2026-09-09T17:52:43-04:00",
+      "title": "New standards for masculinity are stacked against men’s health",
+      "link": "https://www.theverge.com/column/993135/optimizer-cialis-tadalafil-mens-health",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Whenever the algorithm serves up a steaming pile of looksmaxxing, I flash back to an old sketch from That Mitchell [&#8230;]",
+      "published": "2026-09-10T10:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_NPatel_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-151060900.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Suno releases its first AI music model made with record industry help",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
-      "summary": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of data that does not include the same data that our previous models were trained on.\" The data includes content licensed [&#8230;]",
-      "published": "2026-09-09T17:42:19-04:00",
+      "title": "Snapchat makes it easier to plan events and meetups",
+      "link": "https://www.theverge.com/tech/993184/snapchat-makes-it-easier-to-plan-events-and-meetups",
+      "summary": "Snapchat is launching Plans, a new suite of features designed to help turn the plans already being made in group chats - everything from birthday celebrations to study sessions and weekend hangouts - into real life get-togethers without ever leaving the app. Plans lets users set event details, invite up to 200 friends with invitations [&#8230;]",
+      "published": "2026-09-10T09:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Suno_v6_Main.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/snapchat-plans.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
