@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T03:59:20.474968",
+  "lastUpdated": "2026-09-10T10:57:49.509125",
   "articles": [
     {
       "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
@@ -10,36 +10,12 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg-bling-watch.jpg?resize=1200,799"
     },
     {
-      "title": "AI models don't kill people – people kill people",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368",
-      "summary": "AI fearmongers forget we could just jail tech execs until morale and model safety improve",
-      "published": "Wed, 09 Sep 2026 22:44:06 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5295388&width=800"
-    },
-    {
-      "title": "Apple hawks $2k folding fondleslab",
-      "link": "https://www.theregister.com/personal-tech/2026/09/09/apple-hawks-2k-folding-fondleslab/5295381",
-      "summary": "Another new form factor for devs to adapt to",
-      "published": "Wed, 09 Sep 2026 22:38:18 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5295384&width=800"
-    },
-    {
       "title": "OpenAI adds a prominent AI doomer to its board of directors",
       "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
       "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
       "published": "Wed, 09 Sep 2026 22:25:22 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800"
-    },
-    {
-      "title": "Samsung to help fortify OpenAI's semiconductor supply chain",
-      "link": "https://www.theregister.com/systems/2026/09/09/samsung-to-help-fortify-openais-semiconductor-supply-chain/5295374",
-      "summary": "Semiconductor supply chains are hard, but Samsung offers OpenAI relief in many forms spanning compute and memory",
-      "published": "Wed, 09 Sep 2026 22:18:35 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=230443&width=800"
     },
     {
       "title": "Massachusetts hits data centers with new clean power rules",
@@ -122,14 +98,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/beatles-1152x648.jpg"
     },
     {
-      "title": "Serial Microsoft 0-day hunter drops yet another Defender exploit",
-      "link": "https://www.theregister.com/security/2026/09/09/serial-microsoft-0-day-hunter-drops-yet-another-defender-exploit/5295335",
-      "summary": "A bypass of a bypass of a bypass",
-      "published": "Wed, 09 Sep 2026 19:23:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=4094178&width=800"
-    },
-    {
       "title": "The hinge for Apple’s new foldable phone was built with AI",
       "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
       "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
@@ -160,14 +128,6 @@
       "published": "Wed, 09 Sep 2026 18:58:24 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/AIrPods-5-1152x648.jpg"
-    },
-    {
-      "title": "Chinese researchers find egg-cellent way to keep space debris from scrambling craft",
-      "link": "https://www.theregister.com/offbeat/2026/09/09/chinese-researchers-find-egg-cellent-way-to-keep-space-debris-from-scrambling-craft/5295340",
-      "summary": "Eggy armor cuts projectile speed in simulations as LEO gets increasingly crowded",
-      "published": "Wed, 09 Sep 2026 18:56:41 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5295348&width=800"
     },
     {
       "title": "Apple starts preorders for Watch Series 12, Ultra 4 with new Health Sensing System",
@@ -226,28 +186,12 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/airpods5-e1788977289405.png?w=1198"
     },
     {
-      "title": "Google takes the nuclear option for €13B Finland expansion",
-      "link": "https://www.theregister.com/on-prem/2026/09/09/google-takes-the-nuclear-option-for-13b-finland-expansion/5295306",
-      "summary": "22-year power deal covers up to half of Loviisa plant's capacity, with wind and battery projects alongside",
-      "published": "Wed, 09 Sep 2026 18:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=4093872&width=800"
-    },
-    {
       "title": "Apple's iPhone 18 Pro adds variable camera aperture and a more powerful chip",
       "link": "https://arstechnica.com/gadgets/2026/09/apples-iphone-18-pro-adds-variable-camera-aperture-and-a-more-powerful-chip/",
       "summary": "There's also a new thermal management system, reducing overheating.",
       "published": "Wed, 09 Sep 2026 17:38:53 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/iPhone-17-Pro-1152x648.jpg"
-    },
-    {
-      "title": "UK government says Fujitsu won't use framework places to chase new customers",
-      "link": "https://www.theregister.com/public-sector/2026/09/09/uk-government-says-fujitsu-wont-use-framework-places-to-chase-new-customers/5295312",
-      "summary": "Procurement officials promise to police the scandal-hit supplier's voluntary bidding moratorium",
-      "published": "Wed, 09 Sep 2026 17:17:55 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=227651&width=800"
     },
     {
       "title": "Popular navigation apps unlikely to ditch Mercator maps despite UN resolution",
@@ -290,36 +234,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2201567552-1152x648.jpg"
     },
     {
-      "title": "Cryptocrook ringleader, 22, who met crew on Minecraft admits role in $245M heist",
-      "link": "https://www.theregister.com/cyber-crime/2026/09/09/cryptocrook-ringleader-22-who-met-crew-on-minecraft-admits-role-in-245m-heist/5295273",
-      "summary": "Stolen funds bought mansions, private jets, and supercars – now he faces up to 20 years",
-      "published": "Wed, 09 Sep 2026 15:39:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=241371&width=800"
-    },
-    {
       "title": "Tesla’s Glitchy Cybercab Accidentally Lets Passengers Access Controls to Manually Drive the Car Using Virtual Joystick on In-Vehicle Screen",
       "link": "https://futurism.com/advanced-transport/teslas-glitchy-cybercab-accidentally-lets-passengers-access-controls-to-manually-drive",
       "summary": "<p>\"I have a feeling I wasn't supposed to see this.\"</p>\n<p>The post <a href=\"https://futurism.com/advanced-transport/teslas-glitchy-cybercab-accidentally-lets-passengers-access-controls-to-manually-drive\">Tesla&#8217;s Glitchy Cybercab Accidentally Lets Passengers Access Controls to Manually Drive the Car Using Virtual Joystick on In-Vehicle Screen</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Wed, 09 Sep 2026 15:14:15 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/teslas-glitchy-cybercab-accidentally-lets-passengers-access-controls-to-manually-drive.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "WeChat worm could pwn a friend before they even answered the call",
-      "link": "https://www.theregister.com/security/2026/09/09/wechat-worm-could-pwn-a-friend-before-they-even-answered-the-call/5295234",
-      "summary": "Calif says AI helped turn a VoIP memory bug into cross-platform RCE before Tencent shut it down",
-      "published": "Wed, 09 Sep 2026 14:45:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=249321&width=800"
-    },
-    {
-      "title": "Microsoft closes the book on Publisher and unplugs Project Online",
-      "link": "https://www.theregister.com/software/2026/09/09/microsoft-closes-the-book-on-publisher-and-unplugs-project-online/5295205",
-      "summary": "Office 2021 joins the October retirement list as customers weigh pricier alternatives",
-      "published": "Wed, 09 Sep 2026 14:03:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5242280&width=800"
     },
     {
       "title": "NOAA is putting commercial fishing ahead of conservation",
@@ -338,14 +258,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/numerous-deaths-reported-burning-man.jpg?quality=85&w=2048"
     },
     {
-      "title": "Security boffin claims airport group left API keys in client-side JavaScript for four years",
-      "link": "https://www.theregister.com/cyber-crime/2026/09/09/security-boffin-claims-airport-group-left-api-keys-in-client-side-javascript-for-four-years/5295192",
-      "summary": "Researcher believes overprivileged Iterable creds exposed 8.8M customer records – and could have enabled mass deletion",
-      "published": "Wed, 09 Sep 2026 13:14:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5273664&width=800"
-    },
-    {
       "title": "Top NFL Receiver Insists There’s “Another Civilization” Living Deep Under Antarctica",
       "link": "https://futurism.com/future-society/nfl-receiver-dk-metcalf-conspiracy-theory-hollow-earth-antarctica",
       "summary": "<p>\"I think it's another world.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/nfl-receiver-dk-metcalf-conspiracy-theory-hollow-earth-antarctica\">Top NFL Receiver Insists There&#8217;s &#8220;Another Civilization&#8221; Living Deep Under Antarctica</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -360,22 +272,6 @@
       "published": "Wed, 09 Sep 2026 12:37:21 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/zuckerberg-meta-muse-handle.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Virgin Media offloads email services to third-party provider",
-      "link": "https://www.theregister.com/networks/2026/09/09/virgin-media-offloads-email-services-to-third-party-provider/5295230",
-      "summary": "Users given 45 days to save their mail or sign up with Junara",
-      "published": "Wed, 09 Sep 2026 12:30:07 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=1681267&width=800"
-    },
-    {
-      "title": "Huawei Watch D3 pumps up its health-monitoring credentials",
-      "link": "https://www.theregister.com/personal-tech/2026/09/09/huawei-watch-d3-pumps-up-its-health-monitoring-credentials/5294920",
-      "summary": "Inflatable wrist cuff delivers 24-hour blood pressure readings, though the design remains chunky",
-      "published": "Wed, 09 Sep 2026 11:45:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5294923&width=800"
     },
     {
       "title": "Anthropic Was Meant to Be the More Responsible AI Lab. A Terrified Researcher Just Quit, Saying the Company Is Threatening the Survival of Humankind.",
@@ -458,28 +354,44 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/dolly-parton-sister-ai-slop.jpg?quality=85&w=2048"
     },
     {
-      "title": "Anthropic reveals fourth likely crime committed by its AI",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/10/anthropic-reveals-fourth-likely-crime-committed-by-its-ai/5295412",
-      "summary": "Claude's Felony Bench rap sheet is now as long as OpenAI's",
-      "published": "Thu, 10 Sep 2026 01:20:59 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5295418&width=800"
-    },
-    {
-      "title": "Novel Blue Moon kit targeting Chrome and Windows reflects new reality of AI-driven exploits",
-      "link": "https://www.theregister.com/research/2026/09/09/novel-blue-moon-kit-targeting-chrome-and-windows-reflects-new-reality-of-ai-driven-exploits/5295399",
-      "summary": "Mind the patch gap, please and thank you",
-      "published": "Thu, 10 Sep 2026 00:28:53 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5295408&width=800"
-    },
-    {
       "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
       "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
       "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
       "published": "Thu, 10 Sep 2026 00:00:37 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2221463618.jpg?resize=1200,800"
+    },
+    {
+      "title": "The Trump phone just got a $250 price hike",
+      "link": "https://www.theverge.com/gadgets/993242/trump-phone-t1-price-hike",
+      "summary": "Bad news if you didn't lock in a Trump phone at launch: It now costs $749, a $250 increase on its price at launch. The T1 Phone itself hasn't changed. Trump Mobile didn't announce the price increase, instead quietly changing its website overnight. This wasn't a total surprise though, especially given the phone ships with [&#8230;]",
+      "published": "2026-09-10T05:13:04-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268626_Trump_phone_AKrales_0713.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Nintendo’s latest Switch 2 update adds VRR support in TV mode",
+      "link": "https://www.theverge.com/news/993231/nintendo-switch-2-vrr-support-firmware-update",
+      "summary": "Nintendo always promised that the Switch 2 would support variable refresh rate (VRR) when docked, but the console launched without this key feature. A new 23.0.0 firmware update now adds VRR support to the Switch 2 when it's docked and in TV mode. VRR adjusts a display's refresh rate to match a game's frame rate, [&#8230;]",
+      "published": "2026-09-10T05:07:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0395_588c1a.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Xbox picks up Kojima&#8217;s Physint after PlayStation dropped it",
+      "link": "https://www.theverge.com/games/993205/physint-hideo-kojima-sony-playstation-microsoft-xbox",
+      "summary": "Xbox will now publish Physint, an upcoming game from Metal Gear creator Hideo Kojima, after PlayStation decided to cancel it. The unexpected swap came in a flurry of announcements from PlayStation, Xbox, Kojima Productions, and Kojima himself. Sony, which published both of Kojima Productions' previous Death Stranding games, framed it as a \"difficult decision to [&#8230;]",
+      "published": "2026-09-10T04:22:40-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/physint-kojima-xbox-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI",
+      "link": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
+      "summary": "It's been about three years since Volvo discontinued its plug-in hybrid XC40. The mild hybrid version remains on sale in the US and elsewhere, alongside the electric EX40. Today, Volvo announced it was bringing back the PHEV version and giving it a major facelift. When it arrives at dealerships early next year, the new XC40 [&#8230;]",
+      "published": "2026-09-10T03:00:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/The_New_Volvo_XC40_Studio_Front_34.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "There aren’t AirPods with cameras yet and I hope it stays that way",
@@ -528,38 +440,6 @@
       "published": "2026-09-09T17:42:19-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Suno_v6_Main.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
-      "summary": "OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable achievement and a striking demonstration of just how rapidly AI is transforming mathematics. But before it was even formally announced, the breakthrough had been complicated by the unusual [&#8230;]",
-      "published": "2026-09-09T17:16:34-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292626872.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Read the Apple document explaining how new listening features still protect your privacy",
-      "link": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
-      "summary": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition. Alongside its announcement, Apple released a document laying out how it plans to balance AI \"ambient listening\" and users' privacy. It says the raw audio from the new [&#8230;]",
-      "published": "2026-09-09T16:44:43-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-audio-intelligence-recap-wide.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "How the new Apple Watches compare to the last-gen models",
-      "link": "https://www.theverge.com/gadgets/990508/apple-watch-series-12-ultra-4-spec-comparison",
-      "summary": "Apple rolled out the Apple Watch Series 12 and Apple Watch Ultra 4 at its \"Surprise and shine\" event. The new watches feature sizable improvements to their health sensors and tracking, plus the ability to create brief audio transcriptions and summaries, plus a ceramic case option for the Series 12. Despite the new features, the [&#8230;]",
-      "published": "2026-09-09T16:42:51-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0034.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Verge staffers react to the iPhone Duo: What we love and don’t love",
-      "link": "https://www.theverge.com/tech/992830/apple-iphone-duo-foldable-verge-staffers-react",
-      "summary": "Apple has just announced its first foldable iPhone, the iPhone Duo. The new phone has a 5.4-inch outer screen and a 7.6-inch inner screen, two back cameras, Touch ID for authentication, an IP68 rating, and all sorts of slick software tricks to make iOS feel more at home on the new device. Preorders start on [&#8230;]",
-      "published": "2026-09-09T15:45:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0009.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
