@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-09-09T20:44:52.436419",
+  "lastUpdated": "2026-09-10T03:59:20.474968",
   "articles": [
+    {
+      "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
+      "link": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+      "summary": "Mullenweg said in a company Slack message that it was against his will.",
+      "published": "Wed, 09 Sep 2026 23:14:29 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg-bling-watch.jpg?resize=1200,799"
+    },
+    {
+      "title": "AI models don't kill people – people kill people",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368",
+      "summary": "AI fearmongers forget we could just jail tech execs until morale and model safety improve",
+      "published": "Wed, 09 Sep 2026 22:44:06 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5295388&width=800"
+    },
+    {
+      "title": "Apple hawks $2k folding fondleslab",
+      "link": "https://www.theregister.com/personal-tech/2026/09/09/apple-hawks-2k-folding-fondleslab/5295381",
+      "summary": "Another new form factor for devs to adapt to",
+      "published": "Wed, 09 Sep 2026 22:38:18 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5295384&width=800"
+    },
+    {
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+      "published": "Wed, 09 Sep 2026 22:25:22 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800"
+    },
+    {
+      "title": "Samsung to help fortify OpenAI's semiconductor supply chain",
+      "link": "https://www.theregister.com/systems/2026/09/09/samsung-to-help-fortify-openais-semiconductor-supply-chain/5295374",
+      "summary": "Semiconductor supply chains are hard, but Samsung offers OpenAI relief in many forms spanning compute and memory",
+      "published": "Wed, 09 Sep 2026 22:18:35 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=230443&width=800"
+    },
+    {
+      "title": "Massachusetts hits data centers with new clean power rules",
+      "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+      "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+      "published": "Wed, 09 Sep 2026 21:43:34 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2001268132.jpeg?resize=1200,800"
+    },
+    {
+      "title": "Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago",
+      "link": "https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/",
+      "summary": "John Ternus made the case in his first keynote as Apple CEO that the iPhone isn't going anywhere.",
+      "published": "Wed, 09 Sep 2026 20:58:09 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2264179980.jpg?resize=1200,800"
+    },
+    {
+      "title": "4 groups caught using the same Chrome and Windows exploit kit",
+      "link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
+      "summary": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
+      "published": "Wed, 09 Sep 2026 20:55:02 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg"
+    },
+    {
+      "title": "Europe may finally have found a space entrepreneur who is meeting the moment",
+      "link": "https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/",
+      "summary": "\"We will not be relevant without a massive rocket at a massive cadence.\"",
+      "published": "Wed, 09 Sep 2026 20:27:40 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2237740895-1024x648.jpg"
+    },
     {
       "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
       "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
@@ -50,6 +122,14 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/beatles-1152x648.jpg"
     },
     {
+      "title": "Serial Microsoft 0-day hunter drops yet another Defender exploit",
+      "link": "https://www.theregister.com/security/2026/09/09/serial-microsoft-0-day-hunter-drops-yet-another-defender-exploit/5295335",
+      "summary": "A bypass of a bypass of a bypass",
+      "published": "Wed, 09 Sep 2026 19:23:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=4094178&width=800"
+    },
+    {
       "title": "The hinge for Apple’s new foldable phone was built with AI",
       "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
       "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
@@ -80,6 +160,14 @@
       "published": "Wed, 09 Sep 2026 18:58:24 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/AIrPods-5-1152x648.jpg"
+    },
+    {
+      "title": "Chinese researchers find egg-cellent way to keep space debris from scrambling craft",
+      "link": "https://www.theregister.com/offbeat/2026/09/09/chinese-researchers-find-egg-cellent-way-to-keep-space-debris-from-scrambling-craft/5295340",
+      "summary": "Eggy armor cuts projectile speed in simulations as LEO gets increasingly crowded",
+      "published": "Wed, 09 Sep 2026 18:56:41 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5295348&width=800"
     },
     {
       "title": "Apple starts preorders for Watch Series 12, Ultra 4 with new Health Sensing System",
@@ -122,7 +210,7 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Apple-Watch-Series-12-2up-260909_big.jpg.medium_2x.jpg?resize=1200,675"
     },
     {
-      "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
+      "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
       "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
       "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
       "published": "Wed, 09 Sep 2026 18:08:35 +0000",
@@ -138,12 +226,12 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/airpods5-e1788977289405.png?w=1198"
     },
     {
-      "title": "Apple unveils its first foldable, the iPhone Duo",
-      "link": "https://techcrunch.com/2026/09/09/apple-unveils-its-first-foldable-the-iphone-duo/",
-      "summary": "Apple today introduced its first foldable device, named the iPhone Duo, at its &#8220;Surprise and Shine&#8221; iPhone event held in Cupertino. The phone is the first marquee device launched under the company&#8217;s new CEO, John Ternus. Unlike early iterations of foldables, which looked like vertical slabs, Apple adopted a wider form factor that could aid [&#8230;]",
-      "published": "Wed, 09 Sep 2026 17:58:14 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675"
+      "title": "Google takes the nuclear option for €13B Finland expansion",
+      "link": "https://www.theregister.com/on-prem/2026/09/09/google-takes-the-nuclear-option-for-13b-finland-expansion/5295306",
+      "summary": "22-year power deal covers up to half of Loviisa plant's capacity, with wind and battery projects alongside",
+      "published": "Wed, 09 Sep 2026 18:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=4093872&width=800"
     },
     {
       "title": "Apple's iPhone 18 Pro adds variable camera aperture and a more powerful chip",
@@ -152,22 +240,6 @@
       "published": "Wed, 09 Sep 2026 17:38:53 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/iPhone-17-Pro-1152x648.jpg"
-    },
-    {
-      "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
-      "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
-      "summary": "The company also argued that its on-device models offer consumers more privacy.",
-      "published": "Wed, 09 Sep 2026 17:36:05 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/ternus-2.jpg?resize=1200,672"
-    },
-    {
-      "title": "Apple launches iPhone 18 Pro with upgraded camera",
-      "link": "https://techcrunch.com/2026/09/09/apple-launches-iphone-18-pro-with-upgraded-camera/",
-      "summary": "Apple's new iPhone 18 Pro lineup upgrades the camera and comes in burgundy.",
-      "published": "Wed, 09 Sep 2026 17:26:05 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/HRymOiMbQAAozT9.jpeg?resize=1200,675"
     },
     {
       "title": "UK government says Fujitsu won't use framework places to chase new customers",
@@ -194,12 +266,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-504013302-1152x648-1788971374.jpg"
     },
     {
-      "title": "DOJ wants more answers on Fox’s $22B Roku deal",
-      "link": "https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/",
-      "summary": "Fox’s $22 billion plan to buy Roku has hit a new hurdle. The Justice Department sent Fox and Roku what’s known as a “second request” on Tuesday, asking the companies to turn over more data and documents as it takes a closer look at the deal. That’s a fairly standard step in a major antitrust [&#8230;]",
-      "published": "Wed, 09 Sep 2026 16:44:21 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/04/roku-logo.jpg?resize=1200,800"
+      "title": "Man Announces That He Has Synthesized a New Schizophrenia Treatment in His Garage, Based on a Formula Devised by ChatGPT",
+      "link": "https://futurism.com/health-medicine/drug-schizophrenia-treatment-alzheimers-garage-lab-chatgpt",
+      "summary": "<p>\"Hello schizophrenic, take this medicine that chatgpt made for you.\"</p>\n<p>The post <a href=\"https://futurism.com/health-medicine/drug-schizophrenia-treatment-alzheimers-garage-lab-chatgpt\">Man Announces That He Has Synthesized a New Schizophrenia Treatment in His Garage, Based on a Formula Devised by ChatGPT</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Wed, 09 Sep 2026 16:58:53 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/drug-schizophrenia-treatment-alzheimers-garage-lab-chatgpt.jpg?quality=85&w=2048"
     },
     {
       "title": "Prime Video releases full trailer for Mike Flanagan's Carrie",
@@ -216,14 +288,6 @@
       "published": "Wed, 09 Sep 2026 16:34:18 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2201567552-1152x648.jpg"
-    },
-    {
-      "title": "Superintelligence is coming. Should we let it?",
-      "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
-      "summary": "AI companies have been talking about superintelligent AI like&#160;it&#8217;s&#160;inevitable, but recent&#160;safety incidents&#160;like&#160;OpenAI&#8217;s&#160;Hugging Face breach&#160;are&#160;demonstrating&#160;the potential dangers of deploying AI systems that are more capable than&#160;humans.&#160;So&#160;what happens when we&#160;can&#8217;t&#160;reliably control what these systems do?&#160; On this episode of TechCrunch&#8217;s&#160;Equity&#160;podcast, Rebecca Bellan is joined by&#160;Connor Leahy, an AI researcher, entrepreneur, and now the U.S. Executive Director of [&#8230;]",
-      "published": "Wed, 09 Sep 2026 16:05:35 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2021258442.jpg?resize=1200,800"
     },
     {
       "title": "Cryptocrook ringleader, 22, who met crew on Minecraft admits role in $245M heist",
@@ -314,22 +378,6 @@
       "image_url": "https://image.theregister.com/?imageId=5294923&width=800"
     },
     {
-      "title": "Switzerland tests a FOSS escape route from Microsoft 365",
-      "link": "https://www.theregister.com/os-platforms/2026/09/09/switzerland-tests-a-foss-escape-route-from-microsoft-365/5294878",
-      "summary": "Swiss Army sticks a knife in American cloud apps with its own FOSS push",
-      "published": "Wed, 09 Sep 2026 11:01:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=236158&width=800"
-    },
-    {
-      "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
-      "link": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
-      "summary": "Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt.",
-      "published": "Wed, 09 Sep 2026 11:00:10 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chatgpt-jesus2-1-1152x648.jpg"
-    },
-    {
       "title": "Anthropic Was Meant to Be the More Responsible AI Lab. A Terrified Researcher Just Quit, Saying the Company Is Threatening the Survival of Humankind.",
       "link": "https://futurism.com/artificial-intelligence/anthropic-ai-researcher-quits",
       "summary": "<p>\"We’re on track for a lot of the most aggressive of these scenarios where by the end of next year things could be out of control already.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/anthropic-ai-researcher-quits\">Anthropic Was Meant to Be the More Responsible AI Lab. A Terrified Researcher Just Quit, Saying the Company Is Threatening the Survival of Humankind.</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -352,70 +400,6 @@
       "published": "Wed, 09 Sep 2026 09:03:15 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/humanoid-robots-protest-poland-ai-regulation.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Another Microsoft team admits it’s struggling to handle flood of AI-generated code",
-      "link": "https://www.theregister.com/software/2026/09/09/another-microsoft-team-admits-its-struggling-to-handle-flood-of-ai-generated-code/5295185",
-      "summary": "Increase in vibe-coded browser extensions sees Edge team automate quality assessments",
-      "published": "Wed, 09 Sep 2026 08:34:21 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5271891&width=800"
-    },
-    {
-      "title": "Philippines bets AI will lift GDP by 12 percent in seven years – without hurting outsourcing",
-      "link": "https://www.theregister.com/public-sector/2026/09/09/philippines-bets-ai-will-lift-gdp-by-12-percent-in-seven-years-without-hurting-outsourcing/5295178",
-      "summary": "Plans 30x datacenter expansion for less than what big tech spends in a month",
-      "published": "Wed, 09 Sep 2026 07:25:44 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=250045&width=800"
-    },
-    {
-      "title": "US claims Chinese AI companies’ core AI strategy is distilling American models",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/09/us-claims-chinese-ai-companies-core-ai-strategy-is-distilling-american-models/5295171",
-      "summary": "Spooks and CISA point to ‘industrial-scale distillation’ by DeepSeek, Alibaba, and other Chinese players",
-      "published": "Wed, 09 Sep 2026 04:59:20 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=247173&width=800"
-    },
-    {
-      "title": "Microsoft breaks Patch Tuesday record with 974-CVE deluge",
-      "link": "https://www.theregister.com/security/2026/09/09/microsoft-breaks-patch-tuesday-record-with-974-cve-deluge/5295160",
-      "summary": "Adobe also brought goodies to the patch party and they deserve immediate attention",
-      "published": "Wed, 09 Sep 2026 02:25:22 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5295166&width=800"
-    },
-    {
-      "title": "OpenAI GPT-6 Astra will run a retailer without cheating and sell more stuff than Anthropic",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/09/openai-gpt-6-astra-will-run-a-retailer-without-cheating-and-sell-more-stuff-than-anthropic/5295144",
-      "summary": "Vend it like Altman",
-      "published": "Wed, 09 Sep 2026 01:14:17 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5295157&width=800"
-    },
-    {
-      "title": "Google DeepMind rises above the AI scrum with genome atlas",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/08/google-deepmind-rises-above-the-ai-scrum-with-genome-atlas/5295137",
-      "summary": "See, AI can be used for good ... or at the very least, a useful distraction from the bad",
-      "published": "Wed, 09 Sep 2026 00:50:25 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=253558&width=800"
-    },
-    {
-      "title": "OpenAI's Artifactory opened covert data-stealing channel alongside Hugging Face attack",
-      "link": "https://www.theregister.com/security/2026/09/08/openais-artifactory-opened-covert-data-stealing-channel-alongside-hugging-face-attack/5295124",
-      "summary": "Researchers disclosed the cross-account trick the same day rogue agents exploited another zero-day for admin access",
-      "published": "Tue, 08 Sep 2026 23:12:19 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5295128&width=800"
-    },
-    {
-      "title": "LG TV shown scanning LAN for third-party phones and other devices",
-      "link": "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/",
-      "summary": "“It doesn’t cost a lot to store text forever.”",
-      "published": "Tue, 08 Sep 2026 21:52:29 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/TV_OLED83B5PUA_brilliant-lg-oled-picture_features_900x600.jpg"
     },
     {
       "title": "Bizarre Glitch Causes Delivery Robots to Swarm Busy City Sidewalk",
@@ -474,92 +458,108 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/dolly-parton-sister-ai-slop.jpg?quality=85&w=2048"
     },
     {
-      "title": "Someone AI-Generated a Completely Fake Eminem Song That’s Already Gotten 120,000 View on YouTube, Where It’s Appearing More Prominently Than Some of the Rapper’s Actual Music",
-      "link": "https://futurism.com/future-society/ai-fake-eminem-song-viral-youtube",
-      "summary": "<p>This is not the real Slim Shady.</p>\n<p>The post <a href=\"https://futurism.com/future-society/ai-fake-eminem-song-viral-youtube\">Someone AI-Generated a Completely Fake Eminem Song That&#8217;s Already Gotten 120,000 View on YouTube, Where It&#8217;s Appearing More Prominently Than Some of the Rapper&#8217;s Actual Music</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Tue, 08 Sep 2026 11:57:12 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/ai-fake-eminem-song-viral-youtube.jpg?quality=85&w=2048"
+      "title": "Anthropic reveals fourth likely crime committed by its AI",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/10/anthropic-reveals-fourth-likely-crime-committed-by-its-ai/5295412",
+      "summary": "Claude's Felony Bench rap sheet is now as long as OpenAI's",
+      "published": "Thu, 10 Sep 2026 01:20:59 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5295418&width=800"
     },
     {
-      "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
-      "link": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
-      "summary": "Apple is launching a new way to prove that the picture you took isn't manipulated by AI. A new feature, called \"Reference Image,\" will arrive with the iPhone 18 Pro lineup later this month and is supposed to use the device's new camera sensor to \"sign every pixel it sees.\" The iPhone 18 Pro and [&#8230;]",
-      "published": "2026-09-09T15:30:12-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0023.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "title": "Novel Blue Moon kit targeting Chrome and Windows reflects new reality of AI-driven exploits",
+      "link": "https://www.theregister.com/research/2026/09/09/novel-blue-moon-kit-targeting-chrome-and-windows-reflects-new-reality-of-ai-driven-exploits/5295399",
+      "summary": "Mind the patch gap, please and thank you",
+      "published": "Thu, 10 Sep 2026 00:28:53 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5295408&width=800"
     },
     {
-      "title": "iPhone 18 Pro and Pro Max: our first hands-on impressions",
-      "link": "https://www.theverge.com/tech/986400/apple-iphone-18-pro-max-hands-on-impressions-september-2026-event",
-      "summary": "We've just gotten our hands on the iPhone 18 Pro and Pro Max at Apple Park following the company's \"Surprise and shine\" presentation. The new phones look quite similar to the previous iPhone 17 Pro lineup, keeping the same general design, aluminum body, and screen sizes. The 18 Pro lineup comes in four colors: black, [&#8230;]",
-      "published": "2026-09-09T15:26:36-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04256.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+      "published": "Thu, 10 Sep 2026 00:00:37 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2221463618.jpg?resize=1200,800"
     },
     {
-      "title": "Hands-on with the new Apple Watch Series 12 and Apple Watch Ultra 4",
-      "link": "https://www.theverge.com/tech/992568/apple-watch-hands-on-series-12-ultra-4",
-      "summary": "After Apple wrapped up its \"Surprise and shine\" event today, we were able to get a look at the new Apple Watch Series 12 and Ultra 4. Both of the new watches launch September 18th, with preorders available starting today. The Apple Watch Series 12 once again starts at $399 for the aluminum case option [&#8230;]",
-      "published": "2026-09-09T14:53:48-04:00",
+      "title": "There aren’t AirPods with cameras yet and I hope it stays that way",
+      "link": "https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event",
+      "summary": "September Apple events are always a swirl of information and new, exciting products, and today's was no different. Apple announced its first foldable, the iPhone Duo, alongside the iPhone 18 Pro and Pro Max; active noise cancellation (ANC) is now on the cheapest AirPods model, the AirPods 5; and a Siri Recap feature comes to [&#8230;]",
+      "published": "2026-09-09T19:00:04-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_2485.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0108.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Here’s how the new iPhone 18 Pro stacks up to the last-gen models",
-      "link": "https://www.theverge.com/tech/988501/iphone-18-pro-max-spec-comparison-features",
-      "summary": "Apple's release cadence for the latest iPhones is unusual. It'll start with the 18 Pro models, then with the foldable iPhone Duo releasing in October for $1,999. It hasn't confirmed when its base iPhone 18 model will launch. So, this post is focused just on the new the 18 Pro and the 18 Pro Max. [&#8230;]",
-      "published": "2026-09-09T14:53:43-04:00",
+      "title": "The black iPhone Pro returns",
+      "link": "https://www.theverge.com/tech/993048/iphone-18-pro-black-color",
+      "summary": "Apple has seen reason: It has a black model in the iPhone Pro lineup again. Last year, Apple went bold with its colors for the iPhone 17 Pro, offering a flashy orange, a shiny silver, and a dark blue. Don't get me wrong, they looked nice. But there was no black (or dark gray) for [&#8230;]",
+      "published": "2026-09-09T18:37:51-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Apple-iPhone-18-Pro-color-lineup-260909.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_NPatel_0006.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Hands-on with the foldable iPhone Duo",
-      "link": "https://www.theverge.com/tech/991236/iphone-foldable-hands-on-first-impressions",
-      "summary": "The first foldable iPhone is finally here, and following its announcement, we got the chance to try the phone for ourselves. We've long been told that Apple would make a foldable iPhone once the tech was good enough - has it been worth the wait? It definitely feels like something different. The inner screen has [&#8230;]",
-      "published": "2026-09-09T14:38:40-04:00",
+      "title": "The incomplete history of Duo devices",
+      "link": "https://www.theverge.com/tech/992755/apple-iphone-duo-history-of-devices",
+      "summary": "Apple announced the company's first device with a folding screen today, the iPhone Duo, but that's where the firsts end. The Duo is not only far from the first foldable on the market thanks to the efforts of Samsung and Google, but it's also not the first product to be called the Duo. Former Apple [&#8230;]",
+      "published": "2026-09-09T18:23:35-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0017.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/duo6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Apple is raising iPhone prices by $100 on all of its old models",
-      "link": "https://www.theverge.com/tech/992551/apple-iphone-17-17e-air-price-increase",
-      "summary": "Following Apple's \"Surprise and shine\" event that saw the announcement of the iPhone Duo and the iPhone 18 Pro, the company increased the price on all of its last-gen iPhones that are still available for purchase. The iPhone 16 sold for $699 just last week, and now it's up to $799. The iPhone 17E with [&#8230;]",
-      "published": "2026-09-09T14:30:24-04:00",
+      "title": "Automattic CEO Matt Mullenweg placed on leave",
+      "link": "https://www.theverge.com/tech/993022/wordpress-automattic-ceo-matt-mullenweg-leave-of-absence",
+      "summary": "Matt Mullenweg, the CEO of WordPress.com owner Automattic, has been placed on a paid leave of absence, as reported earlier by 404 Media. In an internal message by the outlet, Mullenweg claims Automattic chief financial officer Mark Davies \"conspired\" with board members to place him on leave. \"They voted to put me on a paid [&#8230;]",
+      "published": "2026-09-09T18:15:52-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/iPhoneAirProdCard_00d871.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2181259946.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Apple iPhone Duo launch event: The 5 biggest announcements",
-      "link": "https://www.theverge.com/tech/991965/apple-iphone-duo-launch-event-biggest-announcements",
-      "summary": "Apple just wrapped up its first iPhone launch event with CEO John Ternus at the helm, and it did not disappoint. We got a look at Apple's long-rumored foldable iPhone Duo, along with the next generation of AirPods and the Apple Watch. Here's a roundup of all the biggest announcements from the event. Apple's first [&#8230;]",
-      "published": "2026-09-09T14:24:59-04:00",
+      "title": "It’s the year of smartphone price hikes",
+      "link": "https://www.theverge.com/gadgets/993005/smartphone-price-hikes-apple-iphone-18-pro",
+      "summary": "Paying more for a new phone seems almost unavoidable after Apple's event today. The new iPhone 18 Pro and Pro Max start at $1,199 and $1,299, respectively - a $100 price hike over their predecessors. You can't dodge the price hike by opting for an older iPhone, either, because Apple raised prices on those by [&#8230;]",
+      "published": "2026-09-09T17:52:43-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-event-september-2026-524-11-04-44.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_NPatel_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Apple skips the base iPhone 18 at its fall launch event",
-      "link": "https://www.theverge.com/news/991130/apple-skips-iphone-18-fall-2026-release",
-      "summary": "Apple is taking the unusual step of skipping the base iPhone 18 this fall. At its \"Surprise and shine\" event today, the company revealed the iPhone 18 Pro and Pro Max, alongside the new foldable iPhone Duo. But the base iPhone 18 was a no-show. Rumors had suggested Apple would only launch premium iPhones this [&#8230;]",
-      "published": "2026-09-09T14:19:36-04:00",
+      "title": "Suno releases its first AI music model made with record industry help",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+      "summary": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of data that does not include the same data that our previous models were trained on.\" The data includes content licensed [&#8230;]",
+      "published": "2026-09-09T17:42:19-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257946_iPhone_17_AKrales_0063.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Suno_v6_Main.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Apple brought ceramic back for the Series 12",
-      "link": "https://www.theverge.com/tech/989427/ceramic-apple-watch-series-12-edition",
-      "summary": "The Apple Watch Series 12 is launching with a ceramic option, making it the company's first wearable since 2019's Series 5 that can be configured with the pricey, scratch-resistant material. It can be configured with either pearl white or night blue ceramic finishes, and it starts at $899, going up to $949 if you purchase [&#8230;]",
-      "published": "2026-09-09T14:19:02-04:00",
+      "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+      "summary": "OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable achievement and a striking demonstration of just how rapidly AI is transforming mathematics. But before it was even formally announced, the breakthrough had been complicated by the unusual [&#8230;]",
+      "published": "2026-09-09T17:16:34-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-event-september-2026-379-10-49-53.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292626872.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Apple completely revamped iOS 27&#8217;s controls and apps for the iPhone Duo",
-      "link": "https://www.theverge.com/tech/989294/iphone-ultra-fold-multitasking-ios",
-      "summary": "Obviously, part of the appeal of a foldable phone is all that additional screen real estate. That gives you plenty of room for some serious multitasking that just isn't possible, or at the very least is clunky, on a smaller screen. Apple rarely does things without seriously considering all the implications, so it was never [&#8230;]",
-      "published": "2026-09-09T14:12:22-04:00",
+      "title": "Read the Apple document explaining how new listening features still protect your privacy",
+      "link": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+      "summary": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition. Alongside its announcement, Apple released a document laying out how it plans to balance AI \"ambient listening\" and users' privacy. It says the raw audio from the new [&#8230;]",
+      "published": "2026-09-09T16:44:43-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-event-september-2026-508-11-03-11.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-audio-intelligence-recap-wide.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "How the new Apple Watches compare to the last-gen models",
+      "link": "https://www.theverge.com/gadgets/990508/apple-watch-series-12-ultra-4-spec-comparison",
+      "summary": "Apple rolled out the Apple Watch Series 12 and Apple Watch Ultra 4 at its \"Surprise and shine\" event. The new watches feature sizable improvements to their health sensors and tracking, plus the ability to create brief audio transcriptions and summaries, plus a ceramic case option for the Series 12. Despite the new features, the [&#8230;]",
+      "published": "2026-09-09T16:42:51-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0034.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Verge staffers react to the iPhone Duo: What we love and don’t love",
+      "link": "https://www.theverge.com/tech/992830/apple-iphone-duo-foldable-verge-staffers-react",
+      "summary": "Apple has just announced its first foldable iPhone, the iPhone Duo. The new phone has a 5.4-inch outer screen and a 7.6-inch inner screen, two back cameras, Touch ID for authentication, an IP68 rating, and all sorts of slick software tricks to make iOS feel more at home on the new device. Preorders start on [&#8230;]",
+      "published": "2026-09-09T15:45:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0009.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
