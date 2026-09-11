@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T03:55:54.917287",
+  "lastUpdated": "2026-09-11T10:56:21.573705",
   "articles": [
     {
       "title": "Four groups caught using the same Chrome and Windows exploit kit",
@@ -140,7 +140,7 @@
     {
       "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
       "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
       "published": "Thu, 10 Sep 2026 21:35:00 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Wahlberg-Lee-16x9-Dark.png?resize=1200,675"
@@ -314,14 +314,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Instagram-tagged-posts.png?resize=1200,675"
     },
     {
-      "title": "Nscale swallows lion's share of UK datacenter investment",
-      "link": "https://www.theregister.com/on-prem/2026/09/10/nscale-swallows-lions-share-of-uk-datacenter-investment/5295541",
-      "summary": "Tracxn credits one AI infrastructure outfit with $3.7B of sector's $5.7B haul",
-      "published": "Thu, 10 Sep 2026 16:08:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=236882&width=800"
-    },
-    {
       "title": "Google is making it easier to switch between password managers on Android",
       "link": "https://techcrunch.com/2026/09/10/google-is-making-it-easier-to-switch-between-password-managers-on-android/",
       "summary": "Google's new feature will transfer your passkeys as well.",
@@ -338,28 +330,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/drama-openai-supposed-mathematical-breakthrough.jpg?quality=85&w=2048"
     },
     {
-      "title": "ShinyHunters expose 6.4M in attack on medical supplier McKesson",
-      "link": "https://www.theregister.com/security/2026/09/10/shinyhunters-expose-64m-in-attack-on-medical-supplier-mckesson/5295550",
-      "summary": "Have I Been Pwned logs leaked records spanning patients, staff, and providers",
-      "published": "Thu, 10 Sep 2026 15:13:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=230190&width=800"
-    },
-    {
       "title": "The Boring Company raises $3B in round led by UAE",
       "link": "https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/",
       "summary": "The company said it plans to dig more than 150 kilometers of tunnels in the Middle Eastern country.",
       "published": "Thu, 10 Sep 2026 15:07:27 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1311710604.jpg?resize=1200,770"
-    },
-    {
-      "title": "d-Matrix drinks the Nvidia Kool-Aid with NVLink Fusion and MGX rack designs",
-      "link": "https://www.theregister.com/systems/2026/09/10/d-matrix-drinks-the-nvidia-kool-aid-with-nvlink-fusion-and-mgx-rack-designs/5295403",
-      "summary": "AI infrastructure startup joins Qualcomm, Arm, Marvell, Amazon, Fujitsu, and MediaTek as NVLink true believers",
-      "published": "Thu, 10 Sep 2026 15:00:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5295411&width=800"
     },
     {
       "title": "AI agents are flooding public services with new requests",
@@ -378,14 +354,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/donald-trump-plan-american-adult-5000-midterm-trillion-national-debt.jpg?quality=85&w=2048"
     },
     {
-      "title": "Ministers rejected NATS reimbursement plan before 2,000 UK flights were cancelled",
-      "link": "https://www.theregister.com/public-sector/2026/09/10/ministers-rejected-nats-reimbursement-plan-before-2000-uk-flights-were-cancelled/5295529",
-      "summary": "Government orders independent review as carriers demand boss's resignation",
-      "published": "Thu, 10 Sep 2026 14:28:32 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5288528&width=800"
-    },
-    {
       "title": "LG TVs Caught Secretly Recording Users and Scanning Their Homes For Other Devices, Even When Disconnected From the Internet",
       "link": "https://futurism.com/future-society/lg-secretly-recording-users",
       "summary": "<p>\"You[r] TV is wiretapping your whole house.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/lg-secretly-recording-users\">LG TVs Caught Secretly Recording Users and Scanning Their Homes For Other Devices, Even When Disconnected From the Internet</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -402,28 +370,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/elon-musk-women-breeders-first-marriage-wife_7b2a5b.jpg?quality=85&w=2048"
     },
     {
-      "title": "Trezor, BitBox users targeted in newsletter phishing spree",
-      "link": "https://www.theregister.com/cyber-crime/2026/09/10/trezor-bitbox-users-targeted-in-newsletter-phishing-spree/5295496",
-      "summary": "Attackers exploit legitimate mailing channels to demand crypto wallet backups",
-      "published": "Thu, 10 Sep 2026 13:30:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5240537&width=800"
-    },
-    {
       "title": "CNN Just Ran One of the Worst AI Puff Pieces We’ve Ever Seen in Our Lives About That “AI Actor” Tilly Norwood",
       "link": "https://futurism.com/artificial-intelligence/cnn-puff-piece-ai-actor",
       "summary": "<p>Please make it stop.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/cnn-puff-piece-ai-actor\">CNN Just Ran One of the Worst AI Puff Pieces We&#8217;ve Ever Seen in Our Lives About That &#8220;AI Actor&#8221; Tilly Norwood</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Thu, 10 Sep 2026 12:47:54 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/cnn-puff-piece-ai-actor.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "AI uprising postponed after Copilot falls off the web",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/10/ai-uprising-postponed-after-copilot-falls-off-the-web/5295475",
-      "summary": "Error 1016 kept the chatbot quiet for 100 minutes while a separate resilience drill swallowed suggestion pills",
-      "published": "Thu, 10 Sep 2026 12:30:50 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=1619823&width=800"
     },
     {
       "title": "Artemis II commander and pilot become NASA's first astronaut emeriti",
@@ -466,6 +418,54 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/fire-marshall-horror-bitcoin-mining-center.jpg?quality=85&w=2048"
     },
     {
+      "title": "Digital Research's GEM opens a new window on Linux",
+      "link": "https://www.theregister.com/software/2026/09/11/digital-researchs-gem-opens-a-new-window-on-linux/5295546",
+      "summary": "A radical new way to resolve the Gordian knot of X11 versus Wayland",
+      "published": "Fri, 11 Sep 2026 11:16:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5295554&width=800"
+    },
+    {
+      "title": "BOFH: Oh no! The CMS ate 500 pages of corporate documentation",
+      "link": "https://www.theregister.com/bofh/2026/09/11/bofh-oh-no-the-cms-ate-500-pages-of-corporate-documentation/5295201",
+      "summary": "How could such a terrible tragedy have occurred?",
+      "published": "Fri, 11 Sep 2026 10:31:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5295242&width=800"
+    },
+    {
+      "title": "DeepSeek's new model sets a template for powerful LLMs that run lean",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/11/deepseeks-new-model-sets-a-template-for-powerful-llms-that-run-lean/5295715",
+      "summary": "DeepSeek V4.1 Flash proves that just because you build a bigger model doesn't mean you need more GPUs to serve it",
+      "published": "Fri, 11 Sep 2026 09:15:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=262727&width=800"
+    },
+    {
+      "title": "On Call: Boss wrongly claimed IT deleted his files, refused to learn the one-click fix",
+      "link": "https://www.theregister.com/personal-tech/2026/09/11/on-call-boss-wrongly-claimed-it-deleted-his-files-refused-to-learn-the-one-click-fix/5295448",
+      "summary": "There's no place like the Home directory, but the Documents folder is sometimes nicer",
+      "published": "Fri, 11 Sep 2026 08:30:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5295453&width=800"
+    },
+    {
+      "title": "Microsoft annoints Rust as a 'Tier 1' internal language",
+      "link": "https://www.theregister.com/devops/2026/09/11/microsoft-annoints-rust-as-a-tier-1-internal-language/5295732",
+      "summary": "Redmond's coders get the tool to help them scrub memory bugs off Windows",
+      "published": "Fri, 11 Sep 2026 08:26:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=1682034&width=800"
+    },
+    {
+      "title": "Oracle says AI will save it from the SaaSpocalypse, not bring it on",
+      "link": "https://www.theregister.com/software/2026/09/11/oracle-says-ai-will-save-it-from-the-saaspocalypse-not-bring-it-on/5295736",
+      "summary": "It’s a better interface, can speed installations, and drives IaaS sales too",
+      "published": "Fri, 11 Sep 2026 04:43:10 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5295741&width=800"
+    },
+    {
       "title": "OpenAI arms devs with AI conversation tool that can talk and listen at the same time",
       "link": "https://www.theregister.com/ai-and-ml/2026/09/10/openai-arms-devs-with-ai-conversation-tool-that-can-talk-and-listen-at-the-same-time/5295708",
       "summary": "GPT-Live-1 makes speaking to AI models more fluid",
@@ -480,6 +480,14 @@
       "published": "Fri, 11 Sep 2026 00:38:35 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=225154&width=800"
+    },
+    {
+      "title": "Apple addresses iPhone Duo copycats",
+      "link": "https://www.theverge.com/tech/993795/apple-addresses-iphone-duo-copycats",
+      "summary": "Apple was far from the first company to announce a passport-shaped folding phone this year, but that doesn't mean it wasn't copied. As my colleague Dom Preston already explained, it's almost impossible to keep product development secret when Apple and its competitors all share the same global suppliers. Apple's new CEO John Ternus and head [&#8230;]",
+      "published": "2026-09-11T06:02:58-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2293827608.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Slack can now vibe-code interactive charts and reports inside chats",
@@ -552,14 +560,6 @@
       "published": "2026-09-10T10:34:36-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2277879774.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The iPhone Duo’s hardware doesn’t look special, but its software might be",
-      "link": "https://www.theverge.com/tech/993300/iphone-duo-hardware-software-android-samsung-oppo",
-      "summary": "With the iPhone Duo, Apple has pulled off a familiar trick. It arrives into a mature Android foldable market with a handful of hardware features we've mostly already seen elsewhere, but paired with a level of software polish that makes a lot of them feel new again. It's those software flourishes that have me excited [&#8230;]",
-      "published": "2026-09-10T10:21:38-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
