@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T10:56:21.573705",
+  "lastUpdated": "2026-09-11T16:11:21.516683",
   "articles": [
     {
       "title": "Four groups caught using the same Chrome and Windows exploit kit",
@@ -8,46 +8,6 @@
       "published": "Wed, 09 Sep 2026 20:55:02 +0000",
       "source": "Ars Technica",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg"
-    },
-    {
-      "title": "Europe may finally have found a space entrepreneur who is meeting the moment",
-      "link": "https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/",
-      "summary": "\"We will not be relevant without a massive rocket at a massive cadence.\"",
-      "published": "Wed, 09 Sep 2026 20:27:40 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2237740895-1024x648.jpg"
-    },
-    {
-      "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
-      "link": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
-      "summary": "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models.",
-      "published": "Wed, 09 Sep 2026 20:06:28 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2199506955-1024x648.jpg"
-    },
-    {
-      "title": "Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo",
-      "link": "https://arstechnica.com/gadgets/2026/09/apples-long-rumored-foldable-becomes-reality-with-the-2000-iphone-duo/",
-      "summary": "Apple's first foldable can be yours next month.",
-      "published": "Wed, 09 Sep 2026 19:42:00 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Apple-iPhone-Duo-display-sizes-260909-1152x648.jpg"
-    },
-    {
-      "title": "When it comes to Beatles references, scientists can't let it be",
-      "link": "https://arstechnica.com/science/2026/09/scientists-really-love-to-reference-the-beatles-in-their-work/",
-      "summary": "New study detects 3,200 references to Beatles song titles and lyrics in academic papers.",
-      "published": "Wed, 09 Sep 2026 19:31:55 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/beatles-1152x648.jpg"
-    },
-    {
-      "title": "Lawsuit: Amazon refused to give pregnant workers bathroom breaks and chairs",
-      "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/",
-      "summary": "Four women sue Amazon, say company denied basic accommodations and fired them.",
-      "published": "Wed, 09 Sep 2026 19:09:20 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/amazon-warehouse-1152x648-1788978717.jpg"
     },
     {
       "title": "Man Announces That He Has Synthesized a New Schizophrenia Treatment in His Garage, Based on a Formula Devised by ChatGPT",
@@ -64,38 +24,6 @@
       "published": "Wed, 09 Sep 2026 15:14:15 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/teslas-glitchy-cybercab-accidentally-lets-passengers-access-controls-to-manually-drive.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Numerous Deaths Reported at Burning Man",
-      "link": "https://futurism.com/future-society/numerous-deaths-reported-burning-man",
-      "summary": "<p>It's the most deaths on record for a single year of the festival.</p>\n<p>The post <a href=\"https://futurism.com/future-society/numerous-deaths-reported-burning-man\">Numerous Deaths Reported at Burning Man</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Wed, 09 Sep 2026 13:48:33 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/numerous-deaths-reported-burning-man.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Top NFL Receiver Insists There’s “Another Civilization” Living Deep Under Antarctica",
-      "link": "https://futurism.com/future-society/nfl-receiver-dk-metcalf-conspiracy-theory-hollow-earth-antarctica",
-      "summary": "<p>\"I think it's another world.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/nfl-receiver-dk-metcalf-conspiracy-theory-hollow-earth-antarctica\">Top NFL Receiver Insists There&#8217;s &#8220;Another Civilization&#8221; Living Deep Under Antarctica</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Wed, 09 Sep 2026 13:06:56 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/nfl-receiver-dk-metcalf-conspiracy-theory-hollow-earth-antarctica.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Wait, Did Zuckerberg Just Steal Muse the Band’s Instagram Handle For His New AI?",
-      "link": "https://futurism.com/artificial-intelligence/zuckerberg-meta-muse-handle",
-      "summary": "<p>\"That's genuinely the worst.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/zuckerberg-meta-muse-handle\">Wait, Did Zuckerberg Just Steal Muse the Band&#8217;s Instagram Handle For His New AI?</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Wed, 09 Sep 2026 12:37:21 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/zuckerberg-meta-muse-handle.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Anthropic Was Meant to Be the More Responsible AI Lab. A Terrified Researcher Just Quit, Saying the Company Is Threatening the Survival of Humankind.",
-      "link": "https://futurism.com/artificial-intelligence/anthropic-ai-researcher-quits",
-      "summary": "<p>\"We’re on track for a lot of the most aggressive of these scenarios where by the end of next year things could be out of control already.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/anthropic-ai-researcher-quits\">Anthropic Was Meant to Be the More Responsible AI Lab. A Terrified Researcher Just Quit, Saying the Company Is Threatening the Survival of Humankind.</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Wed, 09 Sep 2026 10:55:29 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/anthropic-ai-researcher-quits.jpg?quality=85&w=2048"
     },
     {
       "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
@@ -170,28 +98,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/linkedin-headquarters-1152x648-1789072079.jpg"
     },
     {
-      "title": "Hundreds of AI agents helped PaperCut attacker hit 395+ orgs, and some went off script",
-      "link": "https://www.theregister.com/security/2026/09/10/hundreds-of-ai-agents-helped-papercut-attacker-hit-395-orgs-and-some-went-off-script/5295650",
-      "summary": "Human operator: don't touch CIS orgs. AI agents: look a squirrel!",
-      "published": "Thu, 10 Sep 2026 20:49:43 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=5224165&width=800"
-    },
-    {
       "title": "Furo’s founders left Silicon Valley — and it’s paying off",
       "link": "https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off/",
       "summary": "The three 28-year-old founders behind energy startup Furo moved from Silicon Valley and back to Germany, and yet secured $4 million in funding from mostly U.S. backers.",
       "published": "Thu, 10 Sep 2026 20:48:00 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/furo-cofounders.jpg?resize=1200,900"
-    },
-    {
-      "title": "OpenAI's website-hijacking swarm reached far further than we thought",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/10/openais-website-hijacking-swarm-reached-far-further-than-we-thought/5295644",
-      "summary": "New report points finger at OpenAI bots that hijacked a German wiki for improper use of an additional 20 websites, and 14 fetching services",
-      "published": "Thu, 10 Sep 2026 20:15:10 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=251199&width=800"
     },
     {
       "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
@@ -226,14 +138,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Proxima-Manufacturing-7.jpg?resize=1200,800"
     },
     {
-      "title": "AI job cuts could come with a costly undo button",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/10/ai-job-cuts-could-come-with-a-costly-undo-button/5295605",
-      "summary": "Gartner reckons nearly a third of displaced employees may be rehired by 2029 – at a premium",
-      "published": "Thu, 10 Sep 2026 18:21:22 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=230952&width=800"
-    },
-    {
       "title": "Panic builds over bankrupt Spirit’s looming data sale to Google",
       "link": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
       "summary": "\"Bankruptcy cannot become the new land grab for AI.”",
@@ -248,14 +152,6 @@
       "published": "Thu, 10 Sep 2026 18:10:36 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/3.-X-Ray-Shop-Tab.png?resize=1200,675"
-    },
-    {
-      "title": "NASA and IBM open source lunar mapping tools",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/10/nasa-and-ibm-open-source-lunar-mapping-tools/5295633",
-      "summary": "Can help you pick the perfect spot for your future evil lair, or boffins make discoveries about Earth's satellite",
-      "published": "Thu, 10 Sep 2026 18:09:12 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=255948&width=800"
     },
     {
       "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
@@ -298,14 +194,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Drone-Nepal-flood-disaster-relief-1152x648.jpg"
     },
     {
-      "title": "Azure SQL Data Sync stops taking newcomers before 2027 execution",
-      "link": "https://www.theregister.com/databases/2026/09/10/azure-sql-data-sync-stops-taking-newcomers-before-2027-execution/5295579",
-      "summary": "Existing customers can carry on for now, but Microsoft offers no like-for-like successor",
-      "published": "Thu, 10 Sep 2026 16:47:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=223152&width=800"
-    },
-    {
       "title": "Instagram’s latest feature lets you add tagged posts to your profile grid",
       "link": "https://techcrunch.com/2026/09/10/instagrams-latest-feature-lets-you-add-tagged-posts-to-your-profile-grid/",
       "summary": "Instagram's newest feature lets users take posts from the Tagged tab and move it to their main profile grid instead.",
@@ -314,36 +202,12 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Instagram-tagged-posts.png?resize=1200,675"
     },
     {
-      "title": "Google is making it easier to switch between password managers on Android",
-      "link": "https://techcrunch.com/2026/09/10/google-is-making-it-easier-to-switch-between-password-managers-on-android/",
-      "summary": "Google's new feature will transfer your passkeys as well.",
-      "published": "Thu, 10 Sep 2026 16:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Hero-Image.jpeg?resize=1200,675"
-    },
-    {
       "title": "OpenAI’s Supposed Mathematical Breakthrough Devolves Into Explosive Drama as Mathematician Accuses It of Stealing His Work",
       "link": "https://futurism.com/artificial-intelligence/drama-openai-supposed-mathematical-breakthrough",
       "summary": "<p>This is ugly.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/drama-openai-supposed-mathematical-breakthrough\">OpenAI&#8217;s Supposed Mathematical Breakthrough Devolves Into Explosive Drama as Mathematician Accuses It of Stealing His Work</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
       "published": "Thu, 10 Sep 2026 15:40:00 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/drama-openai-supposed-mathematical-breakthrough.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "The Boring Company raises $3B in round led by UAE",
-      "link": "https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/",
-      "summary": "The company said it plans to dig more than 150 kilometers of tunnels in the Middle Eastern country.",
-      "published": "Thu, 10 Sep 2026 15:07:27 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1311710604.jpg?resize=1200,770"
-    },
-    {
-      "title": "AI agents are flooding public services with new requests",
-      "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-      "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
-      "published": "Thu, 10 Sep 2026 14:53:50 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2264911748.jpg?resize=1200,705"
     },
     {
       "title": "Trump’s Plan to Give Every American Adult $5,000 After the Midterm Would Add $1.3 Trillion to the National Debt",
@@ -418,12 +282,132 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/fire-marshall-horror-bitcoin-mining-center.jpg?quality=85&w=2048"
     },
     {
+      "title": "Higher prices can't crimp server sales as AI drives demand",
+      "link": "https://www.theregister.com/systems/2026/09/11/higher-prices-cant-crimp-server-sales-as-ai-drives-demand/5295827",
+      "summary": "Shipments rise with enterprise and government buyers joining the hyperscaler spending spree",
+      "published": "Fri, 11 Sep 2026 16:27:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=256253&width=800"
+    },
+    {
+      "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
+      "link": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
+      "summary": "Roblox will allow creator to deploy their games across PC< consoles, and mobile as standalone apps",
+      "published": "Fri, 11 Sep 2026 16:00:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Build_Flow_16x9-EN.jpeg?resize=1200,675"
+    },
+    {
+      "title": "Matt Mullenweg tells Automattic staff in Slack he’s back in control after CEO ouster",
+      "link": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
+      "summary": "In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave. Automattic has not yet confirmed the apparent reversal.",
+      "published": "Fri, 11 Sep 2026 15:19:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg-disrupt.jpg?resize=1200,800"
+    },
+    {
+      "title": "Britain's technology brief is now everyone's job and nobody's responsibility",
+      "link": "https://www.theregister.com/public-sector/2026/09/11/britains-technology-brief-is-now-everyones-job-and-nobodys-responsibility/5295849",
+      "summary": "Whitehall has scattered science, AI, and digital government across a thicket of competing ministerial portfolios",
+      "published": "Fri, 11 Sep 2026 15:12:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=1684464&width=800"
+    },
+    {
+      "title": "Ukrainian lawyer's second career as a Conti coder earns him 4 years behind bars",
+      "link": "https://www.theregister.com/cyber-crime/2026/09/11/ukrainian-lawyers-second-career-as-a-conti-coder-earns-him-4-years-behind-bars/5295841",
+      "summary": "Swapping legal work for malware development ended in extradition and a guilty plea",
+      "published": "Fri, 11 Sep 2026 14:15:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5239008&width=800"
+    },
+    {
+      "title": "EU's Cyber Resilience Act starts the 24-hour vulnerability clock",
+      "link": "https://www.theregister.com/security/2026/09/11/eus-cyber-resilience-act-starts-the-24-hour-vulnerability-clock/5295821",
+      "summary": "Manufacturers must now disclose actively exploited flaws and severe security incidents through ENISA's new reporting platform",
+      "published": "Fri, 11 Sep 2026 13:34:41 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=224872&width=800"
+    },
+    {
+      "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
+      "link": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
+      "summary": "This is the second data breach affecting a company that hardware crypto wallet maker Trezor relies on.",
+      "published": "Fri, 11 Sep 2026 13:32:54 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-887657568.jpg?resize=1200,800"
+    },
+    {
+      "title": "Claude users found ways around safeguards for bioweapons research",
+      "link": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
+      "summary": "Some dangerous biology looks much like legitimate research, complicating AI safeguards.",
+      "published": "Fri, 11 Sep 2026 13:02:35 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg"
+    },
+    {
+      "title": "Union body tells UK government workers must get a say before AI clocks in",
+      "link": "https://www.theregister.com/public-sector/2026/09/11/union-body-tells-uk-government-workers-must-get-a-say-before-ai-clocks-in/5295806",
+      "summary": "TUC warns against letting algorithms call the shots in the workplace",
+      "published": "Fri, 11 Sep 2026 12:35:22 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5231052&width=800"
+    },
+    {
+      "title": "Elon Musk Is So Mad About This New Documentary That He’s Threatening Legal Action",
+      "link": "https://futurism.com/future-society/elon-musk-documentary-legal-action",
+      "summary": "<p>The most secure man alive.</p>\n<p>The post <a href=\"https://futurism.com/future-society/elon-musk-documentary-legal-action\">Elon Musk Is So Mad About This New Documentary That He&#8217;s Threatening Legal Action</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Fri, 11 Sep 2026 11:45:15 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/elon-musk-documentary-legal-action.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "ClickFix attacks infecting PCs and Macs are going viral",
+      "link": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
+      "summary": "Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal.",
+      "published": "Fri, 11 Sep 2026 11:30:58 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-1152x648.jpg"
+    },
+    {
+      "title": "What happens when quantum mechanics and relativity meet?",
+      "link": "https://arstechnica.com/science/2026/09/what-happens-when-quantum-mechanics-and-relativity-meet/",
+      "summary": "Experiment put atoms in a superposition of trajectories to find out.",
+      "published": "Fri, 11 Sep 2026 11:20:02 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2255830341-1152x648.jpg"
+    },
+    {
       "title": "Digital Research's GEM opens a new window on Linux",
       "link": "https://www.theregister.com/software/2026/09/11/digital-researchs-gem-opens-a-new-window-on-linux/5295546",
       "summary": "A radical new way to resolve the Gordian knot of X11 versus Wayland",
       "published": "Fri, 11 Sep 2026 11:16:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5295554&width=800"
+    },
+    {
+      "title": "Could United Launch Alliance's money problems finally force its owners to sell?",
+      "link": "https://arstechnica.com/space/2026/09/could-united-launch-alliances-money-problems-finally-force-its-owners-to-sell/",
+      "summary": "ULA is preparing to resume launching the Vulcan rocket in the coming weeks.",
+      "published": "Fri, 11 Sep 2026 11:00:44 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/54036895665_60be19debd_4k-1152x648.jpg"
+    },
+    {
+      "title": "Rocket Report: Europe joins the commercial launch club; a Ravn X sighting?",
+      "link": "https://arstechnica.com/space/2026/09/rocket-report-europe-joins-the-commercial-launch-club-a-ravn-x-sighting/",
+      "summary": "\"We felt like now is the time to pour gas on that fire.\"",
+      "published": "Fri, 11 Sep 2026 11:00:30 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/c-Isar-Aerospace-Flight-2_2026-09-05-224332_ylbv-1152x648.jpg"
+    },
+    {
+      "title": "Hunter Biden’s $LAPTOP Meme Coin Is Either a National Disgrace or the Funniest Thing He’s Ever Done, and We’re Not Entirely Sure Which",
+      "link": "https://futurism.com/future-society/hunter-biden-laptop-memecoin-crypto-rugpull-national-disgrace",
+      "summary": "<p>\"They turned laptop into a weapon. I turned it into a token.\"</p>\n<p>The post <a href=\"https://futurism.com/future-society/hunter-biden-laptop-memecoin-crypto-rugpull-national-disgrace\">Hunter Biden&#8217;s $LAPTOP Meme Coin Is Either a National Disgrace or the Funniest Thing He&#8217;s Ever Done, and We&#8217;re Not Entirely Sure Which</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Fri, 11 Sep 2026 10:56:42 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/hunter-biden-laptop-meme-coin.jpg?quality=85&w=2048"
     },
     {
       "title": "BOFH: Oh no! The CMS ate 500 pages of corporate documentation",
@@ -434,12 +418,28 @@
       "image_url": "https://image.theregister.com/?imageId=5295242&width=800"
     },
     {
+      "title": "Deranged Stalker Seizes Control of Woman’s Tesla Software to Terrorize Her While Driving",
+      "link": "https://futurism.com/advanced-transport/deranged-stalker-woman-tesla-terrorize",
+      "summary": "<p>\"I am in your car. I am in your maps.\"</p>\n<p>The post <a href=\"https://futurism.com/advanced-transport/deranged-stalker-woman-tesla-terrorize\">Deranged Stalker Seizes Control of Woman&#8217;s Tesla Software to Terrorize Her While Driving</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Fri, 11 Sep 2026 09:54:13 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/deranged-stalker-woman-tesla-terrorize.jpg?quality=85&w=2048"
+    },
+    {
       "title": "DeepSeek's new model sets a template for powerful LLMs that run lean",
       "link": "https://www.theregister.com/ai-and-ml/2026/09/11/deepseeks-new-model-sets-a-template-for-powerful-llms-that-run-lean/5295715",
       "summary": "DeepSeek V4.1 Flash proves that just because you build a bigger model doesn't mean you need more GPUs to serve it",
       "published": "Fri, 11 Sep 2026 09:15:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=262727&width=800"
+    },
+    {
+      "title": "Anthropic Just Revealed That It’s Stopped Foreign Agents From Using Claude to Develop Possible Bioweapons",
+      "link": "https://futurism.com/artificial-intelligence/anthropic-stopped-bioweapons",
+      "summary": "<p>\"A military institution doing gain-of-function research is concerning.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/anthropic-stopped-bioweapons\">Anthropic Just Revealed That It’s Stopped Foreign Agents From Using Claude to Develop Possible Bioweapons</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Fri, 11 Sep 2026 08:36:46 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/anthropic-stopped-agents-claude-bioweapons.jpg?quality=85&w=2048"
     },
     {
       "title": "On Call: Boss wrongly claimed IT deleted his files, refused to learn the one-click fix",
@@ -482,84 +482,84 @@
       "image_url": "https://image.theregister.com/?imageId=225154&width=800"
     },
     {
-      "title": "Apple addresses iPhone Duo copycats",
-      "link": "https://www.theverge.com/tech/993795/apple-addresses-iphone-duo-copycats",
-      "summary": "Apple was far from the first company to announce a passport-shaped folding phone this year, but that doesn't mean it wasn't copied. As my colleague Dom Preston already explained, it's almost impossible to keep product development secret when Apple and its competitors all share the same global suppliers. Apple's new CEO John Ternus and head [&#8230;]",
-      "published": "2026-09-11T06:02:58-04:00",
+      "title": "Meta may have leaked the first look at its slim &#8216;Project Phoenix&#8217; headset",
+      "link": "https://www.theverge.com/tech/994055/meta-project-phoenix-headset-leak",
+      "summary": "Just a couple of weeks before Meta Connect starts on September 23rd, UploadVR posted images seemingly revealing the design for Meta's \"Project Phoenix\" headset. The images, which UploadVR says were \"found in the HorizonOS Prescription Lens firmware package,\" suggest Meta may be looking to compete with devices like those from Xreal or Viture. These companies' [&#8230;]",
+      "published": "2026-09-11T11:38:31-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2293827608.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/rx_attach_thumb.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Slack can now vibe-code interactive charts and reports inside chats",
-      "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
-      "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from relevant conversations and connected apps, like Google Drive or Salesforce, to [&#8230;]",
-      "published": "2026-09-10T17:25:21-04:00",
+      "title": "Where to preorder the Apple AirPods 5",
+      "link": "https://www.theverge.com/gadgets/993637/apple-airpods-5-anc-wireless-charging-preorder-buy",
+      "summary": "The Apple AirPods 5 are bringing active noise cancellation to the masses, and they're now available for preorder at a variety of retailers. They'll officially launch on September 18th, the same day as the Apple Watch Series 12 and Ultra 4, as well as the iPhone 18 Pro and Pro Max. There are two versions [&#8230;]",
+      "published": "2026-09-11T11:31:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_2464.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0046.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Schools are catching on to Big Tech’s playbook",
-      "link": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
-      "summary": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono. That's the narrative AI companies are pitching schools on [&#8230;]",
-      "published": "2026-09-10T15:44:20-04:00",
+      "title": "Anime reaction YouTubers are at war with copyright enforcers",
+      "link": "https://www.theverge.com/tech/993898/nicholaslighttv-remove-your-media-youtube-crunchyroll-viz-media",
+      "summary": "On September 6th, YouTuber Nicholas Light posted a video to one of his channels that made it seem like all of his content was about to be removed from the platform. In the video - ominously titled \"My Channel will be Deleted Today\" - Light alleges that he was on the receiving end of some [&#8230;]",
+      "published": "2026-09-11T11:12:58-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK483_EDUCATION_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268740_Youtuber_account_deleted_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Amazon’s Fire TV Stick 4K is over half off at under $20",
-      "link": "https://www.theverge.com/gadgets/993455/fire-tv-stick-4k-resident-evil-requiem-deal-sale",
-      "summary": "Looking to take full advantage of your 4K television, but your current streaming stick doesn’t have the right features? Through September 13th, you can grab an Amazon Fire TV Stick 4K from Woot for just $16.09 when you use the coupon code FIRE30 at checkout. With support for Wi-Fi 6 and 2GB of memory, it’s [&#8230;]",
-      "published": "2026-09-10T12:58:44-04:00",
+      "title": "The wireless earbuds with unbeatable call quality got their first discount",
+      "link": "https://www.theverge.com/gadgets/993929/soundcore-liberty-5-pro-earbuds-control-resonant-ring-doorbell-deal-sale",
+      "summary": "Anker’s Soundcore Liberty 5 Pro came out swinging in May with incredible call quality, something that competing ear buds have struggled to get right. They’ve become part of our reviewer John Higgins’ rotation of earbuds for more than just taking calls; The Liberty 5 Pro have fantastic audio once you make some tweaks in their [&#8230;]",
+      "published": "2026-09-11T10:43:26-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Amazon-Fire-TV-Stick-4K-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/soundcoreliberty5prodeal.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Electric air taxis get the green light for test flights in Texas",
-      "link": "https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas",
-      "summary": "A new federal program to test the feasibility of electric, hybrid-electric, and autonomous aircraft kicks off today in Texas - before the rules governing this new technology have even been finalized. Earlier this year, the Federal Aviation Administration's Advanced Air Mobility and Electric Vertical Takeoff and Landing (eVTOL) Integration Pilot Program (eIPP) selected eight state-led [&#8230;]",
-      "published": "2026-09-10T12:00:00-04:00",
+      "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+      "link": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+      "summary": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism. In a statement to The Verge, Meta spokesperson Dina El-Kassaby says the company \"missed the mark,\" adding that \"the feature never should [&#8230;]",
+      "published": "2026-09-11T10:25:21-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2273027720.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta-invasive-qs.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Universal Music is launching an AI music platform with ElevenLabs",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
-      "summary": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is developing the platform through a multiyear licensing agreement with ElevenLabs, a company that specializes [&#8230;]",
-      "published": "2026-09-10T11:38:19-04:00",
+      "title": "New York City’s last pickpocket doesn’t need a smartphone",
+      "link": "https://www.theverge.com/entertainment/993875/tiff-2026-the-only-living-pickpocket-in-new-york",
+      "summary": "Hello once again from Toronto, where for a week every year I watch far too many movies and tell you all about them. The festival, better known as TIFF, is always a great preview of the months ahead in film, with a nice mix of mainstream fare, awards contenders, indie surprises, and genre flicks destined [&#8230;]",
+      "published": "2026-09-11T10:15:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/TOLPINY-STILL-Courtesy-of-Sony-Pictures-Classics.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Where to preorder the new Apple Watch Series 12 and Ultra 4",
-      "link": "https://www.theverge.com/gadgets/988579/apple-watch-series-12-5g-ultra-4-preorder-buy",
-      "summary": "The iPhone Duo was the unequivocal star of Apple's \"Surprise and shine\" event, but not for people who were mostly paying attention for news on wearables. Thankfully, Apple had a lot to share about its new Apple Watch Series 12 and Ultra 4. There's no update to the SE model for 2026, which isn't necessarily [&#8230;]",
-      "published": "2026-09-10T11:00:00-04:00",
+      "title": "Why Apple’s next computer should be for the smart home",
+      "link": "https://www.theverge.com/tech/993892/apples-next-computer-smart-home-hub-airport-router",
+      "summary": "John Ternus didn't mention Apple Home once during his first keynote as Apple CEO. But he did open by describing an \"intelligent personal hub\" that prioritizes local processing, protects your privacy, and integrates with all your other devices, apps, and services. While Ternus was talking about the iPhone - not a new smart home device [&#8230;]",
+      "published": "2026-09-11T10:01:55-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0035.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24732441/236707_Mac_Studio_AKrales_0064.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Wolverine on the PS5 goes back to a simpler (and bloodier) style of action game",
-      "link": "https://www.theverge.com/games/992937/wolverine-review-ps5",
-      "summary": "Marvel's Wolverine captures just how angry its lead character is. The latest PS5 exclusive from Spider-Man developer Insomniac, Wolverine is a straightforward action game that is at its best when you're (literally) slicing through enemies or thrust into a sequence pulled from a blockbuster movie, like climbing the fuselage of a plane as it careens [&#8230;]",
-      "published": "2026-09-10T11:00:00-04:00",
+      "title": "Samsung says &#8216;Tim Cook&#8217; bought a Galaxy Fold",
+      "link": "https://www.theverge.com/tech/993928/samsung-tim-cook-galaxy-z-fold-8",
+      "summary": "That isn't Apple's former CEO promoting the Galaxy Z Fold 8 in a new Samsung ad - \"Tim Cook from Palmerston North\" just happens to have the same name and look a lot like him. Released right as Apple announced its iPhone Duo, the ad mimics Apple's cinematic product launch videos, with \"Tim Cook\" saying [&#8230;]",
+      "published": "2026-09-11T09:59:16-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/MW_ExtGameplay_WolverineHero_4k_2026.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/tim-cook-samsung-nz-ad.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Meta’s Muse AI works and creeps me out",
-      "link": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
-      "summary": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, emails, trip-planning, and more. I decided to try out the new tool and see how well it performed - [&#8230;]",
-      "published": "2026-09-10T11:00:00-04:00",
+      "title": "Ikea supersized its cheap Bluetooth speaker and added an optical input",
+      "link": "https://www.theverge.com/tech/993910/ikea-badkruka-wireless-bluetooth-speaker-optical-input",
+      "summary": "Ikea's new Badkruka wireless Bluetooth speaker is now available in the US for $59.99. It's reminiscent of the colorful and tiny $10 Kallsup speaker that Ikea debuted earlier this year at CES 2026, but at almost seven inches tall, the boxy Badkruka isn't designed with portability in mind as it also lacks a rechargeable battery. [&#8230;]",
+      "published": "2026-09-11T09:42:35-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/muse-ai-window.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ikea.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Another big James Talarico interview is punted to YouTube due to FCC threats",
-      "link": "https://www.theverge.com/policy/993383/jimmy-kimmel-fcc-brendan-carr-james-talarico",
-      "summary": "Jimmy Kimmel will be interviewing Democratic Texas Senate candidate James Talarico \"under unusual circumstances,\" posting the interview directly to YouTube, rather than airing it on TV during Jimmy Kimmel Live. In Wednesday night's episode, Kimmel said this was out of concern for retaliation from the Trump administration's FCC: [Trump's] FCC has threatened me, threatened our [&#8230;]",
-      "published": "2026-09-10T10:34:36-04:00",
+      "title": "Arizona’s lifeline for chip manufacturing is drying up",
+      "link": "https://www.theverge.com/science/993522/water-chip-semiconductor-manufacturing-colorado-river",
+      "summary": "Arizona, an epicenter for the bipartisan push to revive American chip manufacturing, is about to lose more than a quarter of the water it typically pulls each year from the Colorado River. The 1,400-mile waterway is a crucial lifeline for the region and other western states. A recent federal decision on how to manage its [&#8230;]",
+      "published": "2026-09-11T08:00:00-04:00",
       "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2277879774.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2293067544.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
