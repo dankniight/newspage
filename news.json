@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T20:40:02.592792",
+  "lastUpdated": "2026-09-11T03:55:54.917287",
   "articles": [
     {
       "title": "Four groups caught using the same Chrome and Windows exploit kit",
@@ -50,22 +50,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/amazon-warehouse-1152x648-1788978717.jpg"
     },
     {
-      "title": "Apple debuts $129 AirPods 5 with better noise cancellation and transparency mode",
-      "link": "https://arstechnica.com/gadgets/2026/09/apple-debuts-129-airpods-5-with-better-noise-cancellation-and-transparency-mode/",
-      "summary": "AirPods 5 with noise cancellation is cheaper than its predecessor.",
-      "published": "Wed, 09 Sep 2026 18:58:24 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/AIrPods-5-1152x648.jpg"
-    },
-    {
-      "title": "Apple starts preorders for Watch Series 12, Ultra 4 with new Health Sensing System",
-      "link": "https://arstechnica.com/gadgets/2026/09/apple-watch-series-12-ultra-4-have-wearables-most-accurate-heart-rate-sensing/",
-      "summary": "New Apple Intelligence features, too.",
-      "published": "Wed, 09 Sep 2026 18:47:07 +0000",
-      "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Apple-Watch-Series-12-readiness-260909-1152x648.jpg"
-    },
-    {
       "title": "Man Announces That He Has Synthesized a New Schizophrenia Treatment in His Garage, Based on a Formula Devised by ChatGPT",
       "link": "https://futurism.com/health-medicine/drug-schizophrenia-treatment-alzheimers-garage-lab-chatgpt",
       "summary": "<p>\"Hello schizophrenic, take this medicine that chatgpt made for you.\"</p>\n<p>The post <a href=\"https://futurism.com/health-medicine/drug-schizophrenia-treatment-alzheimers-garage-lab-chatgpt\">Man Announces That He Has Synthesized a New Schizophrenia Treatment in His Garage, Based on a Formula Devised by ChatGPT</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -114,6 +98,30 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/anthropic-ai-researcher-quits.jpg?quality=85&w=2048"
     },
     {
+      "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
+      "link": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
+      "summary": "Collaborative Fund just bought into D.C. United and its stadium, with  firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.",
+      "published": "Thu, 10 Sep 2026 22:30:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/DC-United.jpg?resize=1200,800"
+    },
+    {
+      "title": "Boy developed \"toasted skin\" condition from using a laptop every day",
+      "link": "https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/",
+      "summary": "Laptops don't usually get hot enough to burn—but they can still be harmful.",
+      "published": "Thu, 10 Sep 2026 22:16:05 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1370964080-1152x648.jpg"
+    },
+    {
+      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+      "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+      "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+      "published": "Thu, 10 Sep 2026 21:51:59 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781"
+    },
+    {
       "title": "Watch out: Apple timepiece can grab snippets of conversation without both speakers' consent",
       "link": "https://www.theregister.com/security/2026/09/10/watch-out-apple-timepiece-can-grab-snippets-of-conversation-without-both-speakers-consent/5295666",
       "summary": "War is peace. Freedom is slavery. Privacy is surveillance",
@@ -130,12 +138,52 @@
       "image_url": "https://image.theregister.com/?imageId=245113&width=800"
     },
     {
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+      "published": "Thu, 10 Sep 2026 21:35:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Wahlberg-Lee-16x9-Dark.png?resize=1200,675"
+    },
+    {
+      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+      "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+      "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+      "published": "Thu, 10 Sep 2026 20:59:51 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800"
+    },
+    {
+      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+      "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+      "published": "Thu, 10 Sep 2026 20:57:30 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.jpg?resize=1200,901"
+    },
+    {
+      "title": "LinkedIn beats \"BrowserGate\" lawsuits over scanning users' Chrome extensions",
+      "link": "https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/",
+      "summary": "Judge tosses lawsuits, says plaintiffs didn't allege any real privacy violation.",
+      "published": "Thu, 10 Sep 2026 20:55:29 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/linkedin-headquarters-1152x648-1789072079.jpg"
+    },
+    {
       "title": "Hundreds of AI agents helped PaperCut attacker hit 395+ orgs, and some went off script",
       "link": "https://www.theregister.com/security/2026/09/10/hundreds-of-ai-agents-helped-papercut-attacker-hit-395-orgs-and-some-went-off-script/5295650",
       "summary": "Human operator: don't touch CIS orgs. AI agents: look a squirrel!",
       "published": "Thu, 10 Sep 2026 20:49:43 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5224165&width=800"
+    },
+    {
+      "title": "Furo’s founders left Silicon Valley — and it’s paying off",
+      "link": "https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off/",
+      "summary": "The three 28-year-old founders behind energy startup Furo moved from Silicon Valley and back to Germany, and yet secured $4 million in funding from mostly U.S. backers.",
+      "published": "Thu, 10 Sep 2026 20:48:00 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/furo-cofounders.jpg?resize=1200,900"
     },
     {
       "title": "OpenAI's website-hijacking swarm reached far further than we thought",
@@ -242,7 +290,7 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/jimmy-kimmel-1152x648-1789058149.jpg"
     },
     {
-      "title": "Drones deliver food and remove bodies after Nepal’s flood disaster",
+      "title": "China’s drone supremacy shows in airlifting bodies and food after Nepal flood disaster",
       "link": "https://arstechnica.com/gadgets/2026/09/drones-deliver-food-and-remove-bodies-after-nepals-flood-disaster/",
       "summary": "DJI drones that already supply Mount Everest camps assist Nepal’s flood relief.",
       "published": "Thu, 10 Sep 2026 16:53:52 +0000",
@@ -330,14 +378,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/donald-trump-plan-american-adult-5000-midterm-trillion-national-debt.jpg?quality=85&w=2048"
     },
     {
-      "title": "Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation",
-      "link": "https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/",
-      "summary": "Bending Spoons is buying Miro for $1.36 billion, a huge dip in valuation for the workplace collaboration startup, which was valued at $17.5 billion in late 2021.",
-      "published": "Thu, 10 Sep 2026 14:34:09 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Miro_Header-2400x1260-copy-1536x806-1.png?resize=1200,630"
-    },
-    {
       "title": "Ministers rejected NATS reimbursement plan before 2,000 UK flights were cancelled",
       "link": "https://www.theregister.com/public-sector/2026/09/10/ministers-rejected-nats-reimbursement-plan-before-2000-uk-flights-were-cancelled/5295529",
       "summary": "Government orders independent review as carriers demand boss's resignation",
@@ -354,14 +394,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/lg-secretly-recording-users.jpg?quality=85&w=2048"
     },
     {
-      "title": "Maven Robotics wants to steal your robot deployment deal",
-      "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
-      "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
-      "published": "Thu, 10 Sep 2026 14:17:37 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Hamza-Khalid-2-1.jpg?resize=800,1200"
-    },
-    {
       "title": "Elon Musk Has Been Calling Women “Breeders” Since His First Marriage, His First Wife Says",
       "link": "https://futurism.com/future-society/elon-musk-women-breeders-first-marriage-wife",
       "summary": "<p>An absolute charmer.</p>\n<p>The post <a href=\"https://futurism.com/future-society/elon-musk-women-breeders-first-marriage-wife\">Elon Musk Has Been Calling Women &#8220;Breeders&#8221; Since His First Marriage, His First Wife Says</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -370,44 +402,12 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/elon-musk-women-breeders-first-marriage-wife_7b2a5b.jpg?quality=85&w=2048"
     },
     {
-      "title": "Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs",
-      "link": "https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/",
-      "summary": "The four-year agreement will cover rice farms across three Indian states, reaching about 100,000 hectares at peak delivery.",
-      "published": "Thu, 10 Sep 2026 13:34:01 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800"
-    },
-    {
       "title": "Trezor, BitBox users targeted in newsletter phishing spree",
       "link": "https://www.theregister.com/cyber-crime/2026/09/10/trezor-bitbox-users-targeted-in-newsletter-phishing-spree/5295496",
       "summary": "Attackers exploit legitimate mailing channels to demand crypto wallet backups",
       "published": "Thu, 10 Sep 2026 13:30:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5240537&width=800"
-    },
-    {
-      "title": "ID verification giant IDScan confirms data breach with more than 150 million driver’s licenses stolen",
-      "link": "https://techcrunch.com/2026/09/10/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen/",
-      "summary": "The ID checking company said the data breach included people's full names and driver's licenses and other government-issued identity documents.",
-      "published": "Thu, 10 Sep 2026 13:21:09 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-681253878.jpg?resize=1200,788"
-    },
-    {
-      "title": "Snapchat takes aim at Partiful with new event-planning features",
-      "link": "https://techcrunch.com/2026/09/10/snapchat-takes-aim-at-partiful-with-new-event-planning-features/",
-      "summary": "Snapchat says the new features can be used to organize everything from birthday celebrations and sporting events to study sessions and weekend hangouts.",
-      "published": "Thu, 10 Sep 2026 13:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200"
-    },
-    {
-      "title": "Defense tech Mach Industries doubles valuation to $3.7B in 3 months",
-      "link": "https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/",
-      "summary": "The buzzy startup raised another $600 million in a Series C extension round, bringing the total of the round to $900 million.",
-      "published": "Thu, 10 Sep 2026 13:00:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/EthanThornton5.jpg?resize=1200,931"
     },
     {
       "title": "CNN Just Ran One of the Worst AI Puff Pieces We’ve Ever Seen in Our Lives About That “AI Actor” Tilly Norwood",
@@ -426,14 +426,6 @@
       "image_url": "https://image.theregister.com/?imageId=1619823&width=800"
     },
     {
-      "title": "German optics giant ditches greenfield SAP migration",
-      "link": "https://www.theregister.com/software/2026/09/10/german-optics-giant-ditches-greenfield-sap-migration/5295251",
-      "summary": "'Realigned' project plan aims to move existing landscape to new platform to 'achieve faster progress'",
-      "published": "Thu, 10 Sep 2026 11:45:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=256250&width=800"
-    },
-    {
       "title": "Artemis II commander and pilot become NASA's first astronaut emeriti",
       "link": "https://arstechnica.com/space/2026/09/artemis-ii-commander-and-pilot-become-nasas-first-astronaut-emeriti/",
       "summary": "\"Artemis II is done.\"",
@@ -448,14 +440,6 @@
       "published": "Thu, 10 Sep 2026 11:08:43 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/economic-problem-tesla-cybercabs.jpg?quality=85&w=2048"
-    },
-    {
-      "title": "Digital sovereignty sounds great until you try ditching your suppliers",
-      "link": "https://www.theregister.com/paas-and-iaas/2026/09/10/digital-sovereignty-sounds-great-until-you-try-ditching-your-suppliers/5294997",
-      "summary": "Most organizations say tech independence is unrealistic – and one in ten can't replace a critical provider at all",
-      "published": "Thu, 10 Sep 2026 11:05:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=233350&width=800"
     },
     {
       "title": "Anthropic Is Building a Huge Surveillance System to Spy on Anti-AI Activists and Predict Their Activities",
@@ -480,6 +464,30 @@
       "published": "Thu, 10 Sep 2026 08:28:36 -0400",
       "source": "Futurism",
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/fire-marshall-horror-bitcoin-mining-center.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "OpenAI arms devs with AI conversation tool that can talk and listen at the same time",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/10/openai-arms-devs-with-ai-conversation-tool-that-can-talk-and-listen-at-the-same-time/5295708",
+      "summary": "GPT-Live-1 makes speaking to AI models more fluid",
+      "published": "Fri, 11 Sep 2026 00:59:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5295712&width=800"
+    },
+    {
+      "title": "Latest Anthropic horror story chills with tales of kamikaze drone swarms and bioweapons research",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/10/latest-anthropic-horror-story-chills-with-tales-of-kamikaze-drone-swarms-and-bioweapons-research/5295702",
+      "summary": "Everyone from ShinyHunters to Russian freelancers is in on the illicit model fun",
+      "published": "Fri, 11 Sep 2026 00:38:35 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=225154&width=800"
+    },
+    {
+      "title": "Slack can now vibe-code interactive charts and reports inside chats",
+      "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+      "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from relevant conversations and connected apps, like Google Drive or Salesforce, to [&#8230;]",
+      "published": "2026-09-10T17:25:21-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_2464.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Schools are catching on to Big Tech’s playbook",
@@ -552,14 +560,6 @@
       "published": "2026-09-10T10:21:38-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "How the iPhone Duo compares to other folding phones",
-      "link": "https://www.theverge.com/gadgets/988542/iphone-duo-foldable-samsung-google-spec-comparison",
-      "summary": "Apple's foldable phone is finally here - well, almost. The iPhone Duo, coming October 23rd, follows in the footsteps of past folding devices from Android phone makers like Samsung, OnePlus, and Google, with a $1,999 price tag that sits just above the Pixel 11 Pro Fold and Galaxy Z Fold 8. While its hardware bears [&#8230;]",
-      "published": "2026-09-10T10:00:00-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
