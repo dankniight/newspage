@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12T03:58:20.888832",
+  "lastUpdated": "2026-09-12T10:23:45.341595",
   "articles": [
     {
       "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
@@ -10,12 +10,20 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/DC-United.jpg?resize=1200,800"
     },
     {
+      "title": "Boy developed \"toasted skin\" condition from using a laptop every day",
+      "link": "https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/",
+      "summary": "Laptops don't usually get hot enough to burn—but they can still be harmful.",
+      "published": "Thu, 10 Sep 2026 22:16:05 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1370964080-1152x648.jpg"
+    },
+    {
       "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
       "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
       "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
       "published": "Thu, 10 Sep 2026 21:51:59 +0000",
       "source": "TechCrunch",
-      "image_url": null
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781"
     },
     {
       "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
@@ -24,6 +32,14 @@
       "published": "Thu, 10 Sep 2026 21:35:00 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Wahlberg-Lee-16x9-Dark.png?resize=1200,675"
+    },
+    {
+      "title": "LinkedIn beats \"BrowserGate\" lawsuits over scanning users' Chrome extensions",
+      "link": "https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/",
+      "summary": "Judge tosses lawsuits, says plaintiffs didn't allege any real privacy violation.",
+      "published": "Thu, 10 Sep 2026 20:55:29 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/linkedin-headquarters-1152x648-1789072079.jpg"
     },
     {
       "title": "OpenAI’s Supposed Mathematical Breakthrough Devolves Into Explosive Drama as Mathematician Accuses It of Stealing His Work",
@@ -74,12 +90,20 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/economic-problem-tesla-cybercabs.jpg?quality=85&w=2048"
     },
     {
-      "title": "Anthropic Is Building a Huge Surveillance System to Spy on Anti-AI Activists and Predict Their Activities",
-      "link": "https://futurism.com/artificial-intelligence/anthropic-surveillance-predictive-system-spy-ai-activists",
-      "summary": "<p>\"What could have been a high-stress situation was really mitigated through early detection.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/anthropic-surveillance-predictive-system-spy-ai-activists\">Anthropic Is Building a Huge Surveillance System to Spy on Anti-AI Activists and Predict Their Activities</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Thu, 10 Sep 2026 10:43:14 -0400",
+      "title": "The aircraft might not be flying, but the certificate has gone on vacation",
+      "link": "https://www.theregister.com/offbeat/2026/09/12/the-aircraft-might-not-be-flying-but-the-certificate-has-gone-on-vacation/5295622",
+      "summary": "Information is not forthcoming from this screen",
+      "published": "Sat, 12 Sep 2026 11:00:00 +0200",
+      "source": "The Register",
+      "image_url": "https://image.theregister.com/?imageId=5295625&width=800"
+    },
+    {
+      "title": "Support for Unions Is Spiking as AI Threatens Jobs",
+      "link": "https://futurism.com/artificial-intelligence/labor-union-support-gallup-ai-automation",
+      "summary": "<p>America's approval of organized labor is higher than it's been since 1965.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/labor-union-support-gallup-ai-automation\">Support for Unions Is Spiking as AI Threatens Jobs</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Sat, 12 Sep 2026 06:03:00 -0400",
       "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/anthropic-surveillance-predictive-system-spy-ai-activists.jpg?quality=85&w=2048"
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/labor-union-support-gallup-ai-automation.jpg?quality=85&w=2048"
     },
     {
       "title": "AI more likely to kill animals if it saves fuel or money",
@@ -90,6 +114,14 @@
       "image_url": "https://image.theregister.com/?imageId=5296007&width=800"
     },
     {
+      "title": "Some satellite companies still have an appetite for boutique launch services",
+      "link": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
+      "summary": "\"Dedicated launch is pretty essential for us for most of our missions.\"",
+      "published": "Fri, 11 Sep 2026 23:34:45 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Engine3-1152x648.jpg"
+    },
+    {
       "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
       "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
       "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
@@ -98,12 +130,28 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857"
     },
     {
+      "title": "Random rewards enrich classic game-theory insights",
+      "link": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
+      "summary": "Simple games gain rich strategies in the face of noise.",
+      "published": "Fri, 11 Sep 2026 21:41:16 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2294031830-1024x648.jpg"
+    },
+    {
       "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
       "link": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
       "summary": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
       "published": "Fri, 11 Sep 2026 21:19:05 +0000",
       "source": "TechCrunch",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Keith-Rabois.jpg?resize=1200,896"
+    },
+    {
+      "title": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
+      "link": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/",
+      "summary": "The strain lurking in the inflatable structure was hypervirulent.",
+      "published": "Fri, 11 Sep 2026 21:14:26 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2233742597-1152x648.jpg"
     },
     {
       "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
@@ -130,6 +178,14 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/Exhibit-Early-Stage.jpg?resize=1200,800"
     },
     {
+      "title": "Trump's forced coal plant extensions thrown out by judge",
+      "link": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/",
+      "summary": "The Department of Energy declared an \"emergency\" when none existed.",
+      "published": "Fri, 11 Sep 2026 20:32:59 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2225114161.jpg"
+    },
+    {
       "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
       "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
       "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
@@ -154,6 +210,14 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286500505.jpg?resize=1200,800"
     },
     {
+      "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+      "link": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
+      "summary": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says.",
+      "published": "Fri, 11 Sep 2026 19:34:09 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chatgpt-icon-1152x648-1789154124.jpg"
+    },
+    {
       "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
       "link": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
       "summary": "At its annual Roblox Developer Conference (RDC), the company announced several new features, including new game-creation tools, expanded NPC capabilities, and the ability to make games available across platforms, including the web.",
@@ -176,6 +240,22 @@
       "published": "Fri, 11 Sep 2026 18:50:01 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5295940&width=800"
+    },
+    {
+      "title": "Scientists unlock secrets of ancient Egyptian materials with proteomics",
+      "link": "https://arstechnica.com/science/2026/09/scientists-unlock-secrets-of-ancient-egyptian-materials-with-proteomics/",
+      "summary": "Analysis revealed seed proteins from sesame and moringa, which held religious and symbolic significance.",
+      "published": "Fri, 11 Sep 2026 18:49:39 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/egypt1-1-1152x648.jpg"
+    },
+    {
+      "title": "Oracle tries to appease Stargate data center opponents with renewables push",
+      "link": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
+      "summary": "Renewables pledge won’t change the Oracle and OpenAI data center’s use of gas.",
+      "published": "Fri, 11 Sep 2026 18:22:22 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Project-Jupiter-data-center-construction-July-2026-1152x648.png"
     },
     {
       "title": "Disembodied fruit fly brain joins the crypto speculation swarm",
@@ -208,6 +288,14 @@
       "published": "Fri, 11 Sep 2026 16:27:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=256253&width=800"
+    },
+    {
+      "title": "NASA moving at warp speed to set up US Space Academy",
+      "link": "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/",
+      "summary": "NASA asks US states to show them the money.",
+      "published": "Fri, 11 Sep 2026 16:20:43 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2291885998-1152x648-1789141845.jpg"
     },
     {
       "title": "Lawyers Already Lining Up to Defend Victims of Cybercab Crashes",
@@ -282,6 +370,14 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/meta-creepy-ai-chatbot-muse.jpg?quality=85&w=2048"
     },
     {
+      "title": "Claude users found ways around safeguards for bioweapons research",
+      "link": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
+      "summary": "Some dangerous biology looks much like legitimate research, complicating AI safeguards.",
+      "published": "Fri, 11 Sep 2026 13:02:35 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg"
+    },
+    {
       "title": "Union body tells UK government workers must get a say before AI clocks in",
       "link": "https://www.theregister.com/public-sector/2026/09/11/union-body-tells-uk-government-workers-must-get-a-say-before-ai-clocks-in/5295806",
       "summary": "TUC warns against letting algorithms call the shots in the workplace",
@@ -298,12 +394,44 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/elon-musk-documentary-legal-action.jpg?quality=85&w=2048"
     },
     {
+      "title": "ClickFix attacks infecting PCs and Macs are going viral",
+      "link": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
+      "summary": "Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal.",
+      "published": "Fri, 11 Sep 2026 11:30:58 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-1152x648.jpg"
+    },
+    {
+      "title": "What happens when quantum mechanics and relativity meet?",
+      "link": "https://arstechnica.com/science/2026/09/what-happens-when-quantum-mechanics-and-relativity-meet/",
+      "summary": "Experiment put atoms in a superposition of trajectories to find out.",
+      "published": "Fri, 11 Sep 2026 11:20:02 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2255830341-1152x648.jpg"
+    },
+    {
       "title": "Digital Research's GEM opens a new window on Linux",
       "link": "https://www.theregister.com/software/2026/09/11/digital-researchs-gem-opens-a-new-window-on-linux/5295546",
       "summary": "A radical new way to resolve the Gordian knot of X11 versus Wayland",
       "published": "Fri, 11 Sep 2026 11:16:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5295554&width=800"
+    },
+    {
+      "title": "Could United Launch Alliance's money problems finally force its owners to sell?",
+      "link": "https://arstechnica.com/space/2026/09/could-united-launch-alliances-money-problems-finally-force-its-owners-to-sell/",
+      "summary": "ULA is preparing to resume launching the Vulcan rocket in the coming weeks.",
+      "published": "Fri, 11 Sep 2026 11:00:44 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/54036895665_60be19debd_4k-1152x648.jpg"
+    },
+    {
+      "title": "Rocket Report: Europe joins the commercial launch club; a Ravn X sighting?",
+      "link": "https://arstechnica.com/space/2026/09/rocket-report-europe-joins-the-commercial-launch-club-a-ravn-x-sighting/",
+      "summary": "\"We felt like now is the time to pour gas on that fire.\"",
+      "published": "Fri, 11 Sep 2026 11:00:30 +0000",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/c-Isar-Aerospace-Flight-2_2026-09-05-224332_ylbv-1152x648.jpg"
     },
     {
       "title": "Hunter Biden’s $LAPTOP Meme Coin Is Either a National Disgrace or the Funniest Thing He’s Ever Done, and We’re Not Entirely Sure Which",
@@ -352,14 +480,6 @@
       "published": "Fri, 11 Sep 2026 08:30:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=5295453&width=800"
-    },
-    {
-      "title": "Microsoft annoints Rust as a 'Tier 1' internal language",
-      "link": "https://www.theregister.com/devops/2026/09/11/microsoft-annoints-rust-as-a-tier-1-internal-language/5295732",
-      "summary": "Redmond's coders get the tool to help them scrub memory bugs off Windows",
-      "published": "Fri, 11 Sep 2026 08:26:00 +0200",
-      "source": "The Register",
-      "image_url": "https://image.theregister.com/?imageId=1682034&width=800"
     },
     {
       "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
