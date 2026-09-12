@@ -1,14 +1,6 @@
 {
-  "lastUpdated": "2026-09-12T15:18:46.627756",
+  "lastUpdated": "2026-09-12T20:23:07.903683",
   "articles": [
-    {
-      "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
-      "link": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
-      "summary": "Collaborative Fund just bought into D.C. United and its stadium, with  firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.",
-      "published": "Thu, 10 Sep 2026 22:30:00 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/DC-United.jpg?resize=1200,800"
-    },
     {
       "title": "Boy developed \"toasted skin\" condition from using a laptop every day",
       "link": "https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/",
@@ -18,20 +10,28 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1370964080-1152x648.jpg"
     },
     {
-      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-      "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-      "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
-      "published": "Thu, 10 Sep 2026 21:51:59 +0000",
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "published": "Sat, 12 Sep 2026 20:19:16 +0000",
       "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781"
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2198353376.jpg?resize=1200,800"
     },
     {
-      "title": "OpenAI’s Supposed Mathematical Breakthrough Devolves Into Explosive Drama as Mathematician Accuses It of Stealing His Work",
-      "link": "https://futurism.com/artificial-intelligence/drama-openai-supposed-mathematical-breakthrough",
-      "summary": "<p>This is ugly.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/drama-openai-supposed-mathematical-breakthrough\">OpenAI&#8217;s Supposed Mathematical Breakthrough Devolves Into Explosive Drama as Mathematician Accuses It of Stealing His Work</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Thu, 10 Sep 2026 15:40:00 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/drama-openai-supposed-mathematical-breakthrough.jpg?quality=85&w=2048"
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+      "published": "Sat, 12 Sep 2026 19:34:44 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024"
+    },
+    {
+      "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
+      "link": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
+      "summary": "Tesla’s halo sports car was first announced in November 2017.",
+      "published": "Sat, 12 Sep 2026 19:21:19 +0000",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/tesla-roadster-2.jpg?resize=1200,822"
     },
     {
       "title": "Nvidia's Groq acquihire is on the DOJ's radar, but it's already too late",
@@ -50,12 +50,36 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/revolut.png?resize=1200,629"
     },
     {
+      "title": "Aging Congress Is Completely Ill-Equipped to Regulate AI, or Seemingly Even Understand It",
+      "link": "https://futurism.com/artificial-intelligence/aging-congress-ai",
+      "summary": "<p>\"There is a percentage of my colleagues who are still trying to spell AI.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/aging-congress-ai\">Aging Congress Is Completely Ill-Equipped to Regulate AI, or Seemingly Even Understand It</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Sat, 12 Sep 2026 14:01:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/aging-congress-ai.jpg?quality=85&w=2048"
+    },
+    {
       "title": "Dell's 52-inch enormo-monitor is a tsunami of impractical fun",
       "link": "https://www.theregister.com/personal-tech/2026/09/12/dells-52-inch-enormo-monitor-is-a-tsunami-of-impractical-fun/5290753",
       "summary": "You probably don't need it, but as an example of the possible it impresses",
       "published": "Sat, 12 Sep 2026 13:20:00 +0200",
       "source": "The Register",
       "image_url": "https://image.theregister.com/?imageId=4093826&width=800"
+    },
+    {
+      "title": "Earth May Have Had a Larger Cousin that the Sun Devoured",
+      "link": "https://futurism.com/space/earth-may-have-had-a-larger-cousin-that-the-sun-devourted",
+      "summary": "<p>The Sun may have a few skeletons in the closet.</p>\n<p>The post <a href=\"https://futurism.com/space/earth-may-have-had-a-larger-cousin-that-the-sun-devourted\">Earth May Have Had a Larger Cousin that the Sun Devoured</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Sat, 12 Sep 2026 13:01:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/earth-larger-cousin-sun.jpg?quality=85&w=2048"
+    },
+    {
+      "title": "GLP-1 Users Are Being Cruelly Shamed by Their Own Families",
+      "link": "https://futurism.com/health-medicine/glp-1-users-cruelly-shamed-families",
+      "summary": "<p>\"This has been a life-changing drug so far, and I can't share it with the person I'm closest with.\"</p>\n<p>The post <a href=\"https://futurism.com/health-medicine/glp-1-users-cruelly-shamed-families\">GLP-1 Users Are Being Cruelly Shamed by Their Own Families</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
+      "published": "Sat, 12 Sep 2026 12:01:00 -0400",
+      "source": "Futurism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/glp-1-users-cruelly-shamed-families.jpg?quality=85&w=2048"
     },
     {
       "title": "College Students Using AI to Cheat Are Going to Absurd Lengths to Avoid Detection",
@@ -370,14 +394,6 @@
       "image_url": "https://image.theregister.com/?imageId=224872&width=800"
     },
     {
-      "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
-      "link": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
-      "summary": "This is the second data breach affecting a company that hardware crypto wallet maker Trezor relies on.",
-      "published": "Fri, 11 Sep 2026 13:32:54 +0000",
-      "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-887657568.jpg?resize=1200,800"
-    },
-    {
       "title": "Meta Releases Uber-Creepy AI Chatbot as Its Platforms Crumble Under Grotesque Child Abuse",
       "link": "https://futurism.com/artificial-intelligence/meta-creepy-ai-chatbot-muse",
       "summary": "<p>Stay far away.</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/meta-creepy-ai-chatbot-muse\">Meta Releases Uber-Creepy AI Chatbot as Its Platforms Crumble Under Grotesque Child Abuse</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
@@ -466,20 +482,28 @@
       "image_url": "https://image.theregister.com/?imageId=5295242&width=800"
     },
     {
-      "title": "Deranged Stalker Seizes Control of Woman’s Tesla Software to Terrorize Her While Driving",
-      "link": "https://futurism.com/advanced-transport/deranged-stalker-woman-tesla-terrorize",
-      "summary": "<p>\"I am in your car. I am in your maps.\"</p>\n<p>The post <a href=\"https://futurism.com/advanced-transport/deranged-stalker-woman-tesla-terrorize\">Deranged Stalker Seizes Control of Woman&#8217;s Tesla Software to Terrorize Her While Driving</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Fri, 11 Sep 2026 09:54:13 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/deranged-stalker-woman-tesla-terrorize.jpg?quality=85&w=2048"
+      "title": "Sylvan Esso think you should splurge on good-quality yogurt",
+      "link": "https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music",
+      "summary": "Amelia Meath and Nick Sanborn, better known as Sylvan Esso, have been bringing their low-key electro-pop to the masses since 2014, bursting onto the scene with their self-titled debut album and the single \"Hey Mami.\" Over the years, they've put out a number of excellent records, dabbling in dustier, more fragile textures on Free Love, [&#8230;]",
+      "published": "2026-09-12T12:35:00-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Sylvan_Esso_-_Ow__-_Photo_By_Tonje_Thilesen.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "title": "Anthropic Just Revealed That It’s Stopped Foreign Agents From Using Claude to Develop Possible Bioweapons",
-      "link": "https://futurism.com/artificial-intelligence/anthropic-stopped-bioweapons",
-      "summary": "<p>\"A military institution doing gain-of-function research is concerning.\"</p>\n<p>The post <a href=\"https://futurism.com/artificial-intelligence/anthropic-stopped-bioweapons\">Anthropic Just Revealed That It’s Stopped Foreign Agents From Using Claude to Develop Possible Bioweapons</a> appeared first on <a href=\"https://futurism.com\">Futurism</a>.</p>",
-      "published": "Fri, 11 Sep 2026 08:36:46 -0400",
-      "source": "Futurism",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/anthropic-stopped-agents-claude-bioweapons.jpg?quality=85&w=2048"
+      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+      "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow [&#8230;]",
+      "published": "2026-09-12T12:23:40-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "LG responds to TV spying allegations",
+      "link": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
+      "summary": "Earlier this week, Gamers Nexus, Level1Techs, and independent security researchers detailed some alarming findings about how LG's TVs are logging and uploading data on its users. Now the company is pushing back against those allegations, saying that \"Some recent media coverage may have contributed to misconceptions about how LG smart TVs work.\" LG released a [&#8230;]",
+      "published": "2026-09-12T11:19:44-04:00",
+      "source": "The Verge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/LG-B4-Press-Image-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Trump is giving data centers a pass to pollute",
@@ -536,30 +560,6 @@
       "published": "2026-09-11T12:22:24-04:00",
       "source": "The Verge",
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRG_VST_0911_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "The White House says Truth Social is the ‘most powerful and popular social media platform in the world’",
-      "link": "https://www.theverge.com/policy/994072/white-house-truth-social-popular-powerful",
-      "summary": "The White House claims the Donald Trump-owned Truth Social is the \"most powerful and popular social media platform in the world.\" The statement, provided to The New York Times by White House spokesperson Davis Ingle, is at odds with the user counts from some of the biggest social media platforms on the web. Data gathered [&#8230;]",
-      "published": "2026-09-11T12:21:19-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2294426899.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Anthropic spent this week in hot water over cybersecurity",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
-      "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents displaying what Anthropic deems its models' single-minded \"recklessness\" - and will likely fuel already raging concerns about cybersecurity and AI. [&#8230;]",
-      "published": "2026-09-11T12:09:14-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "title": "Microsoft’s head of comms is leaving after almost 20 years",
-      "link": "https://www.theverge.com/news/993791/microsoft-frank-shaw-leaving-head-of-comms",
-      "summary": "Frank Shaw is leaving Microsoft after 17 years as chief communications officer. In an internal note to his team, Shaw says he's \"decided it is time for me to move on and try new things,\" after supporting Microsoft's communications for 29 years - nearly 20 years as a Microsoft employee plus time at the Waggener [&#8230;]",
-      "published": "2026-09-11T12:01:34-04:00",
-      "source": "The Verge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/frankshaw.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
